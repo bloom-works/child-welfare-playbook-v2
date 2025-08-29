@@ -30,6 +30,4 @@ Children and youth are often placed in general foster care or group homes when t
 
 During the COVID-19 pandemic, **Rhode Island** set up Zoom meetings with each group home facility and met with each child or youth 1-on-1 to discuss their placement options. They successfully moved many children and youth from group homes into kin placements.
 
-**Fairfax County, Virginia** conducts family finding for children and youth annually and at every placement change.
-
-[](https://childwelfareplaybook.com/recommendations/use-heart-map)
+**Fairfax County, Virginia** conducts family finding for children and youth annually and at every placement change[](https://childwelfareplaybook.com/recommendations/use-heart-map)
