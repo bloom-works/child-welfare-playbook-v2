@@ -109,6 +109,8 @@ export default async function(eleventyConfig) {
 
   const topicList = getTopics();
 
+  console.log(topicList);
+
   for (const topic in topicList) {
     eleventyConfig.addCollection(`${topicList[topic]}-strategies`, collectionsApi => {
       return collectionsApi.getFilteredByTags('strategy', `${topicList[topic]}`).sort((a, b) => a.data.order - b.data.order);
