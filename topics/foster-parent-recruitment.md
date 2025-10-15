@@ -3,6 +3,7 @@ layout: layouts/topic.njk
 templateEngineOverride: md,njk
 title: Foster parent recruitment
 id: recruitment
+permalink: /recruitment/
 order: "6"
 icon: binoculars
 redirectFrom:
