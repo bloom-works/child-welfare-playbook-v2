@@ -2,7 +2,7 @@
 layout: layouts/meeting.njk
 templateEngineOverride: md,njk
 meetingType: Working group meeting
-title: Oct 23, 2025
+title: October 23, 2025
 youtubeId: WawLMbmD8_U
 tags:
   - meeting
