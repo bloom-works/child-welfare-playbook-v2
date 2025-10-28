@@ -2,14 +2,14 @@
 layout: layouts/story.njk
 templateEngineOverride: md,njk
 title: Designing the new Child Welfare Playbook
-description: We spent 10 months rebuilding of the Child Welfare Playbook, and
+description: We spent ten months rebuilding of the Child Welfare Playbook, and
   we're so excited to share it with you.
 author: Bloom Works
 date: 2025-09-12
-type: story
 storyType: Blog post
 tags:
   - story
+type: story
 ---
 We spent 10 months rebuilding of the Child Welfare Playbook, and we're so excited to share it with you.
 
