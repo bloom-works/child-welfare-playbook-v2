@@ -1,7 +1,7 @@
 ---
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
-title: Affirming resource family personae
+title: Affirming resource family persona
 filetype: pdf
 file: /images/bloom-affirming-resource-family-personae.pdf
 tags:
