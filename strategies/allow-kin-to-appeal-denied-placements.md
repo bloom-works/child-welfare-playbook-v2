@@ -1,7 +1,7 @@
 ---
 layout: layouts/strategy.njk
 templateEngineOverride: md,njk
-title: Allow kin to appeal denied placements
+title: Allow kin to appeal denied placement
 permalink: ""
 tags:
   - strategy
