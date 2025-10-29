@@ -58,7 +58,6 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./fonts/");
   eleventyConfig.addPassthroughCopy("./images/");
   eleventyConfig.addPassthroughCopy("./js/");
-  eleventyConfig.addPassthroughCopy("./admin/");
 
   eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents));
 
@@ -76,7 +75,8 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addPlugin(svgSprite, {
     path: "./icons", // relative path to SVG directory
-    svgShortcode: "icon"
+    svgShortcode: "icon",
+    outputFilepath: "./_site/admin/icons.svg"
   });
 
   // Human-readable dates

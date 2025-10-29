@@ -90,7 +90,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
     const currentTypeFilter = activeFilters.pageType;
     const resultPane = document.createElement("div");
 
-    const currentQuery = (searchType === "reset") ? null : (searchInput.value || null);
+    const currentQuery = (searchType === "reset" || !searchInput.value) ? null : searchInput.value;
 
     // Search with no filters applied (to determine which topic
     // and page type filters we should show and hide)
@@ -195,6 +195,12 @@ window.addEventListener('DOMContentLoaded', async (e) => {
     allResultsCount = unfilteredSearch.results.length;
     matchingResultsCount = (!currentTopicFilter && !currentTypeFilter) ? allResultsCount : search.results.length;
 
+    if (searchType === "reset") {
+      for (const filter of allFilters) {
+        filter.hidden = false;
+      }
+    }
+
     if (isNotSearching) {
       replaceResultsWith(blankTemplate);
     } else {
@@ -244,9 +250,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
           let filteredCount = undefined;
 
 
-          if (unfilteredSearch.filters[filterType] && searchType === "query") {
-            filteredCount = search.filters[filterType][filterName];
-          } else if (search.filters[filterType]) {
+          if (search.filters[filterType]) {
             filteredCount = search.totalFilters[filterType][filterName];
           }
 
@@ -255,10 +259,6 @@ window.addEventListener('DOMContentLoaded', async (e) => {
           } else {
             filter.hidden = true;
           }
-        }
-      } else if (searchType === "reset") {
-        for (const filter of allFilters) {
-          filter.hidden = false;
         }
       }
     }
@@ -309,7 +309,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
 
       activeFilters.topics.any = topicArray;
 
-      for (let i in topicArray) {
+      for (const i in topicArray) {
         const topicInput = document.querySelector(`[data-filter-name="${topicArray[i]}"]`);
         topicInput.checked = true;
       }
@@ -323,7 +323,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
 
       activeFilters.pageType.any = pageTypeArray;
 
-      for (let i in pageTypeArray) {
+      for (const i in pageTypeArray) {
         const typeInput = document.querySelector(`[data-filter-name="${pageTypeArray[i]}"]`);
         typeInput.checked = true;
       }
@@ -335,7 +335,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   }
 
   // Click event listeners
-  loadMoreButton.addEventListener('click', async (e) => {
+  loadMoreButton.addEventListener('click', async () => {
     pageCount += 1;
 
     updateSearch("paginate");
@@ -350,10 +350,8 @@ window.addEventListener('DOMContentLoaded', async (e) => {
 
   searchReset.addEventListener("click", async (e) => {
     e.target.hidden = true;
-
     pageCount = 1;
-
-    updateSearch("reset", true);
+    updateSearch("reset");
   });
 
   typeReset.addEventListener("click", async (e) => {
@@ -366,8 +364,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       const input = filter.querySelector("input");
       input.checked = false;
     }
-
-    updateSearch("query");
+    updateSearch(searchInput.value ? "query" : "type");
   });
 
   topicReset.addEventListener("click", async (e) => {
@@ -381,7 +378,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       input.checked = false;
     }
 
-    updateSearch("query");
+    updateSearch(searchInput.value ? "query" : "topic");
   });
 
 
