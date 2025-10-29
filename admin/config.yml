@@ -35,12 +35,14 @@ collections:
         file: "_data/search.yml"
         fields:
           - { label: "Title", name: "title", widget: "string", required: false }
-          - { label: "Meta description", name: "metaDescription", widget: "string", required: false }
-          - { label: "Banner subheader", name: "pageDescription", widget: "markdown", minimal: true, required: false }
+          - { label: "Meta description", name: "description", widget: "string", required: false }
+          - { label: "Banner subheader", name: "subheader", widget: "markdown", minimal: true, required: false }
           - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
       - label: "Meetings and dashboard page meta descriptions"
         name: "meetingsDashboards"
         file: "_data/meetingsDashboards.yml"
+        editor:
+          preview: false
         fields:
           - { label: "Meetings page meta description", name: "meetingsMetaDescription", widget: "string", required: false }
           - { label: "Dashboards page meta description", name: "dashboardsMetaDescription", widget: "string", required: false }
@@ -71,10 +73,10 @@ collections:
       - { label: "Name of topic", name: "title", widget: "string" }
       - { label: "ID", name: "id", widget: "string" }
       - { label: "URL", name: "permalink", widget: "string", required: false }
-      - { label: "Order", name: "order", widget: "string", required: false }
+      - { label: "Order", name: "order", widget: "string", required: false, hint: "This is the sequence in which topics will appear on the homepage." }
       - { label: "Icon", name: "icon", widget: "string" }
       - { label: "Introduction", name: "body", widget: "markdown" }
-      - { label: "Summary", name: "summary", hint: "For search engines and the topic card that appears in the homepage."}
+      - { label: "Summary", name: "summary", hint: "For search engines and the topic card on the homepage."}
       - { label: "Related topics", required: false, name: "related", widget: "relation", collection: "topics", value_field: "id", search_fields: ["title", "id"], multiple: true}
       - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
   - name: "strategies"
