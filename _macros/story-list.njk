@@ -17,14 +17,14 @@ eleventyExcludeFromCollections: true
   {%- for item in collections.stories -%}
     {%- if item.data.title === relatedStory -%}
       {{ storyCard({
-          image: story.data.image,
-          type: story.data.storyType,
-          title: story.data.title,
-          description: story.data.description,
-          author: story.data.author,
-          date: story.date,
+          image: item.data.image,
+          type: item.data.storyType,
+          title: item.data.title,
+          description: item.data.description,
+          author: item.data.author,
+          date: item.date,
           featured: false,
-          url: story.url
+          url: item.url
         })
       }}
     {%- endif -%}

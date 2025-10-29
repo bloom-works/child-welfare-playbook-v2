@@ -76,7 +76,8 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addPlugin(svgSprite, {
     path: "./icons", // relative path to SVG directory
-    svgShortcode: "icon"
+    svgShortcode: "icon",
+    outputFilepath: "./_site/admin/icons.svg"
   });
 
   // Human-readable dates

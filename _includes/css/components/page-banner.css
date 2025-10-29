@@ -90,7 +90,7 @@
 
 .page-banner :is(h1, .h1) {
   text-align: left;
-  max-inline-size: 38ch;
+  max-inline-size: 20ch;
   margin-block-start: 0;
 }
 
@@ -112,9 +112,11 @@
   vertical-align: text-top;
 }
 
+ul.page-topics,
 .page-topics ul {
   padding: 0;
-  margin: 0;
+  margin-inline: 0;
+  margin-block-start: var(--t-paragraph);
   display: flex;
   width: 100%;
   gap: 1rem;
@@ -179,7 +181,12 @@
     display: block;
   }
 
-  .page-banner:not([data-width="full"]) :is(h2, h1, .h1, p) {
+  .page-banner:not([data-width="full"]) .nametag :is(h1, .h1) {
+    max-inline-size: 100%;
+    text-wrap: unset;
+  }
+
+  .page-banner:not([data-width="full"]) :is(h2, p) {
     max-inline-size: 40dvi;
   }
 

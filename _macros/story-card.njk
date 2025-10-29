@@ -5,7 +5,7 @@ eleventyExcludeFromCollections: true
 {%- macro storyCard(params) -%}
   <div class="story-card-wrapper">
     <a class="story-card" href="{{ params.url }}">
-      <span class="nametag-badge subhead">{{ params.type }}</span>
+      {%- if params.type -%}<span class="nametag-badge subhead">{{ params.type }}</span>{%- endif -%}
       <img src="{{ params.image }}" alt="" />
       <div class="story-card-content">
         <h3>{{ params.title }}</h3>

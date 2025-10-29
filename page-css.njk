@@ -1,0 +1,16 @@
+---
+permalink: pages.css
+---
+
+{# Page-specific CSS, only for embedding in Decap previews
+   (These stylesheets are embedded inline on the live site)
+#}
+
+
+{% set css %}
+{% include "css/pages/home.css" %}
+{% include "css/pages/meetings.css" %}
+{% include "css/pages/resources.css" %}
+{% endset %}
+
+{{ css | cssmin | safe }}
