@@ -6,6 +6,7 @@
 
 .story-card-wrapper {
   container-type: inline-size;
+  --l-stack-gap: calc(var(--t-paragraph) * 2);
 }
 
 .story-card {
@@ -14,6 +15,7 @@
   position: relative;
   border-radius: var(--radius-lg);
   max-inline-size: calc(var(--t-measure) * 2.25);
+  --l-stack-gap: 0;
 }
 
 .story-card,

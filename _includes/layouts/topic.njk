@@ -45,6 +45,17 @@ banner:
     </div>
   {%- endif -%}
 
+  {%- if collections[id + '-dashboards'].length -%}
+    <div class="l-section">
+      <h3>Dashboards</h3>
+      <ul class="l-stack-basic strategy-list">
+      {%- for dashboard in collections[id + '-dashboards'] -%}
+        <li class="strategy-card"><a href="{{ dashboard.url }}"><span>{{ dashboard.data.title }}</span> {% icon 'arrow-right' %}</a></li>
+      {%- endfor -%}
+      </ul>
+    </div>
+  {%- endif -%}
+
   {%- if collections[id + '-stories'].length -%}
     <div class="l-section">
       <h3>Stories</h3>
@@ -63,17 +74,6 @@ banner:
           }}
       {%- endfor -%}
       </div>
-    </div>
-  {%- endif -%}
-
-  {%- if collections[id + '-dashboards'].length -%}
-    <div class="l-section">
-      <h3>Dashboards</h3>
-      <ul class="l-stack-basic strategy-list">
-      {%- for dashboard in collections[id + '-dashboards'] -%}
-        <li class="strategy-card"><a href="{{ dashboard.url }}"><span>{{ dashboard.data.title }}</span> {% icon 'arrow-right' %}</a></li>
-      {%- endfor -%}
-      </ul>
     </div>
   {%- endif -%}
 </div>
