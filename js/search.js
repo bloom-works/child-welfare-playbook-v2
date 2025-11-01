@@ -5,18 +5,27 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   const urlParams = new URLSearchParams(document.location.search);
 
   // Initialize Pagefind
+
   const pagefind = await import("/pagefind/pagefind.js");
+  await pagefind.options({
+    ranking: {
+        pageLength: 0.0,
+    }
+  });
   await pagefind.init();
 
   // Initialize Pagefind filters
   // (This is required for loading result counts by page type and topic,
   // even though the variable is unused)
+
   const filters = await pagefind.filters();
 
   // Track the filters the user selected
+
   const activeFilters = {};
 
   // Select elements
+
   const searchButton = document.querySelector("#search-button");
   const resultsWrapper = document.querySelector("#search-results");
 
@@ -42,8 +51,8 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   const typeReset = document.querySelector("#type-reset");
   const topicReset = document.querySelector("#topic-reset");
 
-
   // Get HTML templates
+
   const resultsStatus = document.querySelector("#search-results-status-template");
   const blankTemplate = document.querySelector("#search-blank");
   const noResultsTemplate = document.querySelector("#search-no-results");
@@ -51,14 +60,17 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   const resultTemplate = document.querySelector("#search-result");
 
   // Track search result counts
+
   let allResultsCount = 0;
   let matchingResultsCount;
 
   // Track page count
+
   let pageCount = 1;
   const resultsPerPage = 8;
 
-  // Only apply collapsible mobile filters if JS is enabled
+  // Only collapse filters on small screens if JS is enabled
+
   if (isSmallScreen.matches) {
     for (const accordion of filterFormAccordions) {
       accordion.open = false;
@@ -73,6 +85,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
 
   // Add the right number of skeleton UI list items
   // while results are loading
+
   const populateSkeleton = count => {
     resultsWrapper.ariaBusy = true;
     const skeletonTemplate = document.querySelector("#search-skeleton");
@@ -85,27 +98,58 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   }
 
   // Handle each new search
+
   const updateSearch = async (searchType, isNew) => {
     const currentTopicFilter = activeFilters.topics;
     const currentTypeFilter = activeFilters.pageType;
     const resultPane = document.createElement("div");
 
     const currentQuery = (searchType === "reset" || !searchInput.value) ? null : searchInput.value;
+    let search;
 
     // Search with no filters applied (to determine which topic
     // and page type filters we should show and hide)
+
     const unfilteredSearch = await pagefind.search(currentQuery);
 
     const isNotSearching = !currentQuery && !activeFilters.topics && !activeFilters.pageType;
 
     // Search with filters applied
-    const search = await pagefind.search(
-      currentQuery, {
-        filters: activeFilters
-      }
-    );
+
+    const filteredPageTypeIs = string => activeFilters?.pageType?.any?.length === 1 && activeFilters.pageType.any.includes(string);
+
+    // Sort results alphabetically or by timestamp when filtering by one page type without a query
+
+    if (!currentQuery && (filteredPageTypeIs("Story") || filteredPageTypeIs("Meeting"))) {
+      search = await pagefind.search(
+        null, {
+          filters: activeFilters,
+
+          sort: {
+            date: "desc"
+          }
+        }
+      );
+    } else if (!currentQuery) {
+      search = await pagefind.search(
+        null, {
+          filters: activeFilters,
+
+          sort: {
+            title: "asc"
+          }
+        }
+      );
+    } else {
+      search = await pagefind.search(
+        currentQuery, {
+          filters: activeFilters
+        }
+      );
+    }
 
     // Logic for displaying "X result(s) match(es) your filter(s)"
+
     const pluralizeFilters = () => {
       if ((currentTypeFilter && currentTopicFilter) || currentTopicFilter && currentTopicFilter.any.length > 1 || currentTypeFilter && currentTypeFilter.any.length > 1) {
         return "filters";
@@ -131,10 +175,11 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       }
     };
 
-    // Show badges under the search bar
-    // describing all applied filters
+    // Show badges under the search bar describing all applied filters
 
     searchResultIndicators.hidden = !(currentTypeFilter || currentTopicFilter);
+
+    // Type filter badge
 
     typeResultIndicator.hidden = !currentTypeFilter;
 
@@ -144,12 +189,12 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       typeResultIndicatorText.textContent = currentTypeFilter?.any.join(', ');
     }
 
+    // Topic filter badge
 
     topicResultIndicator.hidden = !currentTopicFilter;
 
     if (currentTopicFilter?.any) {
       let topicClone;
-
       if (currentTopicFilter?.any.length > 1) {
         topicClone = currentTopicFilter.any.slice().sort((a, b) => a.localeCompare(b));
       } else {
@@ -157,12 +202,12 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       }
 
       const topicString = topicClone.join(", ").replace("noTopic", "No topic");
-
       topicResultIndicatorText.textContent = topicString;
     }
 
     // Always clear the search results area
     // unless the user has clicked the "load more" button
+
     if (searchType !== "paginate") {
       resultsWrapper.innerHTML = '';
     }
@@ -220,8 +265,8 @@ window.addEventListener('DOMContentLoaded', async (e) => {
         populateSkeleton(allResultsCount - (resultsPerPage * (pageCount - 1)));
       }
 
-
       // Populate search results
+
       if (matchingResultsCount >= 1) {
         for (const i in search.results.slice(0, resultsPerPage * pageCount)) {
           const thisResult = await search.results[i].data();
@@ -291,6 +336,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   }
 
   // Process URL parameters upon page load
+
   if (urlParams.size > 0) {
     const queryParam = urlParams.get("q");
     const typeParam = urlParams.get("type");
@@ -306,7 +352,6 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       activeFilters.topics.any = new Array();
 
       const topicArray = topicParam.split(",");
-
       activeFilters.topics.any = topicArray;
 
       for (const i in topicArray) {
@@ -320,7 +365,6 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       activeFilters.pageType.any = new Array();
 
       const pageTypeArray = typeParam.split(",");
-
       activeFilters.pageType.any = pageTypeArray;
 
       for (const i in pageTypeArray) {
@@ -335,16 +379,15 @@ window.addEventListener('DOMContentLoaded', async (e) => {
   }
 
   // Click event listeners
+
   loadMoreButton.addEventListener('click', async () => {
     pageCount += 1;
-
     updateSearch("paginate");
   });
 
   searchButton.addEventListener('click', async (e) => {
     pageCount = 1;
     e.preventDefault();
-
     updateSearch("query", true);
   });
 
@@ -364,6 +407,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       const input = filter.querySelector("input");
       input.checked = false;
     }
+
     updateSearch(searchInput.value ? "query" : "type");
   });
 
@@ -389,6 +433,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
     searchReset.hidden = !value;
 
     // Attempt to preload search results as the user types
+
     pagefind.preload(value);
   });
 
@@ -405,6 +450,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
         activeFilters[filterType] = new Object();
         activeFilters[filterType]["any"] = new Array();
       }
+
       if (!input.checked) {
         if (activeFilters[filterType]["any"].length === 1) {
           activeFilters[filterType] = undefined;
@@ -415,6 +461,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
       } else {
         activeFilters[filterType]["any"].push(criteria);
       }
+
       updateSearch(filterType);
     }
 

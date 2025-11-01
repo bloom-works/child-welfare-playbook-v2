@@ -12,13 +12,13 @@ eleventyExcludeFromCollections: true
 {% endif %}
 
 {%- set headline -%}
-  <h2 data-pagefind-weight="9" class="h1" data-pagefind-meta="title:{{ pagefindTitle }}">{{ params.header | safe }}</h2>
+  <h2 data-pagefind-weight="9" class="h1" data-pagefind-sort="title:{{ pagefindTitle }}" data-pagefind-meta="title:{{ pagefindTitle }}">{{ params.header | safe }}</h2>
 {%- endset -%}
 
 <div class="page-banner"{%- if params.type -%} data-type="{{ params.type }}"{%- endif -%}{%- if params.full -%} data-width="full"{%- endif -%}>
   <div class="l-wrapper">
     {%- if params.badge or params.icon -%}
-      <div class="nametag">
+      <div class="nametag"{%- if params.date %} data-pagefind-sort="date:{{ params.date | yearMonthDay }}"{%- endif -%}>
         {%- if params.badge -%}
           <span class="nametag-badge subhead">{{ params.badge }}<span class="sr-only">: </span></span>
         {%- endif -%}
