@@ -15,12 +15,6 @@
   inline-size: fit-content;
 }
 
-.button[data-type="secondary"] {
-  background: var(--c-white);
-  border: 0.25rem solid var(--c-blue);
-  color: var(--base);
-}
-
 .button svg {
   aspect-ratio: 1 / 1;
 }
