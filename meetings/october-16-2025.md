@@ -1,6 +1,7 @@
 ---
 layout: layouts/meeting.njk
 templateEngineOverride: md,njk
+date: 2025-10-16
 meetingType: Prevention collaborative meeting
 title: October 16, 2025
 youtubeId: F4P0VWmO5fE

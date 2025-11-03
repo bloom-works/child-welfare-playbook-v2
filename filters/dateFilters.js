@@ -5,4 +5,9 @@ const humanDate = (date) => {
     return `${d.toFormat(`LLLL`)} ${d.toFormat(`d`)}, ${d.toFormat(`yyyy`)}`
 }
 
-export default { humanDate };
+const yearMonthDay = (date) => {
+    const d = DateTime.fromISO(date.toISOString())
+    return `${d.toISODate()}`
+}
+
+export default { humanDate, yearMonthDay };
