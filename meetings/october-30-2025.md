@@ -7,6 +7,12 @@ date: 2025-10-30
 youtubeId: "qVpj2jUJ0Lk "
 tags:
   - prevention
+resources:
+  - How helplines support children and families
+  - Helplines operated by child protection agencies
+  - Engaging fathers in child welfare
+  - A portrait of caring Black men
+  - Engaged dads and barriers to equal parenting
 ---
 The Bloom Works team and San Diego County shared their recently completed research in San Diego County that explored the experiences of families navigating social services. 
 
