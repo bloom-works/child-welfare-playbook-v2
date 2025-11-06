@@ -8,8 +8,10 @@ youtubeId: qVpj2jUJ0Lk
 tags:
   - prevention
 resources:
-  - How helplines support children and families
+  - "Presentation slides: Family experiences with service navigation in San
+    Diego"
   - Helplines operated by child protection agencies
+  - How helplines support children and families
   - Engaging fathers in child welfare
   - A portrait of caring Black men
   - Engaged dads and barriers to equal parenting
