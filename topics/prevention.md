@@ -13,4 +13,6 @@ image: images/banners/prevention.jpg
 ---
 Extra support can allow families to stay together safely and avoid child welfare involvement. These strategies can help you provide early intervention and community-based support to prevent the need for out-of-home placements.
 
+
+
 [Watch recordings of past prevention collaborative meetings](https://childwelfareplaybook.com/search/?type=Meeting&q=prevention+collaborative), which cover topics related to preventing family separation.
