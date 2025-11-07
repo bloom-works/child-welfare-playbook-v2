@@ -5,7 +5,6 @@ description: Learn about effective strategies for reaching and engaging people
   in voluntary prevention services.
 author: Bloom Works
 date: 2025-04-06T12:00:00.000
-type: story
 storyType: Blog post
 image: /images/engagement-voluntary-prevention.jpg
 tags:
@@ -13,6 +12,7 @@ tags:
   - prevention
 redirectFrom:
   - https://childwelfareplaybook.com/blog/engagement-voluntary-prevention-services/
+type: story
 ---
 > The biggest thing to make families show up to stuff is let them plan it, because they are so excited about the planning process. They tell their neighbors, they tell their other friends, and **we max out and we can’t even get any more people in the door because so many people are showing up**. 
 
@@ -84,4 +84,4 @@ We’d love to hear from you! Send us a message at [prevention@bloomworks.digita
 
 ![Logo for the Doris Duke Foundation](/images/doris-duke.svg)
 
-The Prevention section is generously supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
