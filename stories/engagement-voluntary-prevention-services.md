@@ -82,6 +82,4 @@ We’ll continue our research on preventing child welfare involvement, so check 
 
 We’d love to hear from you! Send us a message at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
 
-![Logo for the Doris Duke Foundation](/images/doris-duke.svg)
-
 This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
