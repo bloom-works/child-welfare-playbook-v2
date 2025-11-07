@@ -27,4 +27,4 @@ In this session they share insights and recommendations from this work, leaving 
 
 ![Logo for the Doris Duke Foundation](/images/doris-duke.svg)
 
-This work was supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
