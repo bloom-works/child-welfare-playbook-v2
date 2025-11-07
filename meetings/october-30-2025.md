@@ -25,6 +25,4 @@ In this session they share insights and recommendations from this work, leaving 
 
 * [Meeting slides](https://drive.google.com/file/d/1eJR4pHywj1LSlxP3w2pHWrXzhTPR4vd1/view?usp=sharing)
 
-![Logo for the Doris Duke Foundation](/images/doris-duke.svg)
-
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+The prevention collaborative is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
