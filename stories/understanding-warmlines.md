@@ -29,6 +29,4 @@ On July 10, 2025, the Prevention Collaborative hosted a session where Bloom Work
 
 If you have thoughts or questions, message the Bloom Works team at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
 
-![](/images/doris-duke.svg)
-
 This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
