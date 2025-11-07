@@ -8,8 +8,6 @@ youtubeId: qVpj2jUJ0Lk
 tags:
   - prevention
 resources:
-  - "Presentation slides: Family experiences with service navigation in San
-    Diego"
   - Helplines operated by child protection agencies
   - How helplines support children and families
   - Engaging fathers in child welfare
@@ -24,3 +22,9 @@ During this project, researchers spoke with:
 * Families to understand their lived experiences trying to navigate that ecosystem to get the support they need
 
 In this session they share insights and recommendations from this work, leaving space for discussion of how these learnings may apply beyond San Diego County.
+
+* [Meeting slides](https://drive.google.com/file/d/1eJR4pHywj1LSlxP3w2pHWrXzhTPR4vd1/view?usp=sharing)
+
+![Logo for the Doris Duke Foundation](/images/doris-duke.svg)
+
+This work was supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
