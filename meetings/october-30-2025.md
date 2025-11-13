@@ -13,6 +13,7 @@ resources:
   - Engaging fathers in child welfare
   - A portrait of caring Black men
   - Engaged dads and barriers to equal parenting
+  - "Family personas and journey maps: navigating services in San Diego"
 ---
 The Bloom Works team and San Diego County shared their recently completed research in San Diego County that explored the experiences of families navigating social services. 
 
