@@ -7,6 +7,9 @@ date: 2025-11-13
 youtubeId: 7-bnhBiBrKc
 tags:
   - prevention
+resources:
+  - Using 211 data for system planning in Maine
+  - "Presentation slides: Using 211 data for system planning in Maine"
 ---
 Chapin Hall researchers Colin Cepuran and Michael Stiehl present on using 211 Maine call data and census information to understand service needs and identify gaps in mental health and substance use disorder services.\
 \
