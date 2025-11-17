@@ -6,7 +6,7 @@ filetype: pdf
 file: /images/211-maine-leadership-presentation-110425.pdf
 tags:
   - resource
-description: Chapin Hall presentation slides on analyzing 211 Maine call data to
-  understand service needs, identify geographic gaps, and inform prevention
-  service planning.
+description: Chapin Hall presentation slides on using 211 Maine call data and
+  census information to understand service needs, identify geographic gaps, and
+  inform prevention service planning.
 ---
