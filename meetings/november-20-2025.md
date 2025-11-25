@@ -1,8 +1,7 @@
 ---
 layout: layouts/meeting.njk
 templateEngineOverride: md,njk
-meetingType:
-  - Working group meeting
+meetingType: Working group meeting
 title: November 20, 2025
 date: 2025-11-20
 youtubeId: lvDAr7ZreJY
