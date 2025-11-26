@@ -110,6 +110,7 @@ export default async function(eleventyConfig) {
 
   const topicList = getTopics();
 
+  // Add collections filtered by topic
   for (const topic in topicList) {
     eleventyConfig.addCollection(`${topicList[topic]}-strategies`, collectionsApi => {
       return collectionsApi.getFilteredByTags('strategy', `${topicList[topic]}`).sort((a, b) => a.data.order - b.data.order);
@@ -126,14 +127,18 @@ export default async function(eleventyConfig) {
     eleventyConfig.addCollection(`${topicList[topic]}-dashboards`, collectionsApi => {
       return collectionsApi.getFilteredByTags('dashboard', `${topicList[topic]}`).sort((a, b) => a.data.order - b.data.order);
     });
+
+    eleventyConfig.addCollection(`${topicList[topic]}-meetings`, collectionsApi => {
+      return collectionsApi.getFilteredByTags('meeting', `${topicList[topic]}`).sort((a, b) => a.data.order - b.data.order);
+    });
   }
 
-  // Stories
+  // All stories
   eleventyConfig.addCollection("stories", (collection) =>
     collection.getFilteredByGlob("stories/*.md")
   );
 
-    // All resources
+  // All topics
   eleventyConfig.addCollection("topics", (collection) =>
       collection.getFilteredByGlob("topics/*.md").sort((a, b) => a.data.order - b.data.order)
   );
@@ -143,6 +148,7 @@ export default async function(eleventyConfig) {
       collection.getFilteredByGlob("resources/*.md")
   );
 
+  // All meetings
   eleventyConfig.addCollection("meetings", (collection) =>
       collection.getFilteredByGlob("meetings/*.md")
   );
