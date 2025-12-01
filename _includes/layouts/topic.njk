@@ -84,7 +84,7 @@ banner:
         <a class="callout" href="/search/?type=Meeting&topics={{ title }}">
           <span class="callout-content">
             {% icon 'magnifying-glass' %}
-            Browse meetings about {{ title }}
+            Browse meetings about {{ title | lower }}
           </span>
           {% icon 'arrow-right' %}
         </a>
