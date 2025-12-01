@@ -1,0 +1,54 @@
+.callout {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  font-weight: var(--font-bold);
+  color: var(--c-blue);
+  padding: var(--t-paragraph);
+  text-decoration: none;
+  background: var(--c-lighter-blue);
+  transition: all 0.1s ease-out;
+}
+
+.callout svg {
+  inline-size: 1.5em;
+  block-size: 1.5em;
+  fill: currentColor;
+}
+
+.callout-content {
+  display: flex;
+  align-items: center;
+  gap: calc(var(--t-paragraph) / 2);
+}
+
+.callout::before {
+  position: absolute;
+  content: "";
+  inset: 0;
+  border: 2px solid var(--c-blue);
+  border-radius: var(--radius-lg);
+  filter: url("#tornEdge");
+  z-index: 1;
+}
+
+@keyframes calloutArrowWiggle {
+  to {
+    transform: translateX(-0.25rem)
+  }
+}
+
+.callout:is(:focus, :hover) {
+  background: var(--c-light-blue);
+  scale: 1.01;
+}
+
+.callout:is(:active) {
+  background: var(--c-light-blue);
+  scale: 1;
+}
+
+.callout:is(:focus, :hover) .callout-content + svg {
+  animation: calloutArrowWiggle 0.5s cubic-bezier(0.39, 0.575, 0.565, 1) alternate infinite;
+}

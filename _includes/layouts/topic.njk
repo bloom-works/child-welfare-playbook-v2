@@ -76,4 +76,19 @@ banner:
       </div>
     </div>
   {%- endif -%}
+
+  {%- if collections[id + '-meetings'].length -%}
+    <div class="l-section">
+      <h3>Meetings</h3>
+      <div class="callout-wrapper">
+        <a class="callout" href="/search/?type=Meeting&topics={{ title }}">
+          <span class="callout-content">
+            {% icon 'magnifying-glass' %}
+            Browse meetings about {{ title | lower }}
+          </span>
+          {% icon 'arrow-right' %}
+        </a>
+      </div>
+    </div>
+  {%- endif -%}
 </div>
