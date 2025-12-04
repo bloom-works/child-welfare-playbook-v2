@@ -30,9 +30,9 @@ Multiple child welfare advocates came together to unanimously recommend this def
 
 **Apply the definition consistently across your processes.** Use it to determine who qualifies for emergency placement, kin-specific licensing waivers and exemptions, and the kin-specific licensing process.
 
-### Accept alternative documentation to prove caregiver relationships
+### Accept alternative documentation to prove existing caregiving arrangements
 
-With an expansive legal definition of kin, you also need to expand the types of documentation you accept to prove the caregiver’s relationship with the child or youth. Consider using the following kinds of documentation:
+Expand the types of documentation you accept to prove that the caregiver is already raising the child or youth. Consider using the following kinds of documentation:
 
 * School, hospital, or social service records that list the kin caregiver as the child or youth's contact
 * Health insurance showing the child or youth as the kin caregiver's dependent
