@@ -24,7 +24,7 @@ The beginning of foster care is a difficult and emotional time for children or y
 
 ## This strategy in action
 
-**Michigan** has established a policy requiring that "relative search must begin prior to the child's removal from the home and continues until legal permanency for the child has been achieved or case closure." They explicitly ask identified kin to share the names of more kin on their [relative notification form](/resources/michigan-relative-notification/)[](https://www.michigan.gov/mdhhs/doing-business/contractor/foster-care-templates).
+**Michigan** has established a policy requiring that "relative search must begin prior to the child's removal from the home and continues until legal permanency for the child has been achieved or case closure." They explicitly ask identified kin to share the names of more kin on their [kin notification form](/resources/michigan-relative-notification/)[](https://www.michigan.gov/mdhhs/doing-business/contractor/foster-care-templates).
 
 **Washington State** asks about supportive connections at every Family Team Decision Meeting and asks everyone: even if you can't take placement, is there anyone else within your family or that the child knows who we should be talking to? 
 
