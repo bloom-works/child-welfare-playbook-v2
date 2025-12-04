@@ -11,9 +11,11 @@ Personal preferences, technology literacy, and mobility all impact which communi
 
 ## How to do this
 
-**Learn what works for kin.** Conduct user research with kin to learn about their contact preferences. Record contact preferences for each kin member in your child welfare information system.
+**Learn what works for kin.** Ask each kin contact about their preferences and record their answers in your child welfare information system.
 
-**Give staff multiple communication options.** This includes email, text messaging, social media messaging, telephone calls, and even in-person visits. While employees may need to send physical mail occasionally, it shouldn't be your most common method of communication. Provide clear ways for kin to verify your identity and legitimacy when you make initial contact, especially with previously unknown relatives.
+**Give staff multiple communication options.** This includes email, text messaging, social media messaging, telephone calls, and even in-person visits. While employees may need to send physical mail occasionally, it shouldn't be your most common method of communication. 
+
+Provide clear ways for kin to verify your identity and legitimacy when you make initial contact, especially with previously unknown relatives. Staff can share their work email address, provide a direct office phone number to call back, show a work ID badge during in-person visits, or ask kin you already have relationships with to introduce you to new kin.
 
 **Set up supporting systems.** Develop policies and practices for document retention, records discovery, privacy, data sharing, and other concerns for new communication methods. Create message templates adapted for each medium. An email will be different from a text message, which will be different from a voicemail.
 
