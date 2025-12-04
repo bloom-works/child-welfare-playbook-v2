@@ -19,7 +19,7 @@ Use a red team to conduct kin research, construct a genogram, and ask youth dire
 
 **State the goal.** The main goal of the red team is to find an alternative placement to group homes for every youth.
 
-**Require a red team meeting before group home placements.** You might also require a meeting in other scenarios, like placing a youth out of state or in a general foster home with unrelated youth.
+**Require a red team meeting before group home placements.** You might also require a meeting in other scenarios, like placing a youth in a general foster home with unrelated youth.
 
 **Ask about connections.** As part of their process, the red team should construct a genogram and plan to ask youth about possible placement options.
 
