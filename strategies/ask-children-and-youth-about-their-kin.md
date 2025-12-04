@@ -26,7 +26,7 @@ Children and youth are often placed in general foster care or group homes when t
 
 **Wisconsin** has developed suggested questions for talking to children and youth about their connections. 
 
-**Indiana** is piloting a practice of asking child welfare workers for a child or youth's input whenever they call the placement desk.
+**Indiana** is piloting a practice of child welfare workers asking about a child or youth's kin connections they call the placement desk.
 
 **New Mexico** increased initial kinship placements significantly in 1 year by shifting to practices that focus on the child or youth. This includes asking about their supportive connections. 
 
