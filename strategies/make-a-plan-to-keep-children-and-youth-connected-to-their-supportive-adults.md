@@ -30,11 +30,11 @@ But if a supportive adult can't serve as the caregiver, it requires more intenti
 
 **Use age-appropriate prompts:**
 
-* "Who came to your birthday party?"  
-* "If you had to call someone for help, who would that be?"  
-* "Who do you share good or bad news with?"  
-* "If you're having a bad day, who gives you the best advice?"  
-* "Who do you think about when you lay your head on your pillow at night?"  
+* "If you had to call someone for help, who would that be?"
+* "Who do you share good or bad news with?"
+* "Who do you see on holidays?"
+* "If you're having a bad day, who gives you the best advice?"
+* "Who do you think about when you lay your head on your pillow at night?"
 * For older youth: "If you had a flat tire, who would you call?"
 
 **Remember this is an ongoing conversation.** Start with maybe 5 minutes, then spend more time as the child or youth opens up and builds trust. Continue the conversation throughout the entire course of the case, as they may develop new supportive relationships as they grow.
@@ -57,14 +57,14 @@ Talk to the caregiver about their needs also. They might have ideas of support t
 
 The plan could include regular touch points like:
 
-* In-person visits  
-* Phone or video calls  
-* Social media interactions  
-* Letters or emails  
-* Providing transportation  
-* Attending school events  
-* Tutoring sessions  
-* Being a formal respite provider  
+* In-person visits
+* Phone or video calls
+* Social media interactions
+* Letters or emails
+* Providing transportation
+* Attending school events
+* Tutoring sessions
+* Being a formal respite provider
 * Bringing a meal over for a weekly dinner
 
 You can even make a plan to help the youth stay connected to pets, such as visits to a dog park.
