@@ -28,16 +28,4 @@ Multiple child welfare advocates came together to unanimously recommend this def
 
 **Make the necessary policy or legal changes.** Adopt this definition word-for-word, or adjust your existing legal definition to include all of these categories of kin. This may require a legislative change, though some agencies set the definition of kin in their policy.
 
-**Apply the definition consistently across your processes.** Use it to determine who qualifies for emergency placement, kin-specific licensing waivers and exemptions, and the kin-specific licensing process.
-
-### Accept alternative documentation to prove existing caregiving arrangements
-
-Expand the types of documentation you accept to prove that the caregiver is already raising the child or youth. Consider using the following kinds of documentation:
-
-* School, hospital, or social service records that list the kin caregiver as the child or youth's contact
-* Health insurance showing the child or youth as the kin caregiver's dependent
-* Public benefit statements the kin caregiver receives for the child or youth
-* Tax returns listing the child or youth as the kin caregiver's dependent
-* Lease agreement showing the child or youth lives with the kin caregiver (without parents)
-* Mail to the child or youth at the kin caregiver's address (combined with other proof)
-* Professional letter stating the kin caregiver is raising the child or youth[](https://www.regulations.gov/document/ACF-2023-0001-0002/comment?filter=new%20america)
+**Apply the definition consistently across your processes.** Use it to determine who qualifies for emergency placement, kin-specific licensing waivers and exemptions, and the kin-specific licensing process.[](https://www.regulations.gov/document/ACF-2023-0001-0002/comment?filter=new%20america)
