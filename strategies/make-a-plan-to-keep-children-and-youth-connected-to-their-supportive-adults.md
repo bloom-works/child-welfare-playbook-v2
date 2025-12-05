@@ -32,7 +32,7 @@ But if a supportive adult can't serve as the caregiver, it requires more intenti
 
 * "If you had to call someone for help, who would that be?"
 * "Who do you share good or bad news with?"
-* "Who do you see on holidays?"
+* "Who do you spend holidays with?"
 * "If you're having a bad day, who gives you the best advice?"
 * "Who do you think about when you lay your head on your pillow at night?"
 * For older youth: "If you had a flat tire, who would you call?"
