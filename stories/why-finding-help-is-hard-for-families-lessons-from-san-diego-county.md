@@ -276,6 +276,7 @@ resources:
   - "Community pathways map: navigating services in San Diego"
 ---
 > This research builds on Bloom Works’ earlier work exploring warmlines as a tool to connect families with support. Read about [key features and lessons learned from warmlines across the country](https://childwelfareplaybook.com/stories/understanding-warmlines/).
+---
 
 Families in the US experience significant challenges accessing social support services, which sometimes means they are reported to child protection hotlines when what they really need is better social support. To better understand these challenges, we worked with San Diego County's Office of Child and Family Strengthening from August to October 2025. 
 
