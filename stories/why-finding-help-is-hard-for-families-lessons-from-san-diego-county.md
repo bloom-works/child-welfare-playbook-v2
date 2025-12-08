@@ -311,17 +311,9 @@ Another important insight: families aren't searching for "prevention services"â€
 
 Based on these conversations, we created tools that other jurisdictions can use to better understand and support families:
 
-\[RESOURCE CARD/TILE: Parent personas]
-
-Personas that capture different family needs, barriers, and how they look for help. Jurisdictions can create their own personas to understand families' specific needs and create targeted strategies to support them. Personas can also be used in staff training.
-
-\[RESOURCE CARD/TILE: Family journey maps]
-
-Maps showing families' starting points and where they get stuck, redirected, or overburdened. Plotting out the steps a family has to take to get connected to support can spotlight pain points, gaps, and opportunities for intervention.
-
-\[RESOURCE CARD/TILE: Community pathways map]
-
-A map highlighting the two ways families get connected to support in San Diego County: the reporter pathway (where mandated reporters call a warmline or CPS hotline) and the family pathway (run by local helplines that families can call directly).
+* **Parent personas** that capture different family needs, barriers, and how they look for help
+* **Family journey maps** showing where families get stuck, redirected, or overburdened as they try to access support
+* **Community pathways map** highlighting the two ways families get connected to support in San Diego County: through mandated reporters (warmlines/CPS hotlines) or through local helplines that families contact directly
 
 - - -
 
