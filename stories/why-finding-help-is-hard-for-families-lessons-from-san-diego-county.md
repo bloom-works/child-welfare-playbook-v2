@@ -324,7 +324,7 @@ Maps showing families' starting points and where they get stuck, redirected, or 
 
 A map highlighting the two ways families get connected to support in San Diego County: the reporter pathway (where mandated reporters call a warmline or CPS hotline) and the family pathway (run by local helplines that families can call directly).
 
----
+- - -
 
 This work is supported by the Doris Duke Foundation as part of the OPT-In for Families Initiative. 
 
