@@ -311,8 +311,8 @@ Another important insight: families aren't searching for "prevention services"â€
 
 Based on these conversations, we created tools that other jurisdictions can use to better understand and support families:
 
-* **Parent personas** that capture different family needs, barriers, and how they look for help
-* **Family journey maps** showing where families get stuck, redirected, or overburdened as they try to access support
+* **[Parent personas](https://childwelfareplaybook.com/resources/family-personas-and-journey-maps-navigating-services-in-san-diego/)** that capture different family needs, barriers, and how they look for help
+* **[Family journey maps](https://childwelfareplaybook.com/resources/family-personas-and-journey-maps-navigating-services-in-san-diego/)** showing where families get stuck, redirected, or overburdened as they try to access support
 * **Community pathways map** highlighting the two ways families get connected to support in San Diego County: through mandated reporters (warmlines/CPS hotlines) or through local helplines that families contact directly
 
 - - -
