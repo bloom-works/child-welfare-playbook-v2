@@ -314,7 +314,7 @@ Based on these conversations, we created tools that other jurisdictions can use 
 
 * **[Parent personas](https://childwelfareplaybook.com/resources/family-personas-and-journey-maps-navigating-services-in-san-diego/)** that capture different family needs, barriers, and how they look for help
 * **[Family journey maps](https://childwelfareplaybook.com/resources/family-personas-and-journey-maps-navigating-services-in-san-diego/)** showing where families get stuck, redirected, or overburdened as they try to access support
-* **Community pathways map** highlighting the two ways families get connected to support in San Diego County: through mandated reporters (warmlines/CPS hotlines) or through local helplines that families contact directly
+* **[Community pathways map](https://childwelfareplaybook.com/resources/community-pathways-map-navigating-services-in-san-diego/)** highlighting the two ways families get connected to support in San Diego County: through mandated reporters (warmlines/CPS hotlines) or through local helplines that families contact directly
 
 - - -
 
