@@ -6,6 +6,7 @@ filetype: pdf
 file: /images/michigan-prevention-service-referral-checklist.pdf
 tags:
   - resource
+  - prevention
 description: Michigan's list of indicators that help intake staff identify
   families who don't need investigation but would benefit from prevention
   services.
