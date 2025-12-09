@@ -15,7 +15,9 @@ Caregivers often leave the system when they feel overextended and undervalued. R
 
 **Drop off a welcome bag.** Include a note and a combination of useful items and fun treats for the whole family. Include a mix of contents, some practical and some just fun. Consider the whole family, including the youth in care and any children or other adults already in the home. Provide welcome bags to both foster families and kinship caregivers, adjusting tone and message for kinship caregivers to acknowledge their unique circumstances.
 
-**Send certificates or personal notes to make caregivers feel valued.** Partner with local businesses to donate free or discounted items as awards or gifts for current caregivers. Help partners use alternative documentation to prove caregiver relationships so that discounts can be extended to kin caregivers. Documentation could include any records listing the kin caregiver as the child’s contact or proving the child is a dependent or lives with the caregiver.
+**Send certificates or personal notes to make caregivers feel valued.** Partner with local businesses to donate free or discounted items as awards or gifts for current caregivers. 
+
+**Help partners use alternative documentation to prove caregiver relationships.** This allows partners to extend discounts to kin caregivers. Documentation could include any records listing the kin caregiver as the child’s contact or proving the child is a dependent or lives with the caregiver.
 
 **​​Create regular recognition events.** These can be simple gatherings or more formal ceremonies, depending on your resources and what works for your community. If your agency doesn't have the budget for recognition programs, forward this information to local community supporters to create bags or sponsor events on your behalf.
 
