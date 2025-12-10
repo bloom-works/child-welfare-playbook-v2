@@ -275,6 +275,7 @@ tags:
 resources:
   - "Family personas and journey maps: navigating services in San Diego"
   - "Community pathways map: navigating services in San Diego"
+featured: true
 ---
 Families in the United States experience significant challenges accessing social support services. And they're sometimes reported to child protection hotlines when what they really need is better social support.
 
