@@ -114,7 +114,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Related resources", required: false, name: "resources", widget: "relation", collection: "resources", value_field: "title", search_fields: ["title", "url"], multiple: true}
       - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
-      - { label: "Featured on homepage", name: "featured", widget: "boolean", default: false }
+      - { label: "Featured on homepage", name: "featured", widget: "boolean", default: false, required: false }
   - name: "resources"
     label: "Resources"
     folder: "resources"
