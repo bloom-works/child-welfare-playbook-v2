@@ -10,3 +10,7 @@
 .home-header + .story-card-wrapper {
   margin-block-start: calc(var(--t-paragraph) * 2.5);
 }
+
+.home .story-card-wrapper + .story-card-wrapper {
+  margin-block-start: var(--l-stack-gap);
+}
