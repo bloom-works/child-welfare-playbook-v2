@@ -272,6 +272,7 @@ storyType: Research report
 image: .images/stories/prevention.png
 tags:
   - story
+  - prevention
 resources:
   - "Family personas and journey maps: navigating services in San Diego"
   - "Community pathways map: navigating services in San Diego"
