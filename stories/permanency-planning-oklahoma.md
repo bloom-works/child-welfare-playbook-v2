@@ -1,13 +1,9 @@
 ---
 layout: layouts/story
 title: Permanency planning with kin caregivers in Oklahoma
-description: Oklahoma researched whether streamlined kin-specific licensing
-  requirements would affect permanency outcomes and found no negative impacts.
 author: Bloom Works
 date: 2025-01-23T12:00:00.000
-type: story
 storyType: Research report
-image: /images/oklahoma.jpg
 tags:
   - story
   - caregiver-licensing
@@ -15,7 +11,11 @@ resources:
   - Oklahoma permanency planning
 redirectFrom:
   - https://childwelfareplaybook.com/blog/permanency-planning-oklahoma/
-featured: true
+featured: false
+type: story
+description: Oklahoma researched whether streamlined kin-specific licensing
+  requirements would affect permanency outcomes and found no negative impacts.
+image: /images/oklahoma.jpg
 ---
 ## **Overview**
 
