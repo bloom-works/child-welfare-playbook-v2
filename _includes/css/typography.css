@@ -211,6 +211,10 @@ blockquote + figcaption {
   margin-block-start: var(--t-paragraph);
 }
 
+.l-wrapper-text hr {
+  inline-size: 100%;
+}
+
 hr {
   --hr-margin: calc(var(--font-base-leading) * 2);
   background: url("/images/hr.svg") center center no-repeat;
