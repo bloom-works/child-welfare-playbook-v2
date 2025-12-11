@@ -8,7 +8,7 @@ description: Families in San Diego County face significant barriers accessing
 author: Bloom Works
 date: 2025-12-08
 storyType: Research report
-image: .images/stories/prevention.png
+image: /images/stories/prevention.png
 tags:
   - story
   - prevention
