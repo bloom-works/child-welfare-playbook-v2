@@ -13,6 +13,7 @@ tags:
 redirectFrom:
   - https://childwelfareplaybook.com/blog/engagement-voluntary-prevention-services/
 type: story
+featured: false
 ---
 > The biggest thing to make families show up to stuff is let them plan it, because they are so excited about the planning process. They tell their neighbors, they tell their other friends, and **we max out and we can’t even get any more people in the door because so many people are showing up**. 
 

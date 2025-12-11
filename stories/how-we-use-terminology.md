@@ -11,6 +11,7 @@ storyType: Blog post
 image: /images/stories/kin-engagement.jpg
 tags:
   - story
+featured: false
 ---
 Child welfare agencies use different terms for the same roles and practices. Here’s the terminology that we use in the Child Welfare Playbook and what it means.
 
