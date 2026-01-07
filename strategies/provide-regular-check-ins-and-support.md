@@ -9,13 +9,13 @@ order: "2"
 redirectFrom:
   - /recommendations/check-in-with-your-resource-families-regularly/
 ---
-No matter how many hours of training or experience a caregiver has, it's a different experience once a child or youth is placed in their home. Kin caregivers may be especially impacted because they may have had no notice before placement. 
+No matter how many hours of training or experience a caregiver has, it's a different experience once a outh is placed in their home. Kin caregivers may be especially impacted because they may have had no notice before placement. 
 
 Provide frequent check-ins during first placements and ongoing support for all caregivers. This allows you to identify issues early, provide effective support, and prevent placement disruptions.
 
 ## How to do this
 
-**Check in frequently during first placements.** Update your practices to include regular check-ins with caregivers after they take their first placement. Use a consistent person for check-ins (the specific person may vary by agency). Check in at key milestones like the first night, right before important meetings, the first day a child attends school, and at least once a week for the first month.
+**Check in frequently during first placements.** Update your practices to include regular check-ins with caregivers after they take their first placement. Use a consistent person for check-ins (the specific person may vary by agency). Check in at key milestones like the first night, right before important meetings, the first day a youth attends school, and at least once a week for the first month.
 
 **Maintain ongoing check-ins with all caregivers.** Don't assume that no news is good news with existing caregivers. Regular check-ins can help you spot issues before they cause you to lose caregivers altogether. Check in with caregivers at least quarterly and at other key milestones, especially after removals or reunifications.
 
