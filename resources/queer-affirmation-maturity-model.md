@@ -7,6 +7,5 @@ file: /images/queer-affirmation-maturity-model-bloom.pdf
 tags:
   - resource
 description: Bloom Works tool for child welfare organizations to assess and
-  improve their ability to provide affirming care for LGBTQIA2S+ children and
-  youth.
+  improve their ability to provide affirming care for LGBTQ+ youth.
 ---
