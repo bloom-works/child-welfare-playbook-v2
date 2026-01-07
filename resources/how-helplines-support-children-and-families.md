@@ -1,7 +1,7 @@
 ---
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
-title: How helplines support children and families
+title: How helplines support youth and families
 filetype: link
 url: https://www.casey.org/helplines-overview/
 tags:
