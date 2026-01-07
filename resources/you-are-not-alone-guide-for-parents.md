@@ -8,6 +8,6 @@ tags:
   - resource
   - supportive-relationships
 description: This handbook from the South Carolina Department of Social Services
-  offers support to parents who have a child placed in foster care, with an aim
+  offers support to parents who have a youth placed in foster care, with an aim
   toward reunification.
 ---
