@@ -12,7 +12,7 @@ resources:
 redirectFrom:
   - /recommendations/use-the-snowball-method/
 ---
-The beginning of foster care is a difficult and emotional time for children or youth and their families. They may be too stressed or afraid to share a complete list of connections during an initial meeting. By continuing to search for kin throughout a child or youth's time in care and asking each connection about others, you can uncover more supportive relationships and help them leave care with more connections than they entered with.
+The beginning of foster care is a difficult and emotional time for youth and their families. They may be too stressed or afraid to share a complete list of connections during an initial meeting. By continuing to search for kin throughout a youth's time in care and asking each connection about others, you can uncover more supportive relationships and help them leave care with more connections than they entered with.
 
 ## How to do this
 
@@ -24,9 +24,9 @@ The beginning of foster care is a difficult and emotional time for children or y
 
 ## This strategy in action
 
-**Michigan** has established a policy requiring that "relative search must begin prior to the child's removal from the home and continues until legal permanency for the child has been achieved or case closure." They explicitly ask identified kin to share the names of more kin on their [kin notification form](/resources/michigan-relative-notification/)[](https://www.michigan.gov/mdhhs/doing-business/contractor/foster-care-templates).
+**Michigan** has established a policy requiring that "relative search must begin prior to the youth's removal from the home and continues until legal permanency for the child has been achieved or case closure." They explicitly ask identified kin to share the names of more kin on their [kin notification form](/resources/michigan-relative-notification/)[](https://www.michigan.gov/mdhhs/doing-business/contractor/foster-care-templates).
 
-**Washington State** asks about supportive connections at every Family Team Decision Meeting and asks everyone: even if you can't take placement, is there anyone else within your family or that the child knows who we should be talking to? 
+**Washington State** asks about supportive connections at every Family Team Decision Meeting and asks everyone: even if you can't take placement, is there anyone else within your family or that the youth knows who we should be talking to? 
 
 **California** asks all supportive adults at every Child and Family Team meeting if they know of any other kin who should be included.
 
