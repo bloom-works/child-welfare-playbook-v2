@@ -12,15 +12,15 @@ resources:
 redirectFrom:
   - /recommendations/maintain-a-shared-list-of-kin/
 ---
-Kin information often gets lost in case notes or scattered across different workers' files, leaving children and youth without access to potential placements and ongoing support.
+Kin information often gets lost in case notes or scattered across different workers' files, leaving youth without access to potential placements and ongoing support.
 
 Use shared electronic lists and visual mapping tools to ensure comprehensive kin documentation. This helps find more placement options and enables the whole team to maintain important relationships.
 
 ## How to do this
 
-**Create shared electronic lists for team coordination.** Include kin names, their relationship to the child or youth, their contact information, and their contact method preferences. Add brief but relevant context notes, including the last contact date and team member who made contact. Make the list accessible to the whole team, including those outside the agency like CASAs (court-appointed special advocates), attorneys, parents, and foster parents. 
+**Create shared electronic lists for team coordination.** Include kin names, their relationship to the youth, their contact information, and their contact method preferences. Add brief but relevant context notes, including the last contact date and team member who made contact. Make the list accessible to the whole team, including those outside the agency like CASAs (court-appointed special advocates), attorneys, parents, and foster parents. 
 
-If IT restrictions prevent file sharing, get creative with your solutions, like monthly emailed updates or collectively updating lists at planning meetings. Coordinate with tribal partners on record-keeping for Native children.
+If IT restrictions prevent file sharing, get creative with your solutions, like monthly emailed updates or collectively updating lists at planning meetings. Coordinate with tribal partners on record-keeping for Native youth.
 
 **Use visual mapping to identify and organize connections.** Create a genogram (family tree) to show relationships using genogram software, blank paper, or a dry-erase board. Include all important connections, even if they aren't legal or blood relatives. Use the visual map to generate new leads and spot missing connections. 
 
@@ -30,7 +30,7 @@ Aim for comprehensive mapping. Some programs recommend identifying 150 to 200 pe
 
 **Florida** has a template for logging communication efforts to source kin connections.
 
-**30 Days to Family** suggests that agencies identify [at least 80 kin upfront for each child](https://www.cebc4cw.org/program/30-days-to-family/), with balanced representation across both parents whenever possible.
+**30 Days to Family** suggests that agencies identify [at least 80 kin upfront for each youth](https://www.cebc4cw.org/program/30-days-to-family/), with balanced representation across both parents whenever possible.
 
 **Washington State** maintains a [policy for engaging local tribal partners](https://dcyf.wa.gov/dcyf-policies/2-40-50-active-efforts-and-tribal-collaboration) to source kin connections.
 
