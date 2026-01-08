@@ -12,7 +12,7 @@ resources:
 redirectFrom:
   - /recommendations/keeping-in-touch-with-kin-formal-responsibility/
 ---
-Caregivers often don't realize they're expected to help maintain a child or youth's connections with siblings and other important people. Without clear expectations, these relationships can fade while they are in care. Set clear expectations to help children and youth keep these important relationships throughout their time in care.
+Caregivers often don't realize they're expected to help maintain a youth's connections with siblings and other important people. Without clear expectations, these relationships can fade while they are in care. Set clear expectations to help youth keep these important relationships throughout their time in care.
 
 ## How to do this
 
@@ -36,7 +36,7 @@ Caseworkers should encourage caregivers to collaborate by checking in regularly 
 
 Make it clear to new foster parents that they are responsible for helping to maintain sibling and kin connections. Include specific content on sibling connections in foster parent training, with details about how parents are empowered to connect with one another and bring siblings together.
 
-Revise foster parent training to include formal expectations that foster parents will help maintain a child or youth's connections. For example, require that foster parents have to help develop kin connection plans.
+Revise foster parent training to include formal expectations that foster parents will help maintain a youth's connections. For example, require that foster parents have to help develop kin connection plans.
 
 ### Use parent visits strategically
 
@@ -48,9 +48,9 @@ Make it standard practice for court-ordered parent visits to include entire sibl
 
 **Indiana** and **Washington State** require at least 2 sibling visits per month.
 
-**Michigan** requires a minimum of 1-hour visits monthly and connects caregivers of separated children at the start of placements.
+**Michigan** requires a minimum of 1-hour visits monthly and connects caregivers of separated siblings at the start of placements.
 
-**Oklahoma** has comprehensive policy requiring ongoing efforts to keep siblings connected with detailed monthly requirements for resolving barriers, encourages caregivers with separated siblings to bring children together as often as possible, and uses parent visits as opportunities to bring sibling groups together.
+**Oklahoma** has comprehensive policy requiring ongoing efforts to keep siblings connected with detailed monthly requirements for resolving barriers, encourages caregivers with separated siblings to bring them together as often as possible, and uses parent visits as opportunities to bring sibling groups together.
 
 **Washington, DC** ensures caregivers understand expectations for sibling visits, with BOND Leads creating activities where separated siblings can engage and support workers helping families connect siblings independently.
 
