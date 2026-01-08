@@ -23,7 +23,7 @@ Staff may feel pressure to move immediately to the next kin connection if someon
 
 **Focus on connection before placement.** Don't lead initial conversations with placement requests. Even if a placement option is urgently needed, building trust comes first. Let kin process the situation and ask questions before discussing their potential role. Overwhelming kin with immediate placement requests risks losing those connections entirely.
 
-**Offer alternative ways to stay involved.** Make sure that kin are aware of other ways they can support the child or youth. If someone can't serve as a placement option, they can still stay connected through visits, phone calls, or attending planning meetings. Include as many kin as possible in your formal plans to maintain connection.
+**Offer alternative ways to stay involved.** Make sure that kin are aware of other ways they can support the youth. If someone can't serve as a placement option, they can still stay connected through visits, phone calls, or attending planning meetings. Include as many kin as possible in your formal plans to maintain connection.
 
 ## This strategy in action
 
