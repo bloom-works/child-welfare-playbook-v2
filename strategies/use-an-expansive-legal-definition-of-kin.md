@@ -12,9 +12,9 @@ resources:
 redirectFrom:
   - /recommendations/use-expansive-legal-definition-of-kin/
 ---
-Many agencies use narrow definitions of kin that only include blood relatives or legal family members. This limits placement options and support networks for children and youth in care, potentially forcing placements with strangers when kin connections are available.
+Many agencies use narrow definitions of kin that only include blood relatives or legal family members. This limits placement options and support networks for youth in care, potentially forcing placements with strangers when kin connections are available.
 
-Use an expansive legal definition that includes both biological relatives and people with meaningful relationships to the child or family. This helps staff find more placement options quickly and creates broader support systems for youth.
+Use an expansive legal definition that includes both biological relatives and people with meaningful relationships to the youth or family. This helps staff find more placement options quickly and creates broader support systems for youth.
 
 ## How to do this
 
@@ -22,7 +22,7 @@ Use an expansive legal definition that includes both biological relatives and pe
 
 > Individuals related to a child by blood, marriage, tribal custom, and/or adoption and other individuals who have an emotionally significant relationship with the child or the child’s parents or other family members.
 
-This definition includes what's often called "fictive kin": people who aren't related by blood, marriage, or adoption but have meaningful relationships with the child or family.
+This definition includes what's often called "fictive kin": people who aren't related by blood, marriage, or adoption but have meaningful relationships with the youth or family.
 
 Multiple child welfare advocates came together to unanimously recommend this definition to the federal government as part of the comment period on the kin-specific licensing rule.
 
