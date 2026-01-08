@@ -14,7 +14,7 @@ redirectFrom:
 ---
 Caregivers often leave the system feeling overextended and underappreciated, especially when basic maintenance payments don't cover the full costs of caregiving. Caregivers need regular breaks to avoid burnout and maintain their ability to provide quality care.
 
-Provide additional financial support through respite payments, activity stipends, and earning opportunities. This helps caregivers manage costs, take necessary breaks, and feel valued, which improves retention and enables caregivers to support children and youth with higher levels of need.
+Provide additional financial support through respite payments, activity stipends, and earning opportunities. This helps caregivers manage costs, take necessary breaks, and feel valued, which improves retention and enables caregivers to support youth with higher levels of need.
 
 ## How to do this
 
@@ -24,9 +24,9 @@ Provide direct stipends to caregivers or payments to respite homes. In states wh
 
 Normalize taking respite by proactively paying for it on a regular basis rather than requiring caregivers to apply. Continue paying caregivers their normal rate on days they use respite to avoid creating a financial disincentive to taking time off.
 
-### Offer stipends for children's activities and experiences
+### Offer stipends for activities and experiences
 
-Provide summer camp stipends to caregivers, including unlicensed kinship caregivers. Check if your state's Department of Aging provides summer camp stipends to children and youth raised by kin caregivers over age 55. If they do, partner with them to offer stipends to older caregivers. Consider stipends for other activities that support normal childhood experiences, like extracurricular activities and educational fees.
+Provide summer camp stipends to caregivers, including unlicensed kinship caregivers. Check if your state's Department of Aging provides summer camp stipends to youth raised by kin caregivers over age 55. If they do, partner with them to offer stipends to older caregivers. Consider stipends for other activities that support normal childhood experiences, like extracurricular activities and educational fees.
 
 ### Create earning opportunities for caregivers
 
@@ -44,7 +44,7 @@ Prioritize caregivers when hiring for part-time and full-time roles at your agen
 
 **Washington, DC** hires foster parents as trainers.
 
-**Virginia** provides a $500 stipend for summer camp to every child.
+**Virginia** provides a $500 stipend for summer camp to every youth.
 
 **Colorado** has a mobile app (The Foster Family Business App) that provides discounts at local stores.
 
