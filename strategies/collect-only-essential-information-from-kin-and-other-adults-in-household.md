@@ -23,7 +23,7 @@ You should also collect this information from any people over 18 who regularly l
 
 **Don't ask applicants to write out their criminal history.** Let background checks reveal criminal history rather than asking kin to self-report. Engage kin caregivers in conversations about their history when needed, but never require them to write down a complete criminal history. Self-reporting can lead to mistakes. And it creates barriers when kin share information about issues that may not actually prevent them from caring for youth.
 
-**Explain why information is needed**. Tell kin caregivers that background checks help protect them and keep the child with them. Explain how sensitive information like Social Security numbers will be used and protected. Provide clear information about what to expect throughout the process and why each piece of information is necessary.
+**Explain why information is needed**. Tell kin caregivers that background checks help protect them and keep the youth with them. Explain how sensitive information like Social Security numbers will be used and protected. Provide clear information about what to expect throughout the process and why each piece of information is necessary.
 
 **Avoid repeat collection.** Use information already collected rather than asking for the same details multiple times throughout the process. Figure out what information you’ll need for subsequent checks so that you don’t have to ask for it again. 
 
