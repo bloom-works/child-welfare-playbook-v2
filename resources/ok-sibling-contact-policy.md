@@ -6,5 +6,6 @@ url: http://okrules.elaws.us/oac/340:75-6-30
 tags:
   - resource
   - supportive-relationships
-description: Rights to visitation when a child or youth is in state human services custody and an out-of-home placement.
+description: Rights to visitation when a youth is in state human services
+  custody and an out-of-home placement.
 ---
