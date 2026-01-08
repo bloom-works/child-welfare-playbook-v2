@@ -32,7 +32,7 @@ Make this process easier for potential caregivers by providing quick and accessi
 
 **Fingerprint absent or emerging adults later, and only when necessary.** Approve kin right away. You’re not required to conduct fingerprint-based checks on other adults in the home for federal approval. If you’re a tribe, or your agency chooses to fingerprint others for other reasons, don’t delay placement while these adults are absent from the household (like if they’re deployed in the military, away at school, or about to turn 18). You can arrange their fingerprinting when they’re coming back or when they officially become an adult. 
 
-**Use purpose codes to avoid re-fingerprinting.** The FBI only lets you reuse fingerprints for the same purpose as the original collection, so include a “purpose code” when you initially collect fingerprints. Purpose Code X for foster care lets you reuse fingerprints across child welfare needs like kinship care, adoption, and future household changes, such as when an adult youth returns home from college. This code isn’t just for emergencies. Use it to avoid unnecessary re-fingerprinting, reduce costs, and prevent errors.
+**Use purpose codes to avoid re-fingerprinting.** The FBI only lets you reuse fingerprints for the same purpose as the original collection, so include a “purpose code” when you initially collect fingerprints. Purpose Code X for foster care lets you reuse fingerprints across child welfare needs like kinship care, adoption, and future household changes, such as when an adult child returns home from college. This code isn’t just for emergencies. Use it to avoid unnecessary re-fingerprinting, reduce costs, and prevent errors.
 
 ## This strategy in action
 
