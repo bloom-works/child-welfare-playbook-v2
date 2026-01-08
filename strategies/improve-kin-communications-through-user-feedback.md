@@ -9,10 +9,9 @@ order: "12"
 redirectFrom:
   - /recommendations/test-your-communications-with-real-kin/
 ---
-
 Potential kin placements and connections may be scared off by your existing messages and forms. If your communications look like legal notices, use lots of government acronyms and jargon, or aren't translated, they may be discarded or overlooked.
 
-Test your messages with kin to make sure they are clear and actionable. Improve your messaging based on the feedback you get. This can increase the effectiveness of your kin engagement. It's particularly important to test notices that are sent to kin within 30 days of a child or youth’s removal.
+Test your messages with kin to make sure they are clear and actionable. Improve your messaging based on the feedback you get. This can increase the effectiveness of your kin engagement. It's particularly important to test notices that are sent to kin within 30 days of a youth’s removal.
 
 ## How to do this
 
