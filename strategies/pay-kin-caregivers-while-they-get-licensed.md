@@ -11,7 +11,7 @@ resources:
 redirectFrom:
   - /recommendations/pay-kinship-caregivers-until-they-get-licensed/
 ---
-Kin caregivers aren't eligible for federal foster care reimbursement until they complete the licensing process. In many states, this can take hundreds of days, and some states have allowed kin caregivers to remain unlicensed (and unpaid) idefinitely. This lack of financial support can severely impact a kin caregiver's ability to provide a stable placement.
+Kin caregivers aren't eligible for federal foster care reimbursement until they complete the licensing process. In many states, this can take hundreds of days, and some states have allowed kin caregivers to remain unlicensed (and unpaid) indefinitely. This lack of financial support can severely impact a kin caregiver's ability to provide a stable placement.
 
 Pay kin caregivers while they work through the licensing process to help them financially support youth in their care. 
 
@@ -31,8 +31,8 @@ Pay kin caregivers while they work through the licensing process to help them fi
 
 **Michigan** can use state funds for unlicensed kin caregivers.
 
-**Oklahoma** pays kin caregivers for the first 60 days after they take the child or youth into their care. By then, they are usually licensed and eligible for regular maintenance payments. If the caregiver is still not licensed and Oklahoma determines the delay is due to the state, it will continue paying the kin caregiver until they're licensed.
+**Oklahoma** pays kin caregivers for the first 60 days after they take the youth into their care. By then, they are usually licensed and eligible for regular maintenance payments. If the caregiver is still not licensed and Oklahoma determines the delay is due to the state, it will continue paying the kin caregiver until they're licensed.
 
-**Oklahoma** has a 1-time Kinship Start Up Stipend (KSUS) after the child has been in placement for 15 days. It’s equivalent to a month of foster care maintenance.
+**Oklahoma** has a 1-time Kinship Start Up Stipend (KSUS) after the youth has been in placement for 15 days. It’s equivalent to a month of foster care maintenance.
 
 **Illinois** has a Startup Fund Program where new placements start with a $500 Visa prepaid gift card for caregivers.
