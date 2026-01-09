@@ -3,10 +3,14 @@ layout: layouts/meeting.njk
 templateEngineOverride: md,njk
 meetingType: Prevention collaborative meeting
 title: January 8, 2026
-date: 2026-01-09
+date: 2026-01-08
 youtubeId: OhmZo_v8
 tags:
-  - story
+  - prevention
+resources:
+  - Community Response Guide
+  - "Presentation slides: Community Response Guide and San Diego Family
+    Connection Hub"
 ---
 Emerson Ives and Heather Meitner from Evident Change, along with Sarah 
 Glass from San Diego County, presented on their Community Response Guide
