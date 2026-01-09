@@ -19,7 +19,7 @@ Adult siblings are often prevented from visiting their younger siblings in care 
 
 ## This strategy in action
 
-**Fairfax County, VA** does not require background checks for children in care to visit and contact their adult siblings.
+**Fairfax County, VA** does not require background checks for youth in care to visit and contact their adult siblings.
 
 **Rhode Island** treats visits with familiar adult siblings as normal parenting decisions that don't need agency approval.
 
