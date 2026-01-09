@@ -4,8 +4,8 @@ title: Background checks
 id: background-checks
 order: 3
 icon: shield-plus
-summary: Simplify background check processes to more quickly place children and
-  youth without compromising their safety.
+summary: Simplify background check processes to more quickly place youth without
+  compromising their safety.
 redirectFrom:
   - https://childwelfareplaybook.com/topics/out-of-state-background-checks/
 image: /images/banners/background-checks.jpg
