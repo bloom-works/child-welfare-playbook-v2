@@ -5,7 +5,7 @@ id: recruitment
 order: 6
 icon: binoculars
 summary: Find and engage potential foster parents who can meet the specific
-  needs of children and youth in your community.
+  needs of youth in your community.
 redirectFrom: https://childwelfareplaybook.com/topics/recruitment/
 image: /images/banners/recruitment.jpg
 ---
