@@ -9,8 +9,7 @@ order: 2
 redirectFrom:
   - /recommendations/require-private-agency-emergency-beds/
 ---
-
-Even if you contract beds from private agencies, you may find that they don't have capacity for emergency placements. This can lead to placing children inappropriately.
+Even if you contract beds from private agencies, you may find that they don't have capacity for emergency placements. This can lead to placing youth inappropriately.
 
 Include requirements for emergency bed capacity in your contracts with private agencies. This ensures guaranteed emergency placement options in family settings.
 
