@@ -17,7 +17,7 @@ Since child welfare cases appear before judges regularly, court hearings provide
 
 **Use court hearings as checkpoints for efforts to engage kin.** Work with the courts to create a bench card with questions for judges to ask about activities, challenges, and next steps for identifying and connecting with kin. This should be done at each step of the case, including the first protective custody order, the shelter care hearing, the adjudicatory hearing, the dispositional hearing, and the permanency hearing.
 
-**Emphasize the importance of following up on these efforts to judges.** This isn't a box-checking exercise: if there hasn’t been a thorough attempt to find and connect with a child or youth’s kin, judges should request timely follow-ups.
+**Emphasize the importance of following up on these efforts to judges.** This isn't a box-checking exercise: if there hasn’t been a thorough attempt to find and connect with a youth's kin, judges should request timely follow-ups.
 
 **Remove legal barriers to finding paternal kin.** Some jurisdictions require legal paternity to be established before searching for the father's relatives, which can delay or prevent finding those kin. Review and update these requirements using feedback from families and workers. Allow team members to search for paternal kin even when paternity hasn't been legally established.
 
@@ -29,5 +29,5 @@ Since child welfare cases appear before judges regularly, court hearings provide
 
 * Has the caseworker requested relative information from both parents and followed up to determine if the relatives are placement resources?  
 * Has DHS used available technology to search for relatives?  
-* Has anyone asked the child about placement preferences?  
+* Has anyone asked the youth about placement preferences?  
 * What has DHS done to keep siblings in care together?[](https://www.courts.oregon.gov/programs/jcip/Documents/Hearings-Shelter.pdf)
