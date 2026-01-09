@@ -25,4 +25,4 @@ Use a red team to conduct kin research, construct a genogram, and ask youth dire
 
 ## This strategy in action
 
-**Rhode Island** requires a red team meeting before any group placement, or any placement into a home that already has at least 1 other unrelated foster child. The meeting is led by the department's chief of staff.
+**Rhode Island** requires a red team meeting before any group placement, or any placement into a home that already has at least 1 other unrelated foster youth. The meeting is led by the department's chief of staff.
