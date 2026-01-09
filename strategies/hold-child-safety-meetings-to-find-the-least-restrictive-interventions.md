@@ -14,7 +14,7 @@ redirectFrom:
 ---
 Even when there are safety concerns, it isn't always necessary to remove a youth from their home. 
 
-Hold child safety meetings that include the family, other supportive people, and skilled staff. This can often identify other interventions that keep youth safe while keeping the family together.
+Hold youth safety meetings that include the family, other supportive people, and skilled staff. This can often identify other interventions that keep youth safe while keeping the family together.
 
 ## How to do this
 
@@ -28,4 +28,4 @@ Hold child safety meetings that include the family, other supportive people, and
 
 ## This strategy in action
 
-**Oklahoma** holds child safety meetings in any situation that might require a safety intervention. They include parents, youth (when appropriate), family supports, and agency staff. These meetings have helped Oklahoma serve more youth through prevention services and safely reduce the number of youth in out-of-home care.
+**Oklahoma** holds youth safety meetings in any situation that might require a safety intervention. They include parents, youth (when appropriate), family supports, and agency staff. These meetings have helped Oklahoma serve more youth through prevention services and safely reduce the number of youth in out-of-home care.
