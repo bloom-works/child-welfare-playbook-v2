@@ -15,10 +15,10 @@ Set time limits on voluntary safety plans and schedule regular reviews to end or
 
 ## How to do this
 
-**Set a policy requiring time limits.** Create a policy that voluntary safety plans made to keep children from entering foster care must have a specific timeframe.
+**Set a policy requiring time limits.** Create a policy that voluntary safety plans made to keep youth from entering foster care must have a specific time-frame.
 
-**Track plan dates in your system.** Make sure there's a way in your IT system, or a reliable workaround method, to keep track of plan dates. Set up reminders far enough in advance to avoid last-minute planning emergencies. The timeframe for reminders depends on your jurisdiction's capacity to plan and schedule meetings. For example, if it takes an average of 3 weeks to schedule this kind of meeting, your reminder should be at least a month before expiration.
+**Track plan dates in your system.** Make sure there's a way in your IT system, or a reliable workaround method, to keep track of plan dates. Set up reminders far enough in advance to avoid last-minute planning emergencies. The time-frame for reminders depends on your jurisdiction's capacity to plan and schedule meetings. For example, if it takes an average of 3 weeks to schedule this kind of meeting, your reminder should be at least a month before expiration.
 
 ## This strategy in action
 
-**Oklahoma's** [Family Centered Services](https://oklahoma.gov/okdhs/services/cws/cwparent-fcs.html) is offered to families to help children and families stay together after an investigation has identified safety concerns. They limit these plans to 6 months. If a child has to go to a voluntary out-of-home placement, the goal is to move to an in-home safety plan within 60 days. If the out-of-home placement is expected to last more than 90 days, it requires higher levels of approval.
+**Oklahoma's** [Family Centered Services](https://oklahoma.gov/okdhs/services/cws/cwparent-fcs.html) is offered to families to help youth and families stay together after an investigation has identified safety concerns. They limit these plans to 6 months. If a youth has to go to a voluntary out-of-home placement, the goal is to move to an in-home safety plan within 60 days. If the out-of-home placement is expected to last more than 90 days, it requires higher levels of approval.
