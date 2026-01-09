@@ -1,7 +1,7 @@
 ---
 layout: layouts/strategy.njk
 templateEngineOverride: md,njk
-title: Ask children and youth about their kin
+title: Ask youth about their kin
 tags:
   - strategy
   - kin-engagement
@@ -12,26 +12,26 @@ resources:
 redirectFrom:
   - /recommendations/ask-about-supportive-adults/
 ---
-Children and youth are often placed in general foster care or group homes when they have placement options with adults they already know and trust. Asking children and youth about the supportive adults in their lives can help find more kin placements faster, and avoid unnecessary placements with strangers. 
+Youth are often placed in general foster care or group homes when they have placement options with adults they already know and trust. Asking Youth about the supportive adults in their lives can help find more kin placements faster, and avoid unnecessary placements with strangers. 
 
 ## How to do this
 
-**Make asking about connections a standard practice.** Require workers to talk to children and youth about their connections, no matter how young. Supervisors can encourage this by regularly asking, "What did the youth say?" Ask children and youth about their supportive connections at every placement change and at regular intervals, like monthly check-ins.
+**Make asking about connections a standard practice.** Require workers to talk to youth about their connections, no matter how young. Supervisors can encourage this by regularly asking, "What did the youth say?" Ask youth about their supportive connections at every placement change and at regular intervals, like monthly check-ins.
 
 **Use careful, non-threatening language.** Phrase inquiries so young people don't feel like they have to supply a placement option or they'll be homeless. Helpful prompts include: "Who came to your last family gathering?" and "Who would you call if you needed a ride home from school?"
 
-**Document and maintain connections.** Designate an official place in your IT system for keeping a child or youth's list of kin. Use [heart maps](https://drive.google.com/file/d/1T5B5ZGW-Q5wT5ZOwFCBsmr_j_haJfWKg/view?usp=sharing) with children and youth to learn more about their supportive adults. Help children and youth stay connected to supportive adults even when they're not placement options by creating opportunities for regular phone calls, visits, or other contact.
+**Document and maintain connections.** Designate an official place in your IT system for keeping a youth's list of kin. Use [heart maps](https://drive.google.com/file/d/1T5B5ZGW-Q5wT5ZOwFCBsmr_j_haJfWKg/view?usp=sharing) with youth to learn more about their supportive adults. Help youth stay connected to supportive adults even when they're not placement options by creating opportunities for regular phone calls, visits, or other contact.
 
 ## This strategy in action
 
-**Wisconsin** has developed suggested questions for talking to children and youth about their connections. 
+**Wisconsin** has developed suggested questions for talking to youth about their connections. 
 
-**Indiana** is piloting a practice of child welfare workers asking about a child or youth's kin connections they call the placement desk.
+**Indiana** is piloting a practice of child welfare workers asking about a youth's kin connections they call the placement desk.
 
-**New Mexico** increased initial kinship placements significantly in 1 year by shifting to practices that focus on the child or youth. This includes asking about their supportive connections. 
+**New Mexico** increased initial kinship placements significantly in 1 year by shifting to practices that focus on the youth. This includes asking about their supportive connections. 
 
-**Rhode Island** set up Zoom meetings during the COVID-19 pandemic with each group home facility and met with each child or youth 1-on-1 to discuss their placement options. They successfully moved many children and youth from group homes into kin placements.
+**Rhode Island** set up Zoom meetings during the COVID-19 pandemic with each group home facility and met with each youth 1-on-1 to discuss their placement options. They successfully moved many youth from group homes into kin placements.
 
-**Fairfax County, Virginia** conducts family finding for children and youth annually and at every placement change.
+**Fairfax County, Virginia** conducts family finding for youth annually and at every placement change.
 
 [](https://childwelfareplaybook.com/recommendations/use-heart-map)
