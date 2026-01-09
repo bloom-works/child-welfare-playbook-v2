@@ -1,7 +1,7 @@
 ---
 layout: layouts/topic.njk
 summary: Find and engage family members and other trusted adults who can care
-  for children and youth or provide ongoing support.
+  for youth or provide ongoing support.
 redirectFrom:
   - https://childwelfareplaybook.com/topics/finding-kin/
 featured: true
