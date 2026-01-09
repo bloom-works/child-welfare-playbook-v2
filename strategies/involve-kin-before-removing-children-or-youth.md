@@ -1,7 +1,7 @@
 ---
 layout: layouts/strategy.njk
 templateEngineOverride: md,njk
-title: Involve kin before removing children or youth
+title: Involve kin before removing youth
 tags:
   - strategy
   - prevention
@@ -14,7 +14,7 @@ resources:
 redirectFrom:
   - /recommendations/involve-kin-prior-to-removal/
 ---
-Sometimes a family could stay together safely if they had more support, but the agency may not engage kin before it's necessary to remove the child or youth.
+Sometimes a family could stay together safely if they had more support, but the agency may not engage kin before it's necessary to remove the youth.
 
 Identify and engage kin early in your work with families to provide kin-based support and help families stay together.
 
@@ -26,7 +26,7 @@ Identify and engage kin early in your work with families to provide kin-based su
 
 **Keep asking about kin at every interaction.** The stress and potential shame of being involved with the child welfare system may discourage people from sharing at first.
 
-**Let kin complete approval steps ahead of time.** Allow kin to complete steps like background checks before it becomes necessary to remove the child or youth. That way, they’re already approved if they’re needed. These proactive background checks for kin caregivers should be good for 1 year, though you should confirm there are no new state, local, or tribal criminal history or sex offender registry results if placement is later needed.
+**Let kin complete approval steps ahead of time.** Allow kin to complete steps like background checks before it becomes necessary to remove the youth. That way, they’re already approved if they’re needed. These proactive background checks for kin caregivers should be good for 1 year, though you should confirm there are no new state, local, or tribal criminal history or sex offender registry results if placement is later needed.
 
 ## This strategy in action
 
