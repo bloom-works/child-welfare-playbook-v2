@@ -16,11 +16,11 @@ Almost every state has official policies requiring agencies to search for placem
 
 ## How to do this
 
-**Track separated sibling groups.** Confirm that you can generate a report of children in foster care who are separated from at least 1 sibling, distinguishing by kin and non-kin placement.
+**Track separated sibling groups.** Confirm that you can generate a report of youth in foster care who are separated from at least 1 sibling, distinguishing by kin and non-kin placement.
 
 **Keep separated siblings on recruitment lists.** Confirm that siblings who are separated in foster care and not all with kin caregivers remain on the recruitment lists for the recruitment and placement teams.
 
-**Include recruitment updates in regular case reviews.** Confirm that regular case check-ins include updates on recruitment efforts for separated sibling groups who are not all placed with kin. (These meetings may be called family team decision meetings, child and family team meetings, or something else in your jurisdiction.)
+**Include recruitment updates in regular case reviews.** Confirm that regular case check-ins include updates on recruitment efforts for separated sibling groups who are not all placed with kin. (These meetings may be called family team decision meetings, youth and family team meetings, or something else in your jurisdiction.)
 
 ## This strategy in action
 
@@ -28,6 +28,6 @@ Almost every state has official policies requiring agencies to search for placem
 
 **Rhode Island** regularly meets with case work supervisors and reviews all cases where kids are not placed in kin to see if any kin can be identified.
 
-**Washington State** has a report available in its case management system listing children in care who are separated from siblings. This report includes children who are currently in care who have a sibling who was recently discharged from care.
+**Washington State** has a report available in its case management system listing youth in care who are separated from siblings. This report includes youth who are currently in care who have a sibling who was recently discharged from care.
 
 **New Hampshire** has a program called Roadmaps to Reunification that focuses on siblings being together.
