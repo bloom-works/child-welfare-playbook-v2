@@ -21,7 +21,7 @@ Offer convenient, high-value training opportunities and events for families that
 
 **Make attendance easy.** Secure childcare, provide lunch and snacks, and make transportation accessible by providing bus vouchers or choosing convenient locations. Post the training online with clear instructions on how to sign up, and notify families with renewal dates in the next 4 to 6 months about upcoming training dates.
 
-**Provide meaningful voluntary options for kin.** Don’t require training as a condition for kin caregiver approval or licensure. Kin therefore shouldn’t have to renew approvals unless the original circumstances change, like moving to a new home. Instead, make tailored, optional training available to help them support youth in their care, such as affirming training for LGBTQ+ youth or specialized guidance for grandparents caring for children younger than 5. 
+**Provide meaningful voluntary options for kin.** Don’t require training as a condition for kin caregiver approval or licensure. Kin therefore shouldn’t have to renew approvals unless the original circumstances change, like moving to a new home. Instead, make tailored, optional training available to help them support youth in their care, such as affirming training for LGBTQ+ youth or specialized guidance for grandparents caring for youth younger than 5. 
 
 ## This strategy in action
 
