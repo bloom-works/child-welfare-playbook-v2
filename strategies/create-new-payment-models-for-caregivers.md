@@ -27,7 +27,7 @@ Provide support services at all hours to help families maintain placements. Cont
 
 ## This strategy in action
 
-**Washington, DC** pays an annual stipend of $1200 if a youth has been with a caregiver for 12 consecutive months, and operates 2 professional programs: PPY (Pregnant and Parenting Youth) and SOAR (Stabilize Observe Assess and Respite) for high-need children and youth. They pay an annual salary plus health insurance stipends and have achieved a 95% placement stability rate.
+**Washington, DC** pays an annual stipend of $1200 if a youth has been with a caregiver for 12 consecutive months, and operates 2 professional programs: PPY (Pregnant and Parenting Youth) and SOAR (Stabilize Observe Assess and Respite) for high-need youth. They pay an annual salary plus health insurance stipends and have achieved a 95% placement stability rate.
 
 **California** has a successful professional foster parent program through Uplift Human Services.
 
