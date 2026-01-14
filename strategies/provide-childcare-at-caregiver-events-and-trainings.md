@@ -18,9 +18,9 @@ This helps more caregivers complete your licensing process, and do it faster. It
 
 **Provide childcare for required agency steps.** This is especially important for kin caregivers who need to complete requirements to keep their placement, like fingerprinting or medical exams.
 
-**Use community volunteers when possible.** If your policy allows it, look for community members who can volunteer to provide childcare. This can be a smart recruitment strategy too, as it introduces more people to children in care and the idea of fostering.
+**Use community volunteers when possible.** If your policy allows it, look for community members who can volunteer to provide childcare. This can be a smart recruitment strategy too, as it introduces more people to youth in care and the idea of fostering.
 
-**Include all children in the home.** Offer childcare for both children in care and other children in the home.
+**Include all youth in the home.** Offer childcare for both youth in care and other youth in the home.
 
 **Keep it simple.** The childcare doesn't have to be fancy. Putting on a movie can be enough.
 
