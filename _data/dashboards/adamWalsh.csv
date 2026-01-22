@@ -1,55 +1,55 @@
-Jurisdiction,No fee,No notarized or witnessed signature,Accepts attestation of consent,General inbox for receiving requests,Accept electronic requests
-Alabama,Fully implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-Alaska,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
+Jurisdiction,Accepts attestation of consent,Accept electronic requests,General inbox for receiving requests,No fee,No notarized or witnessed signature
+Alabama,Not implemented,Not implemented,Fully implemented,Fully implemented,Not implemented
+Alaska,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
 American Samoa,Not implemented,Not implemented,Not implemented,Not implemented,Not implemented
-Arizona,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Arkansas,Fully implemented,Fully implemented,Not implemented,Fully implemented,Not implemented
-California,Not implemented,Fully implemented,Fully implemented,Fully implemented,Not implemented
-Colorado,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Arizona,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Arkansas,Not implemented,Not implemented,Fully implemented,Fully implemented,Fully implemented
+California,Fully implemented,Not implemented,Fully implemented,Not implemented,Fully implemented
+Colorado,Fully implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
 Connecticut,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
-Delaware,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-"Washington, D.C.",Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Florida,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Georgia,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Guam,Fully implemented,Fully implemented,Partially implemented,Not implemented,Fully implemented
-Hawaii,Fully implemented,Fully implemented,Not implemented,Fully implemented,Not implemented
-Idaho,Not implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-Illinois,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Indiana,Fully implemented,Fully implemented,Not implemented,Fully implemented,Partially implemented
-Iowa,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Kansas,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Kentucky,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
-Louisiana,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Maine,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Maryland,Fully implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-Massachusetts,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Michigan,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Minnesota,Not implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-Mississippi,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Missouri,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Montana,Fully implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-Nebraska,Not implemented,Not implemented,Not implemented,Fully implemented,Fully implemented
-Nevada,Fully implemented,Not implemented,Fully implemented,Fully implemented,Fully implemented
-New Hampshire,Fully implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-New Jersey,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-New Mexico,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-New York,Fully implemented,Not implemented,Not implemented,Fully implemented,Not implemented
-North Carolina,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-North Dakota,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Ohio,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
+Delaware,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+"Washington, D.C.",Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Florida,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Georgia,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Guam,Partially implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
+Hawaii,Not implemented,Not implemented,Fully implemented,Fully implemented,Fully implemented
+Idaho,Not implemented,Not implemented,Fully implemented,Not implemented,Not implemented
+Illinois,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Indiana,Not implemented,Partially implemented,Fully implemented,Fully implemented,Fully implemented
+Iowa,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Kansas,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Kentucky,Fully implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+Louisiana,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Maine,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+Maryland,Not implemented,Not implemented,Fully implemented,Fully implemented,Not implemented
+Massachusetts,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Michigan,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Minnesota,Not implemented,Not implemented,Fully implemented,Not implemented,Not implemented
+Mississippi,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Missouri,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+Montana,Not implemented,Not implemented,Fully implemented,Fully implemented,Not implemented
+Nebraska,Not implemented,Fully implemented,Fully implemented,Not implemented,Not implemented
+Nevada,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Not implemented
+New Hampshire,Not implemented,Not implemented,Fully implemented,Fully implemented,Not implemented
+New Jersey,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+New Mexico,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+New York,Not implemented,Not implemented,Fully implemented,Fully implemented,Not implemented
+North Carolina,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+North Dakota,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Ohio,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
 Oklahoma,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
-Oregon,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Pennsylvania,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Puerto Rico,Fully implemented,Not implemented,Not implemented,Partially implemented,Partially implemented
-Rhode Island,Fully implemented,Fully implemented,Fully implemented,Partially implemented,Fully implemented
-South Carolina,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-South Dakota,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
+Oregon,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Pennsylvania,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+Puerto Rico,Not implemented,Partially implemented,Partially implemented,Fully implemented,Not implemented
+Rhode Island,Fully implemented,Fully implemented,Partially implemented,Fully implemented,Fully implemented
+South Carolina,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+South Dakota,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
 Tennessee,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
-Texas,Fully implemented,Not implemented,Not implemented,Fully implemented,Fully implemented
-Utah,Fully implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Vermont,Fully implemented,Not implemented,Not implemented,Fully implemented,Fully implemented
-Virginia,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-Washington,Not implemented,Fully implemented,Not implemented,Fully implemented,Fully implemented
-West Virginia,Fully implemented,Fully implemented,Not implemented,Fully implemented,Not implemented
+Texas,Not implemented,Fully implemented,Fully implemented,Fully implemented,Not implemented
+Utah,Not implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
+Vermont,Not implemented,Fully implemented,Fully implemented,Fully implemented,Not implemented
+Virginia,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+Washington,Not implemented,Fully implemented,Fully implemented,Not implemented,Fully implemented
+West Virginia,Not implemented,Not implemented,Fully implemented,Fully implemented,Fully implemented
 Wisconsin,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
 Wyoming,Fully implemented,Fully implemented,Fully implemented,Fully implemented,Fully implemented
