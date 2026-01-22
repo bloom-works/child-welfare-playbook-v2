@@ -38,14 +38,13 @@ collections:
           - { label: "Meta description", name: "description", widget: "string", required: false }
           - { label: "Banner subheader", name: "subheader", widget: "markdown", minimal: true, required: false }
           - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
-      - label: "Meetings and dashboard page meta descriptions"
-        name: "meetingsDashboards"
-        file: "_data/meetingsDashboards.yml"
+      - label: "Meetings page meta description"
+        name: "meetings"
+        file: "_data/meetings.yml"
         editor:
           preview: false
         fields:
           - { label: "Meetings page meta description", name: "meetingsMetaDescription", widget: "string", required: false }
-          - { label: "Dashboards page meta description", name: "dashboardsMetaDescription", widget: "string", required: false }
       - label: "Footer"
         name: "footer"
         file: "_data/footer.yml"
@@ -55,13 +54,6 @@ collections:
           - { label: "Button text", name: "buttonText", widget: "markdown", minimal: true, required: false }
           - { label: "Button URL", name: "buttonURL", widget: "string", required: false }
           - { label: "Copyright credit", name: "credit", widget: "string", required: false }
-      - label: "Adam Walsh Dashboard page"
-        name: "adamWalsh"
-        file: "_data/adamWalsh.yml"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Intro copy", name: "intro", widget: "markdown", required: false }
-
   - name: "topics"
     label: "Topics"
     folder: "topics"
@@ -130,6 +122,22 @@ collections:
       - { label: "Upload resource", name: "file", widget: "file", media_library: { media_folder: "/assets/"}, required: false}
       - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story"], default: ["resource"], hint: "Add your topics here"}
       - { label: "Body", name: "description", widget: "markdown" }
+      - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
+
+  - name: "dashboards"
+    label: "Dashboards"
+    folder: "dashboards"
+    create: true
+    label_singular: "dashboard"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/dashboard.njk" }
+      - { label: "Template Engine", name: "templateEngineOverride", widget: "hidden", default: "md,njk" }
+      - { label: "Name of dashboard", name: "title", widget: "string" }
+      - { label: "Page description", name: "description", widget: "string" }
+      - { label: "Introduction", name: "intro", widget: "markdown", required: false }
+      - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/dashboards/dashboard-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
+      - { label: "Dashboard data", name: "dashboardData", widget: "string", hint: "The filename of the spreadsheet you uploaded." }
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story", "dashboard"], default: ["dashboard"], hint: "Add your topics here"}
       - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
   - name: "meetings"
     label: "Meetings"

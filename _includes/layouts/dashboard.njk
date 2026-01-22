@@ -2,7 +2,6 @@
 layout: layouts/default.njk
 pageIndex: all
 eleventyComputed:
-  description: "{{ meetingsDashboards.dashboardsMetaDescription }}"
   backLinkUrl: "{%- if tags and tags.length <= 2 -%}{%- for tag in tags -%}{%- if tag != 'dashboard' -%}/topics/{{ tag }}{%- endif -%}{%- endfor -%}{%- endif -%}"
   pagefindTitle: "Dashboard: {{ title }}"
   pageCss: "{% include 'css/components/dashboard-card.css' %}"
@@ -10,10 +9,33 @@ banner:
   image: /images/banners/dashboard.jpg
 ---
 
+{% set pageData = dashboardData | replace(".csv", "") %}
+
 {%- from '_macros/page-banner.njk' import pageBanner with context -%}
 {%- from '_macros/resource-card.njk' import resourceCard -%}
 {%- from '_macros/topic-card.njk' import topicCard %}
 {%- from '_macros/story-card.njk' import storyCard %}
+
+{%- macro checked(field) -%}
+  {%- if field | lower == "fully implemented" -%}
+    true
+  {%- elif field | lower == "partially implemented" -%}
+    partial
+  {%- else -%}
+    false
+  {%- endif -%}
+{%- endmacro -%}
+
+{%- macro implementedCount(field) -%}
+  {%- if field | lower == "fully implemented" -%}
+    1
+  {%- elif field | lower == "partially implemented" -%}
+    0.5
+  {%- else -%}
+    0
+  {%- endif -%}
+{%- endmacro -%}
+
 
 {{ pageBanner({
   type: "dashboard",
@@ -26,8 +48,49 @@ banner:
   })
 }}
 
+
 <div class="l-wrapper">
   <div class="l-section">
-    {{ content | md | safe }}
+
+    <div class="l-stack-basic">
+      <div class="l-wrapper-text">
+        <div class="l-stack-basic">
+          {{ intro | md | safe }}
+        </div>
+      </div>
+
+    <div class="l-grid dashboard-grid">
+      {% for row in dashboards[pageData] %}
+
+      {% set implementedNumber = 0 %}
+
+      {% for key, value in row %}
+        {% set implementedNumber = implementedNumber + implementedCount(value) | float %}
+      {% endfor %}
+
+      {%- set implementedText -%}
+        {%- if implementedNumber == 0 -%}
+          None implemented
+        {%- elif implementedNumber < 5 -%}
+          Partially implemented
+        {%- else -%}
+          All implemented
+        {%- endif -%}
+      {%- endset -%}
+        <section class="dashboard-card">
+          <header>
+            <h3 class="nametag-badge subhead">{{ row["Jurisdiction"] }}</h3>
+          </header>
+          <ul>
+            {% for key, value in row %}
+              {% if key !== "Jurisdiction"  %}
+                <li data-checked="{{ checked(value) }}">{{ key }}<span class="sr-only">: {{  value }}</span></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+          <p class="dashboard-status">{{ implementedText }}</p>
+        </section>
+      {% endfor %}
+    </div>
   </div>
 </div>
