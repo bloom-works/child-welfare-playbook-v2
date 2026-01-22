@@ -1,3 +1,4 @@
+import { parse } from "csv-parse/sync";
 import fs from "fs";
 import path from "path";
 import yaml from "js-yaml";
@@ -29,6 +30,15 @@ export default async function(eleventyConfig) {
   eleventyConfig.addNunjucksFilter("cssmin", code => {
     return new CleanCSS({}).minify(code).styles;
   });
+
+  eleventyConfig.addDataExtension("csv", (contents) => {
+    const records = parse(contents, {
+      columns: true,
+      skip_empty_lines: true,
+    })
+    console.log(`${records.length} records found`);
+    return records
+  })
 
   eleventyConfig.addPassthroughCopy("./favicon.ico");
   eleventyConfig.addPassthroughCopy("./favicon.svg");
@@ -186,5 +196,4 @@ export default async function(eleventyConfig) {
       file.excerpt = plaintext.substring(0, Math.min(dot, newline));
     },
   });
-
 }
