@@ -36,7 +36,6 @@ export default async function(eleventyConfig) {
       columns: true,
       skip_empty_lines: true,
     })
-    console.log(`${records.length} records found`);
     return records
   })
 
