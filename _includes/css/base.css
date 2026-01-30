@@ -49,9 +49,8 @@ svg {
 }
 
 .skip-link {
-  background: var(--c-accent);
-  color: var(--c-accent-text);
-  font-family: var(--font-secondary);
+  background: var(--c-blue);
+  color: #fff;
   text-decoration: none;
   font-size: 2em;
   opacity: 0;
@@ -68,8 +67,8 @@ svg {
 .skip-link:hover,
 .skip-link:active,
 .skip-link:focus {
-  background: var(--c-accent);
-  color: var(--c-accent-text);
+  background: var(--c-blue);
+  color: #fff;
 }
 
 .skip-link:focus {
