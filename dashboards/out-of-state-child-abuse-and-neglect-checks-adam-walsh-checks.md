@@ -30,9 +30,11 @@ intro: >
 
 
   Learn more about how to [simplify the process for out-of-state child abuse and neglect checks.](/strategies/simplify-the-process-for-out-of-state-child-abuse-and-neglect-checks/)
-permalink: /dashboards/adam-walsh/
+permalink: /dashboards/abuse-neglect-checks/
 dashboardData: adamWalsh.csv
 tags:
   - dashboard
   - background-checks
+redirectFrom:
+  - /dashboards/adam-walsh/
 ---
