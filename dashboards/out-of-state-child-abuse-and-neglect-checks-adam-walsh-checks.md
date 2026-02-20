@@ -1,7 +1,7 @@
 ---
 layout: layouts/dashboard.njk
 templateEngineOverride: md,njk
-title: Out-of-state child abuse and neglect checks (Adam Walsh checks)
+title: Out-of-state child abuse and neglect checks
 description: Track which jurisdictions have implemented promising practices for
   out-of-state child abuse and neglect checks.
 intro: >
