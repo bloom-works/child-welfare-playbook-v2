@@ -6,7 +6,7 @@ title: November 20, 2025
 date: 2025-11-20
 youtubeId: lvDAr7ZreJY
 tags:
-  - resource
+  - kin-engagement
 resources:
   - "Presentation slides: Learnings from kin placement data"
 ---
