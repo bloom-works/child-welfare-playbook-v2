@@ -9,6 +9,8 @@ order: 5
 resources:
   - Michigan diligent search checklist
   - Florida kin engagement guide
+  - Grandfamilies kin mobilization learning collaborative
+  - Government Performance Lab kin-first management strategies
 redirectFrom:
   - /recommendations/maintain-a-shared-list-of-kin/
 ---
