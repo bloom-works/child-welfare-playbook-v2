@@ -11,7 +11,7 @@ redirectFrom:
 ---
 Potential kin placements and connections may be scared off by your existing messages and forms. If your communications look like legal notices, use lots of government acronyms and jargon, or aren't translated, they may be discarded or overlooked.
 
-Test your messages with kin to make sure they are clear and actionable. Improve your messaging based on the feedback you get. This can increase the effectiveness of your kin engagement. It's particularly important to test notices that are sent to kin within 30 days of a youth’s removal.
+Test your messages with kin to make sure they are clear and actionable. Improve your messaging based on the feedback you get. This can increase the effectiveness of your kin engagement. It's particularly important to test notices that are sent to kin within 30 days of a youth's removal.
 
 ## How to do this
 
@@ -24,3 +24,7 @@ Compensate kin fairly for their time ($40-50 is common for a half-hour meeting).
 **Revise communications based on feedback.** Update existing communications based on kin feedback. This may include adding or removing communication channels. For example, you may replace phone calls with text messages. Translate communications into other languages based on what is spoken locally, using human translators whenever possible since translation software may not capture local dialects or cultural nuances.
 
 Set up a solution for one-off translations as needed, like LanguageLine. Add this resource to training materials for staff involved in finding and engaging kin. Share de-identified kin feedback with staff through an intranet site, team meeting presentations, or emailed reports.
+
+## This strategy in action
+
+**Bloom Works** research on kin-first approaches found that potential kin connections were often scared off by communications that looked like legal notices, used government jargon, or weren't translated. Testing messages in multiple formats and using human translators significantly improved engagement.
