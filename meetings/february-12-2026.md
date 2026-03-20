@@ -10,5 +10,4 @@ tags:
 ---
 Pennsylvania 211, Michigan, and Hello Baby presented on adding chat and texting capabilities to family support helplines. The panel covered implementation details including records retention, business hours, and managing hand-offs over text.
 
-
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](<>).
+This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
