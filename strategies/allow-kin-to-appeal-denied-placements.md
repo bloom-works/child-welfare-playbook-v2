@@ -33,4 +33,4 @@ If you don’t already have an appeals process, set one up. Make sure kin unders
 
 **All jurisdictions** can adapt the [denial and appeal letter template](https://www.grandfamilies.org/Resources/Kin-Specific-Licensing-Standards-Sample-Forms) to explain the reason for a disqualification and next steps for appealing it. 
 
-**Utah, New Mexico, New York,** and a number of other states and countieshave child welfare mediation programs.
+**Utah, New Mexico, New York,** and a number of other states and counties have child welfare mediation programs.
