@@ -6,5 +6,5 @@ filetype: pdf
 file: /images/michigan-s-motivational-interviewing-training-resources.pdf
 tags:
   - resource
-description: Michigan's motivational interviewing training resources for DCYF staff.
+description: Washington's motivational interviewing training resources for DCYF staff.
 ---
