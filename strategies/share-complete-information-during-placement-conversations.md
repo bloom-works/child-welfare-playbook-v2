@@ -8,6 +8,10 @@ tags:
   - kin-engagement
   - recruitment
 order: "1"
+resources:
+  - "Treatment foster care: Designing systems and developing families"
+  - 'Presentation slides: "Sticky families" recruitment'
+  - Oklahoma permanency planning
 ---
 Placement conversations are often rushed and focused on checking boxes. This misses opportunities to be transparent about youth needs and make sure caregivers are appropriately matched and prepared. 
 
