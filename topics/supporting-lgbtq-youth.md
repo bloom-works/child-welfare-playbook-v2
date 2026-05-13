@@ -1,0 +1,10 @@
+---
+layout: layouts/topic.njk
+templateEngineOverride: md,njk
+title: Supporting LGBTQ+ youth
+id: supporting-lgbtq+-youth
+icon: shield-plus
+summary: Building capacity to support LGBTQ+ youth and place them with affirming
+  families
+---
+LGBTQ+ youth need affirming caregivers and caseworkers and access to supportive services. These strategies can help you connect LGBTQ+ youth with the families and resources they need to thrive.
