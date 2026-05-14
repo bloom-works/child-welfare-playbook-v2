@@ -4,6 +4,7 @@ templateEngineOverride: md,njk
 title: Track what recruitment methods work
 tags:
   - strategy
+  - recruitment
 order: "11"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'
