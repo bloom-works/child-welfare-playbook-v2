@@ -4,6 +4,7 @@ templateEngineOverride: md,njk
 title: Screen caregivers for willingness to grow
 tags:
   - strategy
+  - recruitment
 order: "7"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'
