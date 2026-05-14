@@ -26,8 +26,8 @@ Keep prospective caregivers in your system and offer ways to get involved even i
 
 ## This strategy in action
 
-**Frederick County, MD** keeps families engaged even when they take time to complete applications. Many families take 6 or more months to apply. If a family completes pre-service training but doesn't submit an application within a year, they take a refresher. Frederick County also sends interested families a list of 12 ways to support youth without becoming foster caregiverparents. Recruiters conduct foster caregiverparent training, which helps families feel more comfortable as they start the process.
+**Frederick County, MD** keeps families engaged even when they take time to complete applications. Many families take 6 or more months to apply. If a family completes pre-service training but doesn't submit an application within a year, they take a refresher. Frederick County also sends interested families a list of 12 ways to support youth without becoming foster caregivers. Recruiters conduct foster caregiver training, which helps families feel more comfortable as they start the process.
 
 **Fairfax County, VA** keeps all inquiries open. They've found that families take an average of 2 to 3 years to move from inquiry to application. Recruitment team members join a family's initial home visit for a warm introduction to the licensor.
 
-**Bloom Works** research on treatment foster care and foster families who provide stable placements found that many people take years from considering being a foster parent to submitting an application. Researchers recommended starting with awareness, then smaller commitments, and gradually building up to help develop a pipeline of prepared caregivers.
+**Bloom Works** research on treatment foster care and foster families who provide stable placements found that many people take years from considering being a foster caregiver to submitting an application. Researchers recommended starting with awareness, then smaller commitments, and gradually building up to help develop a pipeline of prepared caregivers.
