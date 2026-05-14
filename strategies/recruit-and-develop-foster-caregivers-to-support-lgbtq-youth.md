@@ -4,6 +4,7 @@ templateEngineOverride: md,njk
 title: Recruit and develop foster caregivers to support LGBTQ+ youth
 tags:
   - strategy
+  - recruitment
 order: "6"
 resources:
   - "Queer affirmation maturity model "
