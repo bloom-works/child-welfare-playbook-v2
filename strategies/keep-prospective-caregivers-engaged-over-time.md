@@ -4,6 +4,7 @@ templateEngineOverride: md,njk
 title: Keep prospective caregivers engaged over time
 tags:
   - strategy
+  - recruitment
 order: "10"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'
