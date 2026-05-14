@@ -8,7 +8,7 @@ order: "9"
 resources:
   - "Treatment foster care: Designing systems and developing families"
 ---
-Treatment foster careis family-based care for youth with significant behavioral health, mental health, or medical needs. Treatment foster caregivers get more intensive training, clinical support, and financial support. 
+Treatment foster care is family-based care for youth with significant behavioral health, mental health, or medical needs. Treatment foster caregivers get more intensive training, clinical support, and financial support. 
 
 Prospective caregivers often don't know the difference between treatment foster care and traditional foster care. This leads to mismatched expectations and poor fits. When recruitment materials don't clearly explain what makes treatment foster care different, caregivers sign up without understanding what they're committing to.
 
