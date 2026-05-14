@@ -4,6 +4,7 @@ templateEngineOverride: md,njk
 title: Distinguish treatment foster care clearly during recruitment
 tags:
   - strategy
+  - recruitment
 order: "9"
 resources:
   - "Treatment foster care: Designing systems and developing families"
