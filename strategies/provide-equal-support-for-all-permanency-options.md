@@ -5,6 +5,7 @@ title: Provide equal support for all permanency options
 tags:
   - strategy
   - kin-engagement
+  - retention
 order: "18"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"
