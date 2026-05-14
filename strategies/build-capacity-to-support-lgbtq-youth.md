@@ -4,7 +4,7 @@ templateEngineOverride: md,njk
 title: Build capacity to support LGBTQ+ youth
 tags:
   - strategy
-order: "1"
+order: "2"
 resources:
   - "Queer affirmation maturity model "
 ---
