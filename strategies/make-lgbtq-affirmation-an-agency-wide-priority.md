@@ -36,4 +36,4 @@ Make LGBTQ+ affirmation a core organizational goal. Create policies, fund initia
 
 ## This strategy in action
 
-**Bloom Works** developed the Queer Affirmation Maturity Model from research including interviews with LGBTQ+ youth, agency staff, foster families, and queer education experts. The research found that agencies with leadership buy-in to queer affirmation have higher uptake and impact across all areas.
+**Bloom Works** developed the queer affirmation maturity model from research including interviews with LGBTQ+ youth, agency staff, foster families, and queer education experts. The research found that agencies with leadership buy-in to queer affirmation have higher uptake and impact across all areas.
