@@ -2,12 +2,12 @@
 layout: layouts/strategy.njk
 templateEngineOverride: md,njk
 title: Share complete information during placement conversations
-permalink: /strategies/share-complete-information-during-placement-conversations
+permalink: ""
 tags:
   - strategy
   - kin-engagement
   - recruitment
-order: "1"
+order: "8"
 resources:
   - "Treatment foster care: Designing systems and developing families"
   - 'Presentation slides: "Sticky families" recruitment'
