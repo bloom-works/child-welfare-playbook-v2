@@ -25,8 +25,8 @@ Create structured peer support networks where caregivers can connect, share expe
 
 ## This strategy in action
 
-**Bloom Works** research on foster families who provide stable placements found that peer support networks help caregivers feel less isolated and more capable of handling challenges.
-
 **DC CFSA's** BOND (Building Our Network of Diversity) model provides compensation for mentoring roles and creates opportunities for families to support each other and take on leadership roles over time. BOND leads facilitate community building activities and help families navigate processes.
 
 **Alliance CaRES** (Caregiver Retention, Education and Support) provides compensation for peer mentors to support caregivers in Washington State.
+
+**Bloom Works** research on foster families who provide stable placements found that peer support networks help caregivers feel less isolated and more capable of handling challenges.
