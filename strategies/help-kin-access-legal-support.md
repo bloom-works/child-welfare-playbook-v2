@@ -29,6 +29,6 @@ Connect kin with free or low-cost legal services. Work with court partners to su
 
 ## This strategy in action
 
-**LAARK (Legal Advice and Referral for Kinship Care)** in Washington State provides independent legal counsel primarily for kin caregivers.
+**Legal Advice and Referral for Kinship Care (LAARK)** in Washington State provides independent legal counsel primarily for kin caregivers.
 
 **Bloom Works** conducted research on kin-first approaches in Washington State and permanency planning with kin caregivers in Oklahoma. Caregivers consistently reported that access to legal support made a significant positive difference.
