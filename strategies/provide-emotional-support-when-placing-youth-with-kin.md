@@ -27,9 +27,3 @@ Give families emotional space and clinical support during placement transitions 
 ## This strategy in action
 
 **Bloom Works** research on kin-first approaches found that quick timelines create severe stress for kin caregivers. Caregivers wanted more help processing the trauma of involvement with child welfare and adjusting to new family dynamics.
-
-### Resources
-
-**[Washington State DCYF Kin-first Culture Research](https://childwelfareplaybook.com/images/kin-first-culture-research-bloom.pdf)** Research findings on supporting kin caregivers through placement transitions.
-
-**[Kin licensing standards](https://childwelfareplaybook.com/resources/kin-specific-foster-home-approval-model-standards/)** Kin-Specific Foster Home Approval offers national recommended standards for working with kin, including guidance on background checks, assessments, and policy review.
