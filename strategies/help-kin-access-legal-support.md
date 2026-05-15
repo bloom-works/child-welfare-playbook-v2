@@ -9,6 +9,7 @@ order: "17"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"
   - Oklahoma permanency planning
+  - Kinship bench cards
 ---
 While foster caregivers may get legal support through foster networks or child placing agencies, kin caregivers often navigate permanency and other complex legal processes without support. Kin are often underprepared for court and lack a full understanding of the process and their options.
 
