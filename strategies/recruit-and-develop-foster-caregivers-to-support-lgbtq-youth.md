@@ -17,7 +17,7 @@ Actively recruit caregivers who already have connections to LGBTQ+ communities. 
 
 **Make supporting LGBTQ+ youth a priority in your recruitment messaging.** State clearly that this is a core organizational value. Don't wait until you train caregivers to bring this up. Make it part of how you talk about what it means to be a foster caregiver with your agency.
 
-**Actively recruit LGBTQ+ people and couples as foster** caregivers**.** These families often have personal experience that makes them well-prepared to care for LGBTQ+ youth in foster care.
+**Actively recruit LGBTQ+ people and couples as foster** **caregivers.** These families often have personal experience that makes them well-prepared to care for LGBTQ+ youth in foster care.
 
 **Screen caregivers for their willingness to learn.** Look for caregivers who are open and willing to grow, even if they don't currently feel prepared to care for LGBTQ+ youth. Ask questions about their willingness to develop in this area and their goals as caregivers.
 
