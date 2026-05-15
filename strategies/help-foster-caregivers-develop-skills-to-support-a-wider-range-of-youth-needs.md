@@ -26,8 +26,8 @@ Create progression systems that help foster caregivers develop skills over time.
 
 ## This strategy in action
 
-**Bloom Works** research on treatment foster care and foster families who provide stable placements found that programs treating caregivers as developing over time tend to see stronger retention than those focused primarily on compliance. This research found that families need clear, gradual progression systems instead of systems that expect them to handle the highest-needs youth right away. 
-
 **Arkansas** uses a 3-tier treatment foster care system where families progress through tiers based on the level of care coordination and services youth need.
 
 **Indiana** uses 4 CANS (Child and Adolescent Needs and Strengths) assessment levels that determine reimbursement rates and case manager contact frequency.
+
+**Bloom Works** research on treatment foster care and foster families who provide stable placements found that programs treating caregivers as developing over time tend to see stronger retention than those focused primarily on compliance. This research found that families need clear, gradual progression systems instead of systems that expect them to care for youth with the highest needs right away.
