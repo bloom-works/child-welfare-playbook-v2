@@ -25,7 +25,7 @@ Clearly distinguish treatment foster care from traditional foster care in all re
 
 **Target specialized populations in your recruitment.** Education and healthcare specialists often have skills that transfer well to treatment foster care. And people who have similar lived experiences as youth in treatment foster care may be more motivated to accept placements. This includes people who have a family history with child welfare involvement. Recruit in these communities intentionally.
 
-**Create roles for treatment foster care caregivers in recruitment.** Let caregivers who are already in the program talk to prospective caregivers about their experiences. This helps new caregivers understand what to expect in concrete terms.
+**Create roles for treatment foster caregivers in recruitment.** Let caregivers who are already in the program talk to prospective caregivers about their experiences. This helps new caregivers understand what to expect in concrete terms.
 
 ## This strategy in action
 
