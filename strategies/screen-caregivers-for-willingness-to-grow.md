@@ -19,7 +19,7 @@ During assessment, look for whether caregivers are willing to learn and grow the
 
 **Look for openness and willingness to learn during assessment.** Ask caregivers about their goals for their own development. Look for caregivers who are open to feedback, willing to try new approaches, and interested in learning. This matters more than having all the skills right away.
 
-**Ask questions about caregivers' ability to reflect, adapt, and grow.** Don't just assess what they already know or can do. Look for evidence they can reflect, adapt, and grow, especially if they have an existing relationship with the youth.
+**Ask questions about caregivers' ability to grow.** Don't just assess what they already know or can do. Look for evidence they can reflect, adapt, and grow, especially if they have an existing relationship with the youth.
 
 **Assess caregivers' goals for their own development.** Ask what kinds of youth needs they hope to be able to support eventually, even if they're not ready now. Ask what skills they want to develop. These conversations help you understand how they might develop as caregivers.
 
