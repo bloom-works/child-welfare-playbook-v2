@@ -39,7 +39,7 @@ The new and updated content covers five topic areas: 
 * Provide specialized support before crisis
 * Track what recruitment methods work
 * Keep prospective caregivers engaged over time
-* Help kin access legal support 
+* Help kin access legal support
 * Provide equal support for all permanency options
 * Provide emotional support when placing youth with kin
 * Assign navigators to support kin throughout their journey
