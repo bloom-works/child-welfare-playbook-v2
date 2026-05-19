@@ -5,7 +5,7 @@ title: Keep prospective caregivers engaged over time
 tags:
   - strategy
   - recruitment
-order: "10"
+order: "9"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'
   - "Treatment foster care: Designing systems and developing families"
