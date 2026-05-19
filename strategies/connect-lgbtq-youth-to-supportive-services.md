@@ -4,6 +4,7 @@ templateEngineOverride: md,njk
 title: Connect LGBTQ+ youth to supportive services
 tags:
   - strategy
+  - supporting-lgbtq+-youth
 order: "5"
 resources:
   - "Queer affirmation maturity model "
