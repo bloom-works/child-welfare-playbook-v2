@@ -48,10 +48,10 @@ The new and updated strategies cover five topic areas: 
 
 ## Updated strategies
 
-* Create new payment models for caregivers
-* Provide convenient training for active caregivers
-* Assign someone dedicated to engaging kin
-* Document and track kin connections
-* Improve kin communications through user feedback
-* Help kin caregivers access financial assistance
-* Evaluate referral sources for bias
+* [Create new payment models for caregivers](https://childwelfareplaybook.com/strategies/create-new-payment-models-for-caregivers/)
+* [Provide convenient training for active caregivers](https://childwelfareplaybook.com/strategies/provide-convenient-training-events-for-license-renewals/)
+* [Assign someone dedicated to engaging kin](https://childwelfareplaybook.com/strategies/assign-someone-dedicated-to-engaging-kin/)
+* [Document and track kin connections](https://childwelfareplaybook.com/strategies/document-and-track-kin-connections/)
+* [Improve kin communications through user feedback](https://childwelfareplaybook.com/strategies/improve-kin-communications-through-user-feedback/)
+* [Help kin caregivers access financial assistance](https://childwelfareplaybook.com/strategies/help-kin-caregivers-access-financial-assistance/)
+* [Evaluate referral sources for bias](https://childwelfareplaybook.com/strategies/evaluate-referral-sources-for-bias/)
