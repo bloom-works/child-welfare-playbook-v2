@@ -58,7 +58,10 @@ eleventyExcludeFromCollections: true
     {%- endif -%}
 
     {%- if params.author or params.date-%}
+      {%- if params.type != "meeting" -%}
       <p class="subhead">Written{%- if params.author %} by {{ author }}{%- endif -%}{%- if params.date %} on {{ params.date | humanDate }}{%- endif -%}</p>
+      }
+      {%- endif -%}
     {%- endif -%}
   </div>
   {%- if params.image -%}
