@@ -5,7 +5,7 @@ title: Hire current caregivers to help train new caregivers
 tags:
   - strategy
   - retention
-order: "8"
+order: "10"
 redirectFrom:
   - /recommendations/hire-current-foster-parents-to-train-new-foster-parents/
 ---
