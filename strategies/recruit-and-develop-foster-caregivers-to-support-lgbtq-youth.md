@@ -5,7 +5,8 @@ title: Recruit and develop foster caregivers to support LGBTQ+ youth
 tags:
   - strategy
   - recruitment
-order: "6"
+  - supporting-lgbtq+-youth
+order: "4"
 resources:
   - "Queer affirmation maturity model "
 ---
