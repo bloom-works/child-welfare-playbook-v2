@@ -5,7 +5,7 @@ title: Increase foster family retention with renewal check-ins
 tags:
   - strategy
   - retention
-order: "6"
+order: "7"
 redirectFrom:
   - /recommendations/increase-retention-with-renewal-check-ins/
 ---
