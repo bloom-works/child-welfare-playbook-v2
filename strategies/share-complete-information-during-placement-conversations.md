@@ -7,7 +7,7 @@ tags:
   - strategy
   - kin-engagement
   - recruitment
-order: "8"
+order: "6"
 resources:
   - "Treatment foster care: Designing systems and developing families"
   - 'Presentation slides: "Sticky families" recruitment'
