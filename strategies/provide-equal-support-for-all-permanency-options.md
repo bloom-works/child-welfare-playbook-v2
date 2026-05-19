@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
   - retention
-order: "18"
+order: "14"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"
   - Oklahoma permanency planning
