@@ -81,7 +81,7 @@ collections:
       - { label: "Template Engine", name: "templateEngineOverride", widget: "hidden", default: "md,njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/strategies/strategy-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story"], default: ["strategy"], hint: "Add your topics here"}
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "supporting-lgbtq+-youth", "strategy", "resource", "story"], default: ["strategy"], hint: "Add your topics here"}
       - { label: "Order", name: "order", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Related resources", required: false, name: "resources", widget: "relation", collection: "resources", value_field: "title", search_fields: ["title", "url"], multiple: true}
@@ -102,7 +102,7 @@ collections:
       - { label: "Date", name: "date", widget: "datetime", default: "{{now}}", date_format: "YYYY-MM-DD"}
       - { label: "Story type", name: "storyType", widget: "select", options: ["Blog post", "Case study", "Research report"], default: ["Blog post"]}
       - { label: "Header image", name: "image", widget: "image", allow_multiple: false, media_folder: "/images/stories", public_folder: "/images/stories/", required: false}
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story"], default: ["story"], hint: "Add your topics here"}
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "supporting-lgbtq+-youth", "strategy", "resource", "story"], default: ["story"], hint: "Add your topics here"}
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Related resources", required: false, name: "resources", widget: "relation", collection: "resources", value_field: "title", search_fields: ["title", "url"], multiple: true}
       - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
@@ -120,7 +120,7 @@ collections:
       - { label: "File type", name: "filetype", widget: "select", options: ["pdf", "doc", "link"] }
       - { label: "Link to resource", name: "url", widget: "string", required: false }
       - { label: "Upload resource", name: "file", widget: "file", media_library: { media_folder: "/assets/"}, required: false}
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story"], default: ["resource"], hint: "Add your topics here"}
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "supporting-lgbtq+-youth", "strategy", "resource", "story"], default: ["resource"], hint: "Add your topics here"}
       - { label: "Body", name: "description", widget: "markdown" }
       - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
 
@@ -137,7 +137,7 @@ collections:
       - { label: "Introduction", name: "intro", widget: "markdown", required: false }
       - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/dashboards/dashboard-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
       - { label: "Dashboard data", name: "dashboardData", widget: "string", hint: "The filename of the CSV you uploaded." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story", "dashboard"], default: ["dashboard"], hint: "Add your topics here"}
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "supporting-lgbtq+-youth", "strategy", "resource", "story", "dashboard"], default: ["dashboard"], hint: "Add your topics here"}
       - { label: "URL redirect(s)", minimize_collapsed: true, name: "redirectFrom", widget: "list", label_singular: "redirect", allow_add: true, field: {label: "URL", name: "url", widget: "string"}, required: false }
   - name: "meetings"
     label: "Meetings"
@@ -152,7 +152,7 @@ collections:
       - { label: "Meeting date", name: "date", widget: "datetime", default: "{{now}}", date_format: "YYYY-MM-DD", hint: "This information helps the search page sort a list of meetings by date." }
       - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/meetings/meeting-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false, hint: "The YouTube ID is the set of ~12 characters that appears after https://www.youtube.com/watch?v= in the video URL(s)." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "strategy", "resource", "story"], default: ["story"], hint: "Add your topics here"}
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["background-checks", "emergency-placements", "supporting-older-youth", "caregiver-licensing", "kin-engagement", "prevention", "recruitment", "retention", "supportive-relationships", "supporting-lgbtq+-youth", "strategy", "resource", "story"], default: ["story"], hint: "Add your topics here"}
       - { label: "Description of meeting", name: "body", widget: "markdown", required: false }
       - { label: "Related resources", required: false, name: "resources", widget: "relation", collection: "resources", value_field: "title", search_fields: ["title", "url"], multiple: true}
       - { label: "Related stories", required: false, name: "stories", widget: "relation", collection: "stories", value_field: "title", search_fields: ["title", "url"], multiple: true}
