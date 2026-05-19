@@ -39,12 +39,12 @@ The new and updated strategies cover five topic areas: 
   * * Help kin access legal support
 
     * Assign navigators to support kin throughout their journey
-* Create peer support networks for caregivers
-* Provide equal support for all permanency options
-* Reduce caseloads so staff have more time to support youth and caregivers
-* Start with small ways to get potential caregivers involved
-* Keep prospective caregivers engaged over time
-* Track what recruitment methods work
+* [Create peer support networks for caregivers](https://childwelfareplaybook.com/strategies/create-peer-support-networks-for-caregivers/)
+* [Provide equal support for all permanency options](https://childwelfareplaybook.com/strategies/provide-equal-support-for-all-permanency-options/)
+* [Reduce caseloads so staff have more time to support youth and caregivers](https://childwelfareplaybook.com/strategies/reduce-caseloads-so-staff-have-more-time-to-support-youth-and-caregivers/)
+* [Start with small ways to get potential caregivers involved](https://childwelfareplaybook.com/strategies/start-with-small-ways-to-get-potential-caregivers-involved/)
+* [Keep prospective caregivers engaged over time](https://childwelfareplaybook.com/strategies/keep-prospective-caregivers-engaged-over-time/)
+* [Track what recruitment methods work](https://childwelfareplaybook.com/strategies/track-what-recruitment-methods-work/)
 
 ## Updated strategies
 
