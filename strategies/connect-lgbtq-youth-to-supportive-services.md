@@ -4,7 +4,7 @@ templateEngineOverride: md,njk
 title: Connect LGBTQ+ youth to supportive services
 tags:
   - strategy
-  - supporting-lgbtq+-youth
+  - supporting-lgbtq-youth
 order: "5"
 resources:
   - "Queer affirmation maturity model "
@@ -13,7 +13,7 @@ LGBTQ+ youth need access to gender-affirming healthcare, supportive schools, men
 
 ## How to do this
 
-**Identify healthcare providers who specialize in LGBTQ+ care.** This includes medical providers and mental health counselors with expertise in gender-affirming care and services for LGBTQ+ youth. Look for directories of LGBTQ+-competent providers and networks of affirming therapists.
+**Identify healthcare providers who specialize in LGBTQ+ care.** This includes medical providers and mental health counselors with expertise in gender-affirming care and services for LGBTQ+ youth. Look for directories of lgbtq-competent providers and networks of affirming therapists.
 
 **Identify schools with strong LGBTQ+ support systems.** Learn which schools in your area have trained staff, support programs for LGBTQ+ students, and protective policies. Use this information when making placement decisions and best interest determinations.
 

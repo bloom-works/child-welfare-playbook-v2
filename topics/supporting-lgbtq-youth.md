@@ -2,7 +2,7 @@
 layout: layouts/topic.njk
 templateEngineOverride: md,njk
 title: Supporting LGBTQ+ youth
-id: supporting-lgbtq+-youth
+id: supporting-lgbtq-youth
 order: "9"
 icon: rainbow
 summary: Build capacity to support LGBTQ+ youth and place them with affirming families.

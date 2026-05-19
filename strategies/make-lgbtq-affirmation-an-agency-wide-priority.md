@@ -4,7 +4,7 @@ templateEngineOverride: md,njk
 title: Make LGBTQ+ affirmation an agency-wide priority
 tags:
   - strategy
-  - supporting-lgbtq+-youth
+  - supporting-lgbtq-youth
 order: "1"
 resources:
   - "Queer affirmation maturity model "
