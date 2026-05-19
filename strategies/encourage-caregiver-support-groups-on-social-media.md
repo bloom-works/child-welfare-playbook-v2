@@ -5,7 +5,7 @@ title: Encourage caregiver support groups on social media
 tags:
   - strategy
   - retention
-order: "9"
+order: "12"
 redirectFrom:
   - /recommendations/foster-family-support-groups-on-social/
 ---
