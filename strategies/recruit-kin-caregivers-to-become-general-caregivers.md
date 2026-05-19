@@ -5,7 +5,7 @@ title: Recruit kin caregivers to become general caregivers
 tags:
   - strategy
   - recruitment
-order: "9"
+order: "3"
 redirectFrom:
   - /recommendations/recruit-relative-caregivers-to-become-general-caregivers
 ---
