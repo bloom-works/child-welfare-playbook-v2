@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
   - recruitment
-order: "10"
+order: "11"
 redirectFrom:
   - /recommendations/financial-bonuses-for-recruitment-referrals/
 ---
