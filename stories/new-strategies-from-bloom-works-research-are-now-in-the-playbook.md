@@ -16,11 +16,11 @@ Over the past few years, Bloom Works has conducted original research into some o
 
 The new and updated content covers five topic areas: 
 
-* Prevention
-* Kin engagement
-* Foster parent recruitment
-* Caregiver retention
-* Supporting LGBTQ+ youth
+* [Prevention](https://childwelfareplaybook.com/topics/prevention/)
+* [Kin engagement](https://childwelfareplaybook.com/topics/kin-engagement/)
+* [Foster parent recruitment](https://childwelfareplaybook.com/topics/recruitment/)
+* [Caregiver retention](https://childwelfareplaybook.com/topics/retention/)
+* [Supporting LGBTQ+ youth](https://childwelfareplaybook.com/topics/supporting-lgbtq-youth/)
 
 ## New strategies
 
