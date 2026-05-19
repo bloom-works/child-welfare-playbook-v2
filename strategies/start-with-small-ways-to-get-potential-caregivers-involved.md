@@ -5,7 +5,7 @@ title: Start with small ways to get potential caregivers involved
 tags:
   - strategy
   - recruitment
-order: "1"
+order: "8"
 resources:
   - "Treatment foster care: Designing systems and developing families"
   - 'Presentation slides: "Sticky families" recruitment'
