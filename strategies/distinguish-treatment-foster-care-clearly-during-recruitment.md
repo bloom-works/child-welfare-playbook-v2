@@ -5,7 +5,7 @@ title: Distinguish treatment foster care clearly during recruitment
 tags:
   - strategy
   - recruitment
-order: "9"
+order: "7"
 resources:
   - "Treatment foster care: Designing systems and developing families"
 ---
