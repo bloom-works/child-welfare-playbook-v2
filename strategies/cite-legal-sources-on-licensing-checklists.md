@@ -11,7 +11,7 @@ resources:
 redirectFrom:
   - /recommendations/align-checklists-to-statutes/
 ---
-Licensing checklists often include requirements that seem arbitrary or outdated to families and staff. And when decision-makers can't see the legal source behind each requirement, it's hard to know which items can be updated and which require policy changes.
+Licensing checklists often include requirements that seem arbitrary or outdated to families and staff. And when decision-makers can't see the legal source behind each requirement, it's hard to know which items can be updated and which require policy changes.ha
 
 Align licensing checklist items to specific statutes so everyone understands what's legally required and what might be changed.
 
