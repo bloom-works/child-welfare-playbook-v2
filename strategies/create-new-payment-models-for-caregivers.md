@@ -5,7 +5,7 @@ title: Create new payment models for caregivers
 tags:
   - strategy
   - retention
-order: "7"
+order: "9"
 redirectFrom:
   - /recommendations/placement-stability-bonuses/
 ---
