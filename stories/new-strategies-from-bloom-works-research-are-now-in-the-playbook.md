@@ -1,11 +1,11 @@
 ---
 layout: layouts/story.njk
 templateEngineOverride: md,njk
-title: New strategies from Bloom Works research are now in the playbook
+title: New and updated strategies from Bloom Works research are now in the playbook
 description: Bloom Works research is now available as 19 new strategies and 7
   updated strategies in the Child Welfare Playbook.
 author: Bloom Works
-date: 2026-05-14
+date: 2026-05-19
 storyType:
   - Blog post
 tags:
@@ -24,12 +24,12 @@ The new and updated strategies cover five topic areas: 
 
 ## New strategies
 
-* Make LGBTQ+ affirmation an agency-wide priority
-* Build capacity to support LGBTQ+ youth
-* Collect data on sexual orientation and gender identity
-* Recruit and develop foster caregivers to support LGBTQ+ youth
-* Connect LGBTQ+ youth to supportive services
-* Distinguish treatment foster care clearly during recruitment
+* [Make LGBTQ+ affirmation an agency-wide priority](https://childwelfareplaybook.com/strategies/make-lgbtq-affirmation-an-agency-wide-priority/)
+* [Build capacity to support LGBTQ+ youth](https://childwelfareplaybook.com/strategies/build-capacity-to-support-lgbtq-youth/)
+* [Collect data on sexual orientation and gender identity](https://childwelfareplaybook.com/strategies/collect-data-on-sexual-orientation-and-gender-identity/)
+* [Recruit and develop foster caregivers to support LGBTQ+ youth](https://childwelfareplaybook.com/strategies/recruit-and-develop-foster-caregivers-to-support-lgbtq-youth/)
+* [Connect LGBTQ+ youth to supportive services](https://childwelfareplaybook.com/strategies/connect-lgbtq-youth-to-supportive-services/)
+* [Distinguish treatment foster care clearly during recruitment](https://childwelfareplaybook.com/strategies/distinguish-treatment-foster-care-clearly-during-recruitment/)
 * * [Provide treatment foster care support before and after crisis](https://childwelfareplaybook.com/strategies/provide-treatment-foster-care-support-before-and-after-crisis/)
 * [Screen caregivers for willingness to grow](https://childwelfareplaybook.com/strategies/screen-caregivers-for-willingness-to-grow/)
 * [Help foster caregivers develop skills to support a wider range of youth needs](https://childwelfareplaybook.com/strategies/help-foster-caregivers-develop-skills-to-support-a-wider-range-of-youth-needs/)
