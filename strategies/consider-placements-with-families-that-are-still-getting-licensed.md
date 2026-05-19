@@ -5,7 +5,7 @@ title: Consider placements with families that are still getting licensed
 tags:
   - strategy
   - recruitment
-order: "7"
+order: "2"
 redirectFrom:
   - /recommendations/include-pending-families-in-placement-searches
 ---
