@@ -28,6 +28,8 @@ This first stage of work focused on describing the different configurations of w
 
 On July 10, 2025, the Prevention Collaborative hosted a session where Bloom Works presented their findings and Casey Family Programs and Chapin Hall contributed thoughts from their work on the service connection ecosystem. [Watch the recording](https://drive.google.com/file/d/14c8A4ioOcqfgahoNwNgUVn2mIFPl9mQa/view).
 
-If you have thoughts or questions, message the Bloom Works team at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
+- - -
+
+If you have thoughts or questions, message the Bloom Works team at [cw-wellbeing@bloomworks.digital](<>).
 
 This work is supported by the Doris Duke Foundation.
