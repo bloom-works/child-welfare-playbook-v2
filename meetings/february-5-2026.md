@@ -10,4 +10,4 @@ tags:
 ---
 Sharad Goel from Harvard, Michael Boyce from US Digital Response, and Melanie Rice presented on using AI to train helpline employees through practice scenarios and conversations. The panel covered interactive AI practice tools, AI training chats for government workers, a demo of ElevenLabs technology, and strategies for safe experimentation and culture change in agencies.
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.
