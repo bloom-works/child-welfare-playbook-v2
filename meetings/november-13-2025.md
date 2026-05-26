@@ -13,4 +13,4 @@ resources:
 ---
 Chapin Hall researchers Colin Cepuran and Michael Stiehl present on using 211 call data to understand what services families need and identify service gaps.
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.
