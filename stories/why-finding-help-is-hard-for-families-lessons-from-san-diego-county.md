@@ -62,6 +62,6 @@ Based on our research findings, we created tools that other jurisdictions can us
 
 - - -
 
-We'd love to hear from you. Send us a message at [prevention@bloomworks.digital](<>).
+We'd love to hear from you. Send us a message at [cw-wellbeing@bloomworks.digital](cw-wellbeing@bloomworks.digital).
 
 This work is supported by the Doris Duke Foundation.
