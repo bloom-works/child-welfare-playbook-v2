@@ -13,4 +13,4 @@ resources:
 ---
 Katie Rollins from Chapin Hall presented on Title IV-E Prevention Program federal reporting requirements for community pathways, covering data elements, submission schedules, AFCARS ID assignment, and privacy considerations. Fred North from Connecticut and Hannah Robinson from Indiana shared how their jurisdictions approach community pathways reporting.
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.
