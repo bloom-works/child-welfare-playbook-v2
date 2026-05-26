@@ -12,8 +12,8 @@ tags:
   - prevention
 redirectFrom:
   - https://childwelfareplaybook.com/blog/engagement-voluntary-prevention-services/
-type: story
 featured: false
+type: story
 ---
 > The biggest thing to make families show up to stuff is let them plan it, because they are so excited about the planning process. They tell their neighbors, they tell their other friends, and **we max out and we can’t even get any more people in the door because so many people are showing up**. 
 
@@ -83,4 +83,4 @@ We’ll continue our research on preventing child welfare involvement, so check 
 
 We’d love to hear from you! Send us a message at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.
