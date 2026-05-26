@@ -16,8 +16,8 @@ resources:
   - Warmlines component map
 redirectFrom:
   - https://childwelfareplaybook.com/blog/understanding-warmlines/
-type: story
 featured: false
+type: story
 ---
 From April to June 2025, the Bloom Works Prevention Learning Collaborative team, funded by the Doris Duke Foundation, began a project to explore warmlines as a way to prevent child welfare system involvement, reduce reports to hotlines, and connect families to prevention services. 
 
@@ -30,4 +30,4 @@ On July 10, 2025, the Prevention Collaborative hosted a session where Bloom Work
 
 If you have thoughts or questions, message the Bloom Works team at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.
