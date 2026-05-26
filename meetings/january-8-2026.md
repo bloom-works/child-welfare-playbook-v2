@@ -14,4 +14,4 @@ resources:
 ---
 Emerson Ives and Heather Meitner from Evident Change, along with Sarah Glass from San Diego County, presented on their Community Response Guide for mandated reporters. The guide is a real-time tool that helps mandated reporters, CPS hotline staff, and community members make sound decisions and consider local support options to ensure families get the support they need.
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.
