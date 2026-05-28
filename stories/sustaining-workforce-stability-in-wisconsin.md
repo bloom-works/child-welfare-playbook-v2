@@ -9,6 +9,8 @@ date: 2026-05-28
 storyType: Case study
 tags:
   - story
+resources:
+  - Workforce resilience blueprint
 featured: false
 ---
 ## The challenge: A staffing cliff
