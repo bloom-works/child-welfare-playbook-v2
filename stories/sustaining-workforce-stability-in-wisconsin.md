@@ -19,7 +19,7 @@ In early 2021, Children’s Wisconsin Child Welfare (CWCW) encountered an unprec
 
 ## The intervention: Urgent action from leadership
 
-To stabilize frontline operations and safely protect continuity of care for Wisconsin's families, CWCW leadership deployed a series of targeted tactical strategies. Rather than relying on a single mechanism, leadership intervened simultaneously across three focal areas:
+To stabilize frontline operations and safely protect continuity of care for Wisconsin's families, CWCW leadership deployed a series of targeted tactical strategies. Rather than relying on a single mechanism, leadership intervened simultaneously across these focal areas:
 
 * **Workload redesign:** Hired specialized case aides and mobilized volunteers to offload extensive administrative burdens from frontline caseworkers
 * **Hybrid flexibility:** Formalized a trust-based office-by-need work model, shifting professional autonomy and scheduling geography back to the staff
