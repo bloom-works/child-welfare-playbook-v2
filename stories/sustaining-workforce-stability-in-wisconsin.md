@@ -33,7 +33,7 @@ The evaluation synthesized three distinct data strands: Quantitative workforce m
 
 > "I had a caseload of 23 and now it's 15, so it's a lot easier to manage."
 >
-> — Case Manager
+> — Case manager
 
 The evaluation successfully validated that while compensation was important, the relational elements, such as supportive supervision and flexible autonomy, served as the long-term fuel that sustained the workforce.
 
