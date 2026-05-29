@@ -89,8 +89,8 @@ collections:
       - label: "Topic page order"
         name: "topicOrder"
         widget: "list"
-        collapsed: true
         required: false
+        label_singular: "custom order"
         fields:
           - {label: "Topic page", name: "topic", widget: "select", options: [{{ topicList | safe }}"All topics"], default: "All topics"}
           - {label: "Order", name: "order", widget: "string"}
