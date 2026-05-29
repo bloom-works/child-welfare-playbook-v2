@@ -121,8 +121,19 @@ export default async function(eleventyConfig) {
 
   // Add collections filtered by topic
   for (const topic in topicList) {
+
+    const currentTopic = topicList[topic];
+
     eleventyConfig.addCollection(`${topicList[topic]}-strategies`, collectionsApi => {
-      return collectionsApi.getFilteredByTags('strategy', `${topicList[topic]}`).sort((a, b) => a.data.order - b.data.order);
+
+      return collectionsApi.getFilteredByTags('strategy', currentTopic).sort((a, b) => {
+        const topicDataA = a.data.topicOrder?.find(item => item.topic === currentTopic);
+        const topicDataB = b.data.topicOrder?.find(item => item.topic === currentTopic);
+
+        const orderA = topicDataA ? parseInt(topicDataA.order, 10) : 999;
+        const orderB = topicDataB ? parseInt(topicDataB.order, 10) : 999;
+        return orderA - orderB;
+      });
     });
 
     eleventyConfig.addCollection(`${topicList[topic]}-stories`, collectionsApi => {

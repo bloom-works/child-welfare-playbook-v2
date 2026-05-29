@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "10"
 redirectFrom:
   - /recommendations/hire-current-foster-parents-to-train-new-foster-parents/

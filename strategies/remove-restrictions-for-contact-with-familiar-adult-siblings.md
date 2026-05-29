@@ -6,7 +6,7 @@ tags:
   - strategy
   - supportive-relationships
 topicOrder:
-  - topic: "All topics"
+  - topic: "supportive-relationships"
     order: "5"
 redirectFrom:
   - /recommendations/remove-barriers-for-visits-with-adult-siblings/

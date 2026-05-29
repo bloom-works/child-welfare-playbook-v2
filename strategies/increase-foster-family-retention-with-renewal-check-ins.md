@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "7"
 redirectFrom:
   - /recommendations/increase-retention-with-renewal-check-ins/

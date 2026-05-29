@@ -7,7 +7,9 @@ tags:
   - kin-engagement
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
+    order: "1"
+  - topic: "recruitment"
     order: "1"
 redirectFrom:
   - /recommendations/include-placement-and-recruitment-in-case-planning/

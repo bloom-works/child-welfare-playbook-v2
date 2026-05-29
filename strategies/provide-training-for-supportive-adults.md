@@ -6,7 +6,7 @@ tags:
   - strategy
   - supportive-relationships
 topicOrder:
-  - topic: "All topics"
+  - topic: "supportive-relationships"
     order: "10"
 redirectFrom:
   - /recommendations/provide-training-for-supportive-adults/

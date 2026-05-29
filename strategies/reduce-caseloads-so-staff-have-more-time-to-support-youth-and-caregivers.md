@@ -7,7 +7,9 @@ tags:
   - kin-engagement
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
+    order: "5"
+  - topic: "retention"
     order: "5"
 resources:
   - "Treatment foster care: Designing systems and developing families"

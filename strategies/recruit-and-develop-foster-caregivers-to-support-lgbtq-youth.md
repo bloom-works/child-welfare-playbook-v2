@@ -7,7 +7,9 @@ tags:
   - recruitment
   - supporting-lgbtq-youth
 topicOrder:
-  - topic: "All topics"
+  - topic: "recruitment"
+    order: "4"
+  - topic: "supporting-lgbtq-youth"
     order: "4"
 resources:
   - "Queer affirmation maturity model "

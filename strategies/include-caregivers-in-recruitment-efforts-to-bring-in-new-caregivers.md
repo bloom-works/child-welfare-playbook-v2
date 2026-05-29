@@ -7,7 +7,9 @@ tags:
   - kin-engagement
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
+    order: "11"
+  - topic: "recruitment"
     order: "11"
 redirectFrom:
   - /recommendations/financial-bonuses-for-recruitment-referrals/

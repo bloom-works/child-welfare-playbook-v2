@@ -6,7 +6,7 @@ tags:
   - strategy
   - supporting-lgbtq-youth
 topicOrder:
-  - topic: "All topics"
+  - topic: "supporting-lgbtq-youth"
     order: "3"
 resources:
   - "Queer affirmation maturity model "

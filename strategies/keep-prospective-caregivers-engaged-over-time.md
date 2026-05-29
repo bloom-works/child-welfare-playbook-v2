@@ -6,7 +6,7 @@ tags:
   - strategy
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "recruitment"
     order: "10"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'

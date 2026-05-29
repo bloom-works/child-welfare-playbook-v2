@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "4"
 redirectFrom:
   - /recommendations/identify-natural-supports-for-caregivers/

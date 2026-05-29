@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "2"
 redirectFrom:
   - /recommendations/check-in-with-your-resource-families-regularly/

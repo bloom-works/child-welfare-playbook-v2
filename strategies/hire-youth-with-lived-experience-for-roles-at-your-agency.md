@@ -6,7 +6,7 @@ tags:
   - strategy
   - supporting-older-youth
 topicOrder:
-  - topic: "All topics"
+  - topic: "supporting-older-youth"
     order: "3"
 redirectFrom:
   - /recommendations/hire-youth-with-lived-experience/

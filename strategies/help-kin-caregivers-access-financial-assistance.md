@@ -6,7 +6,7 @@ tags:
   - strategy
   - caregiver-licensing
 topicOrder:
-  - topic: "All topics"
+  - topic: "caregiver-licensing"
     order: "2"
 redirectFrom:
   - /recommendations/help-relative-placements-access-financial-assistance/

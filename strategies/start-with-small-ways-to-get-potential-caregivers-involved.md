@@ -6,7 +6,7 @@ tags:
   - strategy
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "recruitment"
     order: "8"
 resources:
   - "Treatment foster care: Designing systems and developing families"

@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
     order: "13"
 redirectFrom:
   - /recommendations/red-team-to-prevent-group-home-placements/

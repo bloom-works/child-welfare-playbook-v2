@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
     order: "9"
 resources:
   - Michigan’s kin notification form

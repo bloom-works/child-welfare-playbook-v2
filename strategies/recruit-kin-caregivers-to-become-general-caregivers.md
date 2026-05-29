@@ -6,7 +6,7 @@ tags:
   - strategy
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "recruitment"
     order: "3"
 redirectFrom:
   - /recommendations/recruit-relative-caregivers-to-become-general-caregivers

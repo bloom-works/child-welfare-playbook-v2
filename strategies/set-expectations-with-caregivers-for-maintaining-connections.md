@@ -6,7 +6,7 @@ tags:
   - strategy
   - supportive-relationships
 topicOrder:
-  - topic: "All topics"
+  - topic: "supportive-relationships"
     order: "2"
 resources:
   - Washington State policy on visits with relatives

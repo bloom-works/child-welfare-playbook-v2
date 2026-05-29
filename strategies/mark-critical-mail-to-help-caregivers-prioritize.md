@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "13"
 redirectFrom:
   - /recommendations/distinguish-important-mail-for-foster-families/

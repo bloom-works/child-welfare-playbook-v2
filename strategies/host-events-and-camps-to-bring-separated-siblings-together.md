@@ -6,7 +6,7 @@ tags:
   - strategy
   - supportive-relationships
 topicOrder:
-  - topic: "All topics"
+  - topic: "supportive-relationships"
     order: "8"
 redirectFrom:
   - /recommendations/host-events-and-camps-to-bring-together-separated-siblings/

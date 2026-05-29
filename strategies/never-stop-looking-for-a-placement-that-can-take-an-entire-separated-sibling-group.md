@@ -7,7 +7,7 @@ tags:
   - strategy
   - supportive-relationships
 topicOrder:
-  - topic: "All topics"
+  - topic: "supportive-relationships"
     order: "3"
 redirectFrom:
   - /recommendations/never-stop-looking-for-placements-for-sibling-groups/

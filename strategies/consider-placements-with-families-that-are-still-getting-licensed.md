@@ -6,7 +6,7 @@ tags:
   - strategy
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "recruitment"
     order: "2"
 redirectFrom:
   - /recommendations/include-pending-families-in-placement-searches

@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "8"
 resources:
   - "Program flyer: Washington State Plan of Safe Care"

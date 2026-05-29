@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "9"
 redirectFrom:
   - /recommendations/placement-stability-bonuses/

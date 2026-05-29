@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "5"
 redirectFrom:
   - /recommendations/quickly-offer-specific-concrete-goods/

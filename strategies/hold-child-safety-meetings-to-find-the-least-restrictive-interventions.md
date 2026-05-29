@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "1"
 resources:
   - Oklahoma child safety guidebook

@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "2"
 resources:
   - Iowa release of information form

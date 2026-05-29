@@ -6,7 +6,7 @@ tags:
   - strategy
   - emergency-placements
 topicOrder:
-  - topic: "All topics"
+  - topic: "emergency-placements"
     order: 1
 redirectFrom:
   - /recommendations/on-call-families/

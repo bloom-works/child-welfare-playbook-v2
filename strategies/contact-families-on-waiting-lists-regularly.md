@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "6"
 redirectFrom:
   - /recommendations/keep-your-wait-list-warm/

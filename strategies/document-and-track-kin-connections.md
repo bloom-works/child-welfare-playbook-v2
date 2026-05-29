@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
     order: 5
 resources:
   - Michigan diligent search checklist

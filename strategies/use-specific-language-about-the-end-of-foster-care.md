@@ -6,7 +6,7 @@ tags:
   - strategy
   - supporting-older-youth
 topicOrder:
-  - topic: "All topics"
+  - topic: "supporting-older-youth"
     order: "4"
 redirectFrom:
   - /recommendations/use-specific-language-about-the-end-of-foster-care/

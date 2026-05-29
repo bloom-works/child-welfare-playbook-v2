@@ -7,7 +7,9 @@ tags:
   - kin-engagement
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
+    order: "14"
+  - topic: "retention"
     order: "14"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"

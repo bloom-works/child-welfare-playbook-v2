@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
     order: "7"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"

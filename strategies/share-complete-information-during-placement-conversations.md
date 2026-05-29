@@ -8,7 +8,9 @@ tags:
   - kin-engagement
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
+    order: "6"
+  - topic: "recruitment"
     order: "6"
 resources:
   - "Treatment foster care: Designing systems and developing families"

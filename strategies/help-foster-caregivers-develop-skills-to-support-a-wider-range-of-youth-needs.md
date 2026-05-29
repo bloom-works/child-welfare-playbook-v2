@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "8"
 resources:
   - "Treatment foster care: Designing systems and developing families"

@@ -6,7 +6,7 @@ tags:
   - strategy
   - caregiver-licensing
 topicOrder:
-  - topic: "All topics"
+  - topic: "caregiver-licensing"
     order: "5"
 redirectFrom:
   - /recommendations/give-families-a-dedicated-licensor/

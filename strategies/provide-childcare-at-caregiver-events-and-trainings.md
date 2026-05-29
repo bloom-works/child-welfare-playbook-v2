@@ -7,7 +7,9 @@ tags:
   - kin-engagement
   - recruitment
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
+    order: "9"
+  - topic: "recruitment"
     order: "9"
 redirectFrom:
   - /recommendations/provide-childcare-at-resource-parent-events/

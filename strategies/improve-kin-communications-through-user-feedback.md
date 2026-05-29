@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
 topicOrder:
-  - topic: "All topics"
+  - topic: "kin-engagement"
     order: "12"
 redirectFrom:
   - /recommendations/test-your-communications-with-real-kin/

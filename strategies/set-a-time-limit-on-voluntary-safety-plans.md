@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "4"
 redirectFrom:
   - /recommendations/set-a-time-limit-on-voluntary-safety-plans/

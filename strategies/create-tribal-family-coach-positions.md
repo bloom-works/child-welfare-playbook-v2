@@ -7,7 +7,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "9"
 resources:
   - "Oregon tribal family coach: Job description"

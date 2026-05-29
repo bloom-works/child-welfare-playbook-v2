@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "11"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'

@@ -6,7 +6,7 @@ tags:
   - strategy
   - supportive-relationships
 topicOrder:
-  - topic: "All topics"
+  - topic: "supportive-relationships"
     order: "7"
 redirectFrom:
   - /recommendations/provide-transportation-to-visits-with-supportive-adults/

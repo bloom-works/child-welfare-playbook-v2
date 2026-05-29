@@ -6,7 +6,7 @@ tags:
   - strategy
   - retention
 topicOrder:
-  - topic: "All topics"
+  - topic: "retention"
     order: "6"
 redirectFrom:
   - /recommendations/recognize-foster-families/

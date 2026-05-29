@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "4"
 resources:
   - "Treatment foster care: Designing systems and developing families"

@@ -6,7 +6,7 @@ tags:
   - strategy
   - supporting-older-youth
 topicOrder:
-  - topic: "All topics"
+  - topic: "supporting-older-youth"
     order: "1"
 redirectFrom:
   - /recommendations/keep-a-schedule-of-when-youth-will-age-out/

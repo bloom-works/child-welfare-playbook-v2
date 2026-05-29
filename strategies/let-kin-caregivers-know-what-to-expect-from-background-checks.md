@@ -6,7 +6,7 @@ tags:
   - strategy
   - background-checks
 topicOrder:
-  - topic: "All topics"
+  - topic: "background-checks"
     order: "6"
 resources:
   - Kin licensing forms

@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "10"
 redirectFrom:
   - /recommendations/charge-service-providers-rent/

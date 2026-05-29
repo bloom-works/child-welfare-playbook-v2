@@ -6,7 +6,7 @@ tags:
   - strategy
   - prevention
 topicOrder:
-  - topic: "All topics"
+  - topic: "prevention"
     order: "7"
 redirectFrom:
   - /recommendations/evaluate-referral-sources-for-bias/
