@@ -1,19 +1,22 @@
 const topicList = topics => {
   const listItems = topics
-    .filter(topic => topicData[topic])
-    .map(topic => html`
+    .map(topic => {
+      const topicKey = topic.topic ? topic.topic : topic;
+      return topicData[topicKey];
+    })
+    .filter(data => !!data)
+    .map(data => html`
       <li>
         <a href="#">
           <svg>
-            <use xlinkHref="#svg-${topicData[topic].icon}"></use>
+            <use xlinkHref="#svg-${data.icon}"></use>
           </svg>
-          ${topicData[topic].title}
+          ${data.title}
         </a>
       </li>
-    `);
+   `);
 
   if (listItems && listItems.length > 0) {
-    console.log(listItems);
     return html`
       <ul class="page-topics">
         ${listItems}

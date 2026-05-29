@@ -17,7 +17,7 @@ const Strategy = createClass({
                   <h2 class="h1">${data.title}</h2>
                 </div>
               </div>
-              ${topicList(data.tags)}
+              ${topicList(data.topicOrder)}
             </div>
           </div>
         </div>

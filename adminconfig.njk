@@ -85,15 +85,15 @@ collections:
       - { label: "Template Engine", name: "templateEngineOverride", widget: "hidden", default: "md,njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/strategies/strategy-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: [{{ topicList | safe }}"strategy", "resource", "story"], default: ["strategy"], hint: "Add your topics here"}
-      - label: "Topic page order"
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: [{{ topicList | safe }}"strategy", "resource", "story"], default: ["strategy"], hint: "Add your topics to the 'Topics' field below."}
+      - label: "Topics"
         name: "topicOrder"
         widget: "list"
-        required: false
-        label_singular: "custom order"
+        label_singular: "topic"
+        collapsed: false
         fields:
-          - {label: "Topic page", name: "topic", widget: "select", options: [{{ topicList | safe }}"All topics"], default: "All topics"}
-          - {label: "Order", name: "order", widget: "string"}
+          - {label: "Topic", name: "topic", widget: "select", options: [{{ topicList | safe }}]}
+          - {label: "Order on topic page", name: "order", widget: "string"}
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Related resources", required: false, name: "resources", widget: "relation", collection: "resources", value_field: "title", search_fields: ["title", "url"], multiple: true}
       - { label: "Related stories", required: false, name: "stories", widget: "relation", collection: "stories", value_field: "title", search_fields: ["title", "url"], multiple: true}

@@ -4,7 +4,6 @@ templateEngineOverride: md,njk
 title: Hold youth safety meetings to find the least restrictive interventions
 tags:
   - strategy
-  - prevention
 topicOrder:
   - topic: "prevention"
     order: "1"
