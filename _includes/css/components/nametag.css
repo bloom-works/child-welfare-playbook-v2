@@ -16,6 +16,12 @@
   z-index: 3;
 }
 
+@media (min-width: 25rem) {
+  .nametag-badge {
+    white-space: nowrap;
+  }
+}
+
 .nametag-text {
   margin-block-start: 0;
   padding: var(--t-paragraph) calc(var(--t-paragraph) * 1.5);
@@ -51,8 +57,4 @@
   position: relative;
   left: -0.25rem;
   flex: none;
-}
-
-.nametag + p {
-  margin-block-start: var(--l-stack-gap);
 }

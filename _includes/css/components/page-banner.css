@@ -59,8 +59,9 @@
   inset: 0;
   background: var(--background) center center no-repeat;
   opacity: 0.2;
-  filter: blur(6px);
+  filter: blur(2px);
   mix-blend-mode: multiply;
+  scale: 1.05;
 }
 
 [data-type="story"] .page-banner-img::after {
@@ -99,11 +100,14 @@
   max-inline-size: var(--t-measure);
 }
 
-[data-width="full"] .l-wrapper {
+:is([data-width="full"], [data-type="topic"]) .l-wrapper {
   display: flex;
   flex-direction: column;
-  justify-content: stretch;
   gap: var(--t-paragraph);
+}
+
+[data-width="full"] .l-wrapper {
+  justify-content: stretch;
 }
 
 .page-topics i {
@@ -115,8 +119,7 @@
 ul.page-topics,
 .page-topics ul {
   padding: 0;
-  margin-inline: 0;
-  margin-block-start: var(--t-paragraph);
+  margin: 0;
   display: flex;
   width: 100%;
   gap: 1rem;

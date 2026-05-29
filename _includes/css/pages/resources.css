@@ -16,6 +16,7 @@
 .resource-detail .page-topics {
   justify-items: start;
   padding: 0;
+  margin-block-start: var(--l-stack-gap);
 }
 
 .resource-detail .nametag-badge {

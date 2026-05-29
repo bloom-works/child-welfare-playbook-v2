@@ -42,7 +42,7 @@ eleventyExcludeFromCollections: true
 
     {%- if params.backLinkText -%}
       <p><a href="{{ params.backLinkUrl }}" class="page-banner-back subhead">{% icon "arrow-u-up-left" %}{{ params.backLinkText }}</a></p>
-    {%- elif params.tags -%}
+    {%- elif params.tags.length -%}
       <div class="page-topics" data-pagefind-weight="0.5">
         <h3 class="sr-only">Topics</h3>
         <ul>
