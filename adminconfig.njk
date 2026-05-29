@@ -85,7 +85,7 @@ collections:
       - { label: "Template Engine", name: "templateEngineOverride", widget: "hidden", default: "md,njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/strategies/strategy-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: [{{ topicList | safe }}"strategy", "resource", "story"], default: ["strategy"], hint: "Add your topics to the 'Topics' field below."}
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["strategy", "resource", "story"], default: ["strategy"], hint: "Add your topics to the 'Topics' field below."}
       - label: "Topics"
         name: "topicOrder"
         widget: "list"
