@@ -12,8 +12,8 @@ tags:
   - prevention
 redirectFrom:
   - https://childwelfareplaybook.com/blog/engagement-voluntary-prevention-services/
-type: story
 featured: false
+type: story
 ---
 > The biggest thing to make families show up to stuff is let them plan it, because they are so excited about the planning process. They tell their neighbors, they tell their other friends, and **we max out and we can’t even get any more people in the door because so many people are showing up**. 
 
@@ -79,8 +79,10 @@ Service users aren’t always ready to participate in programs. They may need to
 
 A Family Resource Center, open for 2 years in a rural area, has been working to facilitate cross-stakeholder collaboration on programs and services for children under 5 in their county for 15 years. This center posts fliers on local community bulletin boards, grocery stores, and church bulletins, as well as in 4 local laundromats. In the laundromats, they set up a corner with a rug, books, family resources, and a small play area for children. Through their previous work in the community for 15 years and collaborative approaches, they have had 2000 families in their county visit the center, in a county where there are only 3000 families with children under the age of 5.
 
+----
+
 We’ll continue our research on preventing child welfare involvement, so check back for future blog posts. 
 
-We’d love to hear from you! Send us a message at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
+We’d love to hear from you! Send us a message at [cw-wellbeing@bloomworks.digital](<>).
 
-This work is supported by the Doris Duke Foundation as part of the [OPT-In for Families Initiative](https://www.ddf-opt-in.org/).
+This work is supported by the Doris Duke Foundation.

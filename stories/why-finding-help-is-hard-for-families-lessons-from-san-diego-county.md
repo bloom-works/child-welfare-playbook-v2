@@ -62,6 +62,6 @@ Based on our research findings, we created tools that other jurisdictions can us
 
 - - -
 
-This work is supported by the Doris Duke Foundation as part of the OPT-In for Families Initiative. 
+We'd love to hear from you. Send us a message at [cw-wellbeing@bloomworks.digital](cw-wellbeing@bloomworks.digital).
 
-We'd love to hear from you. Send us a message at [prevention@bloomworks.digital](mailto:prevention@bloomworks.digital).
+This work is supported by the Doris Duke Foundation.
