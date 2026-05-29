@@ -6,7 +6,9 @@ permalink: /strategies/simplify-the-process-for-out-of-state-child-abuse-and-neg
 tags:
   - strategy
   - background-checks
-order: "1"
+topicOrder:
+  - topic: "All topics"
+    order: "1"
 resources:
   - Kin licensing standards
   - Kin licensing forms

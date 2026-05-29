@@ -6,7 +6,9 @@ title: Never stop looking for a placement that can take an entire separated
 tags:
   - strategy
   - supportive-relationships
-order: "3"
+topicOrder:
+  - topic: "All topics"
+    order: "3"
 redirectFrom:
   - /recommendations/never-stop-looking-for-placements-for-sibling-groups/
 ---

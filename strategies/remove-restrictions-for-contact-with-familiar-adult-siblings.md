@@ -5,7 +5,9 @@ title: Remove restrictions for contact with familiar adult siblings
 tags:
   - strategy
   - supportive-relationships
-order: "5"
+topicOrder:
+  - topic: "All topics"
+    order: "5"
 redirectFrom:
   - /recommendations/remove-barriers-for-visits-with-adult-siblings/
 ---

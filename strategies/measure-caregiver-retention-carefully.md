@@ -5,7 +5,9 @@ title: Measure caregiver retention carefully
 tags:
   - strategy
   - retention
-order: 3
+topicOrder:
+  - topic: "All topics"
+    order: 3
 resources:
   - The dynamics of foster home recruitment and retention
 redirectFrom:

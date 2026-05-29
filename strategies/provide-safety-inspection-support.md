@@ -5,7 +5,9 @@ title: Help caregivers fulfill home safety requirements
 tags:
   - strategy
   - caregiver-licensing
-order: "6"
+topicOrder:
+  - topic: "All topics"
+    order: "6"
 resources:
   - Kin licensing standards
   - Kin licensing forms

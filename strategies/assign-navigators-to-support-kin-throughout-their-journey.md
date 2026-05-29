@@ -5,7 +5,9 @@ title: Assign navigators to support kin throughout their journey
 tags:
   - strategy
   - kin-engagement
-order: "11"
+topicOrder:
+  - topic: "All topics"
+    order: "11"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"
 ---

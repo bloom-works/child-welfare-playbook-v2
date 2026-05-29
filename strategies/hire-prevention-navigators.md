@@ -7,7 +7,9 @@ redirectFrom:
 tags:
   - strategy
   - prevention
-order: 3
+topicOrder:
+  - topic: "All topics"
+    order: 3
 ---
 Prevention services are complex and families may find them difficult to navigate. Even when support is available, they may not engage with it. Hire prevention navigators to help families understand and access important prevention services.
 

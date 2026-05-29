@@ -5,7 +5,9 @@ title: Find ways to recognize and appreciate caregivers
 tags:
   - strategy
   - retention
-order: "6"
+topicOrder:
+  - topic: "All topics"
+    order: "6"
 redirectFrom:
   - /recommendations/recognize-foster-families/
 ---

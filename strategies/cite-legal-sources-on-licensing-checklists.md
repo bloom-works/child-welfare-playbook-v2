@@ -5,7 +5,9 @@ title: Cite legal sources on licensing checklists
 tags:
   - strategy
   - caregiver-licensing
-order: "8"
+topicOrder:
+  - topic: "All topics"
+    order: "8"
 resources:
   - Washington State inspection checklist
 redirectFrom:

@@ -6,7 +6,9 @@ permalink: /strategies/hire-tribal-family-coaches/
 tags:
   - strategy
   - prevention
-order: "9"
+topicOrder:
+  - topic: "All topics"
+    order: "9"
 resources:
   - "Oregon tribal family coach: Job description"
   - "Oregon tribal family coach: Logic model"

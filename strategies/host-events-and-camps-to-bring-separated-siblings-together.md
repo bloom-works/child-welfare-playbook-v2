@@ -5,7 +5,9 @@ title: Host events and camps to bring separated siblings together
 tags:
   - strategy
   - supportive-relationships
-order: "8"
+topicOrder:
+  - topic: "All topics"
+    order: "8"
 redirectFrom:
   - /recommendations/host-events-and-camps-to-bring-together-separated-siblings/
 ---

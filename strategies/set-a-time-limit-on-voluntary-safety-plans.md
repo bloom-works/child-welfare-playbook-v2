@@ -5,7 +5,9 @@ title: Set a time limit on voluntary safety plans
 tags:
   - strategy
   - prevention
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 redirectFrom:
   - /recommendations/set-a-time-limit-on-voluntary-safety-plans/
 ---

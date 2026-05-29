@@ -5,7 +5,9 @@ title: "Make kin assessments collaborative and supportive "
 tags:
   - strategy
   - caregiver-licensing
-order: "3"
+topicOrder:
+  - topic: "All topics"
+    order: "3"
 resources:
   - Kin licensing forms
   - Kin licensing standards

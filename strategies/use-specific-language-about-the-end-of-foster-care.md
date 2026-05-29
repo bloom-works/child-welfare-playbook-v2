@@ -5,7 +5,9 @@ title: Use specific language about the end of foster care
 tags:
   - strategy
   - supporting-older-youth
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 redirectFrom:
   - /recommendations/use-specific-language-about-the-end-of-foster-care/
 ---

@@ -5,7 +5,9 @@ title: Use a red team to prevent placements in group homes
 tags:
   - strategy
   - kin-engagement
-order: "13"
+topicOrder:
+  - topic: "All topics"
+    order: "13"
 redirectFrom:
   - /recommendations/red-team-to-prevent-group-home-placements/
 ---

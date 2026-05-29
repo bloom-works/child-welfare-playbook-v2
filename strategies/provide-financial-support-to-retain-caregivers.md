@@ -5,7 +5,9 @@ title: Provide financial support to retain caregivers
 tags:
   - strategy
   - retention
-order: "1"
+topicOrder:
+  - topic: "All topics"
+    order: "1"
 resources:
   - Treehouse store
   - My NeighbOR needs list

@@ -5,7 +5,9 @@ title: Track what recruitment methods work
 tags:
   - strategy
   - recruitment
-order: "12"
+topicOrder:
+  - topic: "All topics"
+    order: "12"
 resources:
   - 'Presentation slides: "Sticky families" recruitment'
 ---

@@ -5,7 +5,9 @@ title: Provide treatment foster care support before and after crisis
 tags:
   - strategy
   - prevention
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 resources:
   - "Treatment foster care: Designing systems and developing families"
 ---

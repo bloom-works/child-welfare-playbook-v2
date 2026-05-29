@@ -5,7 +5,9 @@ title: Mark critical mail to help caregivers prioritize
 tags:
   - strategy
   - retention
-order: "13"
+topicOrder:
+  - topic: "All topics"
+    order: "13"
 redirectFrom:
   - /recommendations/distinguish-important-mail-for-foster-families/
 ---

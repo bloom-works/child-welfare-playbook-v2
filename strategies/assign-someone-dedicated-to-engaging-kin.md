@@ -5,7 +5,9 @@ title: Assign someone dedicated to engaging kin
 tags:
   - strategy
   - kin-engagement
-order: 3
+topicOrder:
+  - topic: "All topics"
+    order: 3
 resources:
   - Grandfamilies kin mobilization learning collaborative
 redirectFrom:

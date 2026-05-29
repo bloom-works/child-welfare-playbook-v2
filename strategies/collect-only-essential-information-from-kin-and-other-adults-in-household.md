@@ -6,7 +6,9 @@ permalink: /strategies/collect-only-essential-information-from-kin-households/
 tags:
   - strategy
   - background-checks
-order: "5"
+topicOrder:
+  - topic: "All topics"
+    order: "5"
 resources:
   - Kin licensing standards
   - Kin licensing forms

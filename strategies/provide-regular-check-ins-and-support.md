@@ -5,7 +5,9 @@ title: Provide regular check-ins and support
 tags:
   - strategy
   - retention
-order: "2"
+topicOrder:
+  - topic: "All topics"
+    order: "2"
 redirectFrom:
   - /recommendations/check-in-with-your-resource-families-regularly/
 ---

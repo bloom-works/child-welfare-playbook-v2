@@ -5,7 +5,9 @@ title: Provide training for supportive adults
 tags:
   - strategy
   - supportive-relationships
-order: "10"
+topicOrder:
+  - topic: "All topics"
+    order: "10"
 redirectFrom:
   - /recommendations/provide-training-for-supportive-adults/
 ---

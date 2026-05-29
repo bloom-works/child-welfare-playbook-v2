@@ -5,7 +5,9 @@ title: Require private agency capacity for emergency placements
 tags:
   - strategy
   - emergency-placements
-order: 2
+topicOrder:
+  - topic: "All topics"
+    order: 2
 redirectFrom:
   - /recommendations/require-private-agency-emergency-beds/
 ---

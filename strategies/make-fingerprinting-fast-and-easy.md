@@ -5,7 +5,9 @@ title: Make fingerprinting fast and easy
 tags:
   - strategy
   - background-checks
-order: "2"
+topicOrder:
+  - topic: "All topics"
+    order: "2"
 resources:
   - Kin licensing standards
   - Kin licensing forms

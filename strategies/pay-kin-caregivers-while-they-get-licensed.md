@@ -5,7 +5,9 @@ title: Pay kin caregivers while they get licensed
 tags:
   - strategy
   - caregiver-licensing
-order: "1"
+topicOrder:
+  - topic: "All topics"
+    order: "1"
 resources:
   - Kin licensing standards
 redirectFrom:

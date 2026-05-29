@@ -5,7 +5,9 @@ title: Document and track kin connections
 tags:
   - strategy
   - kin-engagement
-order: 5
+topicOrder:
+  - topic: "All topics"
+    order: 5
 resources:
   - Michigan diligent search checklist
   - Florida kin engagement guide

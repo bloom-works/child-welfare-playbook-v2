@@ -5,7 +5,9 @@ title: Use email and text to contact youth instead of paper mail
 tags:
   - strategy
   - supporting-older-youth
-order: "5"
+topicOrder:
+  - topic: "All topics"
+    order: "5"
 resources:
   - Online calendar example
 redirectFrom:

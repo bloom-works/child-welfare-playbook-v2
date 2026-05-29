@@ -6,7 +6,9 @@ tags:
   - strategy
   - recruitment
   - supporting-lgbtq-youth
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 resources:
   - "Queer affirmation maturity model "
 ---

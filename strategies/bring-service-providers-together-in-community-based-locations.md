@@ -5,7 +5,9 @@ title: Bring service providers together in community-based locations
 tags:
   - strategy
   - prevention
-order: "10"
+topicOrder:
+  - topic: "All topics"
+    order: "10"
 redirectFrom:
   - /recommendations/charge-service-providers-rent/
 ---

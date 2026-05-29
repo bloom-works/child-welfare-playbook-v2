@@ -5,7 +5,9 @@ title: Identify natural supports for caregivers
 tags:
   - strategy
   - retention
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 redirectFrom:
   - /recommendations/identify-natural-supports-for-caregivers/
 ---

@@ -5,7 +5,9 @@ title: Use an expansive legal definition of kin
 tags:
   - strategy
   - kin-engagement
-order: "2"
+topicOrder:
+  - topic: "All topics"
+    order: "2"
 resources:
   - Federal comment on kin definition
   - Kin licensing standards

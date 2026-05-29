@@ -6,7 +6,9 @@ permalink: ""
 tags:
   - strategy
   - background-checks
-order: "8"
+topicOrder:
+  - topic: "All topics"
+    order: "8"
 resources:
   - Kin licensing standards
   - Kin licensing forms

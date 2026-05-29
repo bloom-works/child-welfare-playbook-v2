@@ -5,7 +5,9 @@ title: Offer specific concrete goods in initial engagements
 tags:
   - strategy
   - prevention
-order: "5"
+topicOrder:
+  - topic: "All topics"
+    order: "5"
 redirectFrom:
   - /recommendations/quickly-offer-specific-concrete-goods/
 ---

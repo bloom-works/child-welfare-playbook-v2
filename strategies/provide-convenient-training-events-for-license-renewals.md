@@ -5,7 +5,9 @@ title: Provide convenient training for active caregivers
 tags:
   - strategy
   - caregiver-licensing
-order: "9"
+topicOrder:
+  - topic: "All topics"
+    order: "9"
 resources:
   - Kin licensing standards
 redirectFrom:

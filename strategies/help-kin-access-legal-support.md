@@ -5,7 +5,9 @@ title: Help kin access legal support
 tags:
   - strategy
   - kin-engagement
-order: "17"
+topicOrder:
+  - topic: "All topics"
+    order: "17"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"
   - Oklahoma permanency planning

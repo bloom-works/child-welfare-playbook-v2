@@ -5,7 +5,9 @@ title: Involve supportive adults in planning meetings
 tags:
   - strategy
   - supportive-relationships
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 resources:
   - Hawaii Youth Circle program
 redirectFrom:

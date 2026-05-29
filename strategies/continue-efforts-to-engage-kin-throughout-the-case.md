@@ -5,7 +5,9 @@ title: Continue efforts to engage kin throughout the case
 tags:
   - strategy
   - kin-engagement
-order: "7"
+topicOrder:
+  - topic: "All topics"
+    order: "7"
 resources:
   - Michigan’s kin notification form
   - Michigan kin placement case review template

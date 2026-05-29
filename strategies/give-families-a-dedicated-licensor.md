@@ -5,7 +5,9 @@ title: Give families a dedicated licensor
 tags:
   - strategy
   - caregiver-licensing
-order: "5"
+topicOrder:
+  - topic: "All topics"
+    order: "5"
 redirectFrom:
   - /recommendations/give-families-a-dedicated-licensor/
 ---

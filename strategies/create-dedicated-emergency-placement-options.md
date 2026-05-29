@@ -5,7 +5,9 @@ title: Create dedicated emergency placement options
 tags:
   - strategy
   - emergency-placements
-order: 1
+topicOrder:
+  - topic: "All topics"
+    order: 1
 redirectFrom:
   - /recommendations/on-call-families/
 ---

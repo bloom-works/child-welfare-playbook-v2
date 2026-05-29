@@ -5,7 +5,9 @@ title: Help kin caregivers access financial assistance
 tags:
   - strategy
   - caregiver-licensing
-order: "2"
+topicOrder:
+  - topic: "All topics"
+    order: "2"
 redirectFrom:
   - /recommendations/help-relative-placements-access-financial-assistance/
 ---

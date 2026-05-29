@@ -5,7 +5,9 @@ title: Help foster caregivers develop skills to support a wider range of youth n
 tags:
   - strategy
   - retention
-order: "8"
+topicOrder:
+  - topic: "All topics"
+    order: "8"
 resources:
   - "Treatment foster care: Designing systems and developing families"
   - 'Presentation slides: "Sticky families" recruitment'

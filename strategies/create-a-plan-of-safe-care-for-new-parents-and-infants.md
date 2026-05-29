@@ -5,7 +5,9 @@ title: Create a plan of safe care for new parents and infants
 tags:
   - strategy
   - prevention
-order: "8"
+topicOrder:
+  - topic: "All topics"
+    order: "8"
 resources:
   - "Program flyer: Washington State Plan of Safe Care"
   - "Presentation: Washington State Plan of Safe Care"

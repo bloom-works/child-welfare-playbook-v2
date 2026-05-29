@@ -5,7 +5,9 @@ title: Start with small requests when contacting kin
 tags:
   - strategy
   - kin-engagement
-order: "9"
+topicOrder:
+  - topic: "All topics"
+    order: "9"
 resources:
   - Michigan’s kin notification form
   - Wisconsin kin engagement training tools

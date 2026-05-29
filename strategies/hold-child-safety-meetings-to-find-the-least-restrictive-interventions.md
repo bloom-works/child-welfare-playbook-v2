@@ -5,7 +5,9 @@ title: Hold youth safety meetings to find the least restrictive interventions
 tags:
   - strategy
   - prevention
-order: "1"
+topicOrder:
+  - topic: "All topics"
+    order: "1"
 resources:
   - Oklahoma child safety guidebook
   - Oklahoma safety plan template

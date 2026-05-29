@@ -5,7 +5,9 @@ title: Use flexible payment methods for youth stipends
 tags:
   - strategy
   - supporting-older-youth
-order: "2"
+topicOrder:
+  - topic: "All topics"
+    order: "2"
 resources:
   - My NeighbOR needs list
 redirectFrom:

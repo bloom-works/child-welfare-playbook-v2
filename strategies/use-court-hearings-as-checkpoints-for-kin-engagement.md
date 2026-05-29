@@ -5,7 +5,9 @@ title: Use court hearings as checkpoints for kin engagement
 tags:
   - strategy
   - kin-engagement
-order: "6"
+topicOrder:
+  - topic: "All topics"
+    order: "6"
 resources:
   - Oregon shelter hearing benchbook
 redirectFrom:

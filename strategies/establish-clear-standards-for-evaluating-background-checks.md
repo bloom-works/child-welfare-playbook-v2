@@ -5,7 +5,9 @@ title: Establish clear standards for evaluating background checks
 tags:
   - background-checks
   - strategy
-order: "4"
+topicOrder:
+  - topic: "All topics"
+    order: "4"
 resources:
   - Kin licensing standards
   - Kin licensing forms

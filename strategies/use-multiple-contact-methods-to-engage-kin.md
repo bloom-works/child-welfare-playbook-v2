@@ -5,7 +5,9 @@ title: Use multiple contact methods to engage kin
 tags:
   - strategy
   - kin-engagement
-order: "8"
+topicOrder:
+  - topic: "All topics"
+    order: "8"
 ---
 Personal preferences, technology literacy, and mobility all impact which communication channels kin can use. If you are only using 1 method to reach kin, such as mailing physical letters, you are not reaching everyone you need to find. Plus, people may think letters from unknown government agencies are fraudulent, so having multiple ways to contact and verify your identity helps build trust.
 

@@ -5,7 +5,9 @@ title: Provide emotional support when placing youth with kin
 tags:
   - strategy
   - kin-engagement
-order: "7"
+topicOrder:
+  - topic: "All topics"
+    order: "7"
 resources:
   - "Final report: Shifting to a kin-first culture in Washington State"
   - Kin licensing standards

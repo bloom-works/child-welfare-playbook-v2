@@ -5,7 +5,9 @@ title: Create life books for youth in care
 tags:
   - strategy
   - supportive-relationships
-order: "9"
+topicOrder:
+  - topic: "All topics"
+    order: "9"
 resources:
   - Life book templates
 redirectFrom:

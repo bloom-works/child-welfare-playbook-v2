@@ -5,7 +5,9 @@ title: Use scheduling tools to prevent licensing delays
 tags:
   - strategy
   - caregiver-licensing
-order: "7"
+topicOrder:
+  - topic: "All topics"
+    order: "7"
 redirectFrom:
   - /recommendations/send-appointment-reminders/
 ---

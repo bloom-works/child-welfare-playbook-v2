@@ -5,7 +5,9 @@ title: Contact families on waiting lists regularly
 tags:
   - strategy
   - prevention
-order: "6"
+topicOrder:
+  - topic: "All topics"
+    order: "6"
 redirectFrom:
   - /recommendations/keep-your-wait-list-warm/
 ---

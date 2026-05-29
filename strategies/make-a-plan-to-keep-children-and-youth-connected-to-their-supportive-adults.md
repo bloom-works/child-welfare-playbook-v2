@@ -5,7 +5,9 @@ title: Make a plan to keep youth connected to their supportive adults
 tags:
   - strategy
   - supportive-relationships
-order: "1"
+topicOrder:
+  - topic: "All topics"
+    order: "1"
 resources:
   - Heart map template
   - Kin notification letter template

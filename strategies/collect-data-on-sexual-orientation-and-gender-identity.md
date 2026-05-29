@@ -5,7 +5,9 @@ title: Collect data on sexual orientation and gender identity
 tags:
   - strategy
   - supporting-lgbtq-youth
-order: "3"
+topicOrder:
+  - topic: "All topics"
+    order: "3"
 resources:
   - "Queer affirmation maturity model "
 ---
