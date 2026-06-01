@@ -19,26 +19,24 @@ Family strengthening is a fundamental shift in approach for child welfare agenci
 
 The goal is to avoid or limit a family’s direct involvement with the child welfare system. 
 
-We created the family strengthening maturity model to help child welfare agencies build a culture of family strengthening. 
+Bloom Works created the family strengthening maturity model to help child welfare agencies build a culture of family strengthening. 
 
 ## **Research overview**
 
-From July 2025 to October 2025, Bloom Works conducted research with San Diego County’s Office of Child and Family Strengthening to learn how local families access services. Read [lessons learned from San Diego County about accessing support](https://childwelfareplaybook.com/stories/why-finding-help-is-hard-for-families-lessons-from-san-diego-county/).
+From November 2025 to April 2026, Bloom Works conducted research exploring how to support child welfare agencies in shifting to a culture of family strengthening. 
 
-From November 2025 to April 2026, Bloom Works continued research with San Diego County and 5 additional jurisdictions: Illinois, Iowa, Michigan, New York City, and Washington State. 
-
-The goal of this second project was to explore how to support child welfare agencies in shifting to a culture of family strengthening. Based on this research, we developed the family strengthening maturity model.
+We worked with San Diego County’s Office of Child and Family Strengthening to develop the family strengthening maturity model. We tested and iterated on this model with San Diego County and 5 additional jurisdictions: Illinois, Iowa, Michigan, New York City, and Washington State.
 
 ### From “prevention” to “family strengthening”
 
-Prevention generally refers to work that aims to reduce the likelihood of youth experiencing neglect or abuse, and of families having any involvement with the child welfare system.
+Prevention in child welfare generally refers to work that aims to reduce the likelihood of youth experiencing neglect or abuse, and of families having any involvement with the child welfare system.
 
 But in our research, we learned that child welfare staff and families perceive the term “prevention” differently.
 
 * Staff think of “prevention” in a more positive sense, as building family capacity and providing support and services. 
 * Families think of “prevention” in a more negative sense, as preventing something bad from happening. They don’t associate “prevention” services with the kind of concrete support they need to maintain a stable home. 
 
-Our partners in San Diego County had started using the term “family strengthening” as an alternative to “prevention.” When we asked staff and family about their perceptions of this term in our research, both groups perceived “family strengthening” as more positively oriented than “prevention.” 
+Across the country, a number of child welfare agencies have begun using the term “family strengthening” as an alternative to “prevention,” including our partners in San Diego County. When we asked staff and family about their perceptions of this term in our research, both groups perceived “family strengthening” as more positively oriented than “prevention.” 
 
 Based on this research, we’ve used the term family strengthening in this maturity model and toolkit. But we recommend that all child welfare agencies conduct their own research to understand what terms resonate best in their jurisdictions. 
 
@@ -46,7 +44,7 @@ Based on this research, we’ve used the term family strengthening in this matur
 
 The family strengthening maturity model uses data from a staff survey to show where a child welfare agency stands in building a culture of family strengthening. It also provides recommendations for agency leadership to build a roadmap of next steps.
 
-Through our research, we identified 4 themes that shape an agency’s culture of family strengthening. These themes also shape the survey questions and recommendations in the maturity model.
+Through our research, we identified 4 themes that shape an agency’s culture of family strengthening. The survey questions and recommendations in the maturity model are organized around these themes.
 
 * **Leadership and vision.** How clearly leadership and management communicate and model an agency-wide vision of family strengthening.
 * **Workforce support.** How your agency provides staff with enough time, support, and psychological safety to effectively strengthen families.
@@ -72,10 +70,10 @@ Our [family strengthening maturity model toolkit](https://drive.google.com/drive
   * [Microsoft Form template](https://forms.office.com/Pages/ShareFormPage.aspx?id=ZQrp8hdH80WEeW57vbgMkco2xkwR_lpMsuWRAkpP8jhUOEY3SUJYVzlVSTlXWUxTSFo4OENMWjhCRS4u&sharetoken=WCth22ILypo42SZEz9QI)
 
   * [Text-only version](https://drive.google.com/file/d/17yArLeUQsga8cFOvqK5QOp7GItoQVSA8/view?usp=drive_link) to load in any survey platform
-* Scoring template to automate scoring of survey results and mapping them to maturity levels.
+* [Scoring template](https://docs.google.com/spreadsheets/d/1x9Bu7us2137sTjNtadW2wDNog9kr9IeOFI0mi6RPBms/edit?usp=drive_link) to automate scoring of survey results and mapping them to maturity levels.
 * [Recommendations](https://drive.google.com/file/d/1Y10rHS4M7imD6Ae0owkldrVoWAazAHxS/view?usp=drive_link) organized by theme and maturity level. 
 
-Watch this webinar (meeting recording link) to learn more about the family strengthening maturity model and how it works.
+\[Watch this webinar] to learn more about the family strengthening maturity model and how it works.
 
 ### How to share your feedback
 
