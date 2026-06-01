@@ -69,7 +69,7 @@ Our [family strengthening maturity model toolkit](https://drive.google.com/drive
 * Staff survey in these formats: 
 
   * [Fillable PDF](https://drive.google.com/file/d/1YbzmVKK4CV1FvprTbjrYmv0XQDjbsQFC/view?usp=drive_link) 
-  * [Google Form template](https://docs.google.com/forms/d/1XrIPH5fmOh-Ya6m6gua7ruwF92QJVGX8GjcPpdcgGis/copy) 
+  * [Google Form template](https://docs.google.com/forms/d/1XrIPH5fmOh-Ya6m6gua7ruwF92QJVGX8GjcPpdcgGis/) 
   * [Microsoft Form template](https://forms.office.com/Pages/ShareFormPage.aspx?id=ZQrp8hdH80WEeW57vbgMkco2xkwR_lpMsuWRAkpP8jhUOEY3SUJYVzlVSTlXWUxTSFo4OENMWjhCRS4u&sharetoken=WCth22ILypo42SZEz9QI)
   * [Text-only version](https://drive.google.com/file/d/17yArLeUQsga8cFOvqK5QOp7GItoQVSA8/view?usp=drive_link) to load in any survey platform
 * [Scoring template](https://docs.google.com/spreadsheets/d/1x9Bu7us2137sTjNtadW2wDNog9kr9IeOFI0mi6RPBms/edit?usp=drive_link) to automate scoring of survey results and mapping them to maturity levels.
