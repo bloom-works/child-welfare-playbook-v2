@@ -1,7 +1,7 @@
 ---
 layout: layouts/story.njk
 templateEngineOverride: md,njk
-title: New and updated strategies from Bloom Works research are now in the playbook
+title: New and updated strategies from Bloom Works research
 description: Bloom Works research is now available as 19 new strategies and 7
   updated strategies in the Child Welfare Playbook.
 author: Bloom Works
