@@ -2,13 +2,15 @@
 layout: layouts/story.njk
 templateEngineOverride: md,njk
 title: Introducing the family strengthening maturity model
-description: Use this maturity model to build a culture of family strengthening
-  in your child welfare agency.
+description: You can use this maturity model to build a culture of family
+  strengthening in your child welfare agency.
 author: Bloom Works
 date: 2026-05-27
 storyType: Blog post
+image: /images/stories/prevention.png
 tags:
   - story
+  - prevention
 featured: false
 ---
 Family strengthening is a fundamental shift in approach for child welfare agencies. It means keeping youth safe by supporting families before an agency would typically get involved. This includes: 
