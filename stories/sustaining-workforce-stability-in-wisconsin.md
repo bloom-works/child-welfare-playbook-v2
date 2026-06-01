@@ -54,4 +54,4 @@ By implementing a cross section of these organizational strategies, the program 
 
 - - -
 
-To learn more about this work, visit [The Institute for Child and Family Well-Being](https://uwm.edu/icfw/critical-pathways-workforce-inclusion-innovation/). Or contact [Child Welfare-Workforce](MFrederick-Usoh@childrenswi.org).
+To learn more about this work, visit [The Institute for Child and Family Well-Being](https://uwm.edu/icfw/critical-pathways-workforce-inclusion-innovation/). Or contact Child Welfare-Workforce at mfrederick-usoh@childrenswi.org.
