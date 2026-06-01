@@ -5,7 +5,7 @@ title: Introducing the family strengthening maturity model
 description: You can use this maturity model to build a culture of family
   strengthening in your child welfare agency.
 author: Bloom Works
-date: 2026-05-27
+date: 2026-06-01
 storyType: Blog post
 image: /images/stories/prevention.png
 tags:
@@ -17,15 +17,15 @@ Family strengthening is a fundamental shift in approach for child welfare agenci
 
 * Creating a robust system of community-based resources to help families thrive.
 * Listening to families, building on their strengths, and involving them in shared decision-making.
-* Supporting staff in efforts to keep families together, while helping them balance risk and compliance. 
+* Supporting staff in efforts to keep families together, while helping them balance risk and compliance.
 
 The goal is to avoid or limit a family’s direct involvement with the child welfare system. 
 
-Bloom Works created the family strengthening maturity model to help child welfare agencies build a culture of family strengthening. 
+Bloom Works created the family strengthening maturity model to help child welfare agencies build a culture of family strengthening.
 
 ## **Research overview**
 
-From November 2025 to April 2026, Bloom Works conducted research exploring how to support child welfare agencies in shifting to a culture of family strengthening. 
+From November 2025 to April 2026, Bloom conducted research exploring how to support child welfare agencies in shifting to a culture of family strengthening.
 
 We worked with San Diego County’s Office of Child and Family Strengthening to develop the family strengthening maturity model. We tested and iterated on this model with San Diego County and 5 additional jurisdictions: Illinois, Iowa, Michigan, New York City, and Washington State.
 
@@ -38,9 +38,9 @@ But in our research, we learned that child welfare staff and families perceive t
 * Staff think of “prevention” in a more positive sense, as building family capacity and providing support and services. 
 * Families think of “prevention” in a more negative sense, as preventing something bad from happening. They don’t associate “prevention” services with the kind of concrete support they need to maintain a stable home. 
 
-Across the country, a number of child welfare agencies have begun using the term “family strengthening” as an alternative to “prevention,” including our partners in San Diego County. When we asked staff and family about their perceptions of this term in our research, both groups perceived “family strengthening” as more positively oriented than “prevention.” 
+Across the country, a number of child welfare agencies have begun using the term “family strengthening” as an alternative to “prevention,” including our partners in San Diego County. When we asked staff and families about their perceptions of this term in our research, both groups perceived “family strengthening” as more positively oriented than “prevention.”
 
-Based on this research, we’ve used the term family strengthening in this maturity model and toolkit. But we recommend that all child welfare agencies conduct their own research to understand what terms resonate best in their jurisdictions. 
+Based on this research, we’ve used the term family strengthening in this maturity model and toolkit. But we recommend that all child welfare agencies conduct their own research to understand what terms resonate best in their jurisdictions.
 
 ## **How the maturity model works**
 
@@ -65,20 +65,18 @@ Our [family strengthening maturity model toolkit](https://drive.google.com/drive
 
 * [Facilitation guide](https://drive.google.com/file/d/1uG9tnoMvc3VWPBnThkPR_fU9geA_glMn/view?usp=drive_link) with instructions to set up and run the survey, process results, discuss recommendations, and build a roadmap of next steps.
 * Staff survey in these formats: 
-* * [Fillable PDF](https://drive.google.com/file/d/1YbzmVKK4CV1FvprTbjrYmv0XQDjbsQFC/view?usp=drive_link) 
 
+  * [Fillable PDF](https://drive.google.com/file/d/1YbzmVKK4CV1FvprTbjrYmv0XQDjbsQFC/view?usp=drive_link) 
   * [Google Form template](https://docs.google.com/forms/d/1XrIPH5fmOh-Ya6m6gua7ruwF92QJVGX8GjcPpdcgGis/copy) 
-
   * [Microsoft Form template](https://forms.office.com/Pages/ShareFormPage.aspx?id=ZQrp8hdH80WEeW57vbgMkco2xkwR_lpMsuWRAkpP8jhUOEY3SUJYVzlVSTlXWUxTSFo4OENMWjhCRS4u&sharetoken=WCth22ILypo42SZEz9QI)
-
   * [Text-only version](https://drive.google.com/file/d/17yArLeUQsga8cFOvqK5QOp7GItoQVSA8/view?usp=drive_link) to load in any survey platform
 * [Scoring template](https://docs.google.com/spreadsheets/d/1x9Bu7us2137sTjNtadW2wDNog9kr9IeOFI0mi6RPBms/edit?usp=drive_link) to automate scoring of survey results and mapping them to maturity levels.
-* [Recommendations](https://drive.google.com/file/d/1Y10rHS4M7imD6Ae0owkldrVoWAazAHxS/view?usp=drive_link) organized by theme and maturity level. 
+* [Recommendations](https://drive.google.com/file/d/1Y10rHS4M7imD6Ae0owkldrVoWAazAHxS/view?usp=drive_link) organized by theme and maturity level.
 
-\[Watch this webinar] to learn more about the family strengthening maturity model and how it works.
+[Watch this video](https://youtu.be/uBCYQ8E2H5U?si=WwwMdmQVQ4raV60k) to learn more about the family strengthening maturity model and how it works.
 
 ### How to share your feedback
 
-We hope to update this model using feedback from agencies like yours. We want to hear what worked well, where the tool has limitations or challenges, and how we can improve. [Share your feedback using thisform](https://airtable.com/app4EvgXVHLZZxhfg/pag8moilPVdTx4jiP/form)so we can continue improving this model and toolkit. 
+We hope to update this model using feedback from child welfare agencies across the country. We want to hear what worked well, where the tool has limitations or challenges, and how we can improve it. [Share your feedback using this form](https://airtable.com/app4EvgXVHLZZxhfg/pag8moilPVdTx4jiP/form) so we can continue improving this model and toolkit.
 
 This work is supported by the Doris Duke Foundation.
