@@ -4,7 +4,7 @@ templateEngineOverride: md,njk
 title: Sustaining workforce stability in Wisconsin
 description: A blueprint for workforce resilience and an evaluation of its
   success in Wisconsin.
-author: Children’s Wisconsin Child Welfare
+author: The Institute for Child and Family Well-being at Children’s Wisconsin
 date: 2026-05-28
 storyType: Case study
 tags:
@@ -54,4 +54,4 @@ By implementing a cross section of these organizational strategies, the program 
 
 - - -
 
-To learn more about this work, contact [Children's Wisconsin Child Welfare](https://childrenswi.org/who-we-are/community-programs/child-welfare-services).
+To learn more about this work, visit [The Institute for Child and Family Well-Being](https://uwm.edu/icfw/critical-pathways-workforce-inclusion-innovation/). Or contact [Child Welfare-Workforce](MFrederick-Usoh@childrenswi.org).
