@@ -11,6 +11,8 @@ image: /images/stories/prevention.png
 tags:
   - story
   - prevention
+resources:
+  - Family strengthening maturity model toolkit
 featured: false
 ---
 Family strengthening is a fundamental shift in approach for child welfare agencies. It means keeping youth safe by supporting families before an agency would typically get involved. This includes: 
