@@ -299,7 +299,7 @@ window.addEventListener('DOMContentLoaded', async (e) => {
             filteredCount = search.totalFilters[filterType][filterName];
           }
 
-          if (filteredCount === undefined || filteredCount > 0 || input.checked || allResultsCount < 1) {
+          if (filteredCount === undefined || filteredCount > 0 || input.checked || allResultsCount < 1 || !currentQuery) {
             filter.hidden = false;
           } else {
             filter.hidden = true;
