@@ -100,10 +100,14 @@
   max-inline-size: var(--t-measure);
 }
 
-:is([data-width="full"], [data-type="topic"]) .l-wrapper {
+:is([data-width="full"], [data-type="topic"], [data-type="dashboard"]) .l-wrapper {
   display: flex;
   flex-direction: column;
   gap: var(--t-paragraph);
+}
+
+[data-type="dashboard"] .page-topics ul {
+  justify-content: start;
 }
 
 [data-width="full"] .l-wrapper {
