@@ -15,7 +15,7 @@ intro: >-
   As states implement kin licensing standards, their definition of "relative" is particularly important. Broad definitions keep youth connected to their communities and supportive relationships.
 
 
-  There's substantial variation in definitions among states that have implemented kin licensing standards. These are some of the various policies:
+  There's substantial variation in definitions among states that have implemented kin licensing standards. These are some of their broad definitions of "relative":
 
 
   * **12 states** don't limit blood, legal, or adoptive relationships by distance (or degree of consanguinity)
