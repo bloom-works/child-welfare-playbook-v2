@@ -3,7 +3,7 @@ layout: layouts/default.njk
 pageIndex: all
 eleventyComputed:
   backLinkUrl: "{%- if tags and tags.length <= 2 -%}{%- for tag in tags -%}{%- if tag != 'dashboard' -%}/topics/{{ tag }}{%- endif -%}{%- endfor -%}{%- endif -%}"
-  pagefindTitle: "Dashboard: {{ title }}"
+  pagefindTitle: "{{ title }} dashboard"
   pageCss: "{% include 'css/components/dashboard-card.css' %}"
 pagefind:
   type: Page
@@ -56,27 +56,7 @@ banner:
     <div class="l-stack-basic">
       <div class="l-wrapper-text">
         <div class="l-stack-basic">
-          {{ intro | md | safe }}
-
-          <ul>
-            {% for headerKey, headerValue in dashboards[pageData] | first %}
-              {% set stateTally = 0 %}
-
-              {% for row in dashboards[pageData] %}
-                {% if row["Jurisdiction"] | lower != "intro description" %}
-                  {% for key, value in row %}
-                    {% if key == headerKey and value | lower == "fully implemented" %}
-                      {% set stateTally = stateTally + 1 | float %}
-                    {% endif %}
-                  {% endfor %}
-                {% else %}
-                {% endif %}
-              {% endfor %}
-              {% if headerKey | lower != "jurisdiction" %}
-              <li><strong>{{ stateTally }} states</strong> {{ dashboards[pageData][0][headerKey] }}</li>
-              {% endif %}
-            {% endfor %}
-          </ul>
+          {{ content | md | safe }}
         </div>
       </div>
 
