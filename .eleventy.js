@@ -104,7 +104,7 @@ export default async function(eleventyConfig) {
       listItems += ` <li><strong>${ stateTally } states</strong> ${headerDescription}</li>`
     }
 
-    return `<ul>${listItems}</ul>`;
+    return `<ul class="dashboard-state-list">${listItems}</ul>`;
   });
 
   const md = markdownIt({
