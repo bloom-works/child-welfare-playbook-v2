@@ -71,6 +71,42 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents));
 
+  eleventyConfig.addShortcode("dashboardStateList", function(dashboardData) {
+
+    const pageData = dashboardData.replace(/\.[^/.]+$/, "");
+    const dashboards = this.ctx.dashboards;
+
+    if (!dashboards || !dashboards[pageData]) {
+      return `<!-- No dashboard data found for ${pageData} -->`;
+    }
+
+    const stateData = dashboards[pageData];
+    const firstRow = stateData[0];
+    let listItems = "";
+
+    for (const headerKey in firstRow) {
+      if (headerKey.toLowerCase() === "jurisdiction") continue;
+
+      let stateTally = 0;
+
+      for (const row of stateData) {
+        const jurisdiction = row["Jurisdiction"] || "";
+
+        if (jurisdiction.toLowerCase() !== "intro description") {
+          const cellValue = row[headerKey] || "";
+          if (cellValue.toLowerCase() === "fully implemented") {
+            stateTally++;
+          }
+        }
+      }
+
+      const headerDescription = firstRow[headerKey];
+      listItems += ` <li><strong>${ stateTally } states</strong> ${headerDescription}</li>`
+    }
+
+    return `<ul class="dashboard-state-list">${listItems}</ul>`;
+  });
+
   const md = markdownIt({
     html: true,
     breaks: false,

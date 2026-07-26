@@ -17,6 +17,7 @@
       {% include "admin/helpers/sprite.js" %}
       {% include "admin/helpers/topicData.js" %}
 
+      {% include "admin/partials/dashboardStateList.js" %}
       {% include "admin/partials/resourceList.js" %}
       {% include "admin/partials/storyList.js" %}
       {% include "admin/partials/topicList.js" %}
@@ -45,6 +46,8 @@
 
       CMS.registerPreviewStyle("../theme.css", { raw: false });
       CMS.registerPreviewStyle("../pages.css", { raw: false });
+
+      CMS.registerEditorComponent(dashboardStateList);
     </script>
   </body>
 </html>

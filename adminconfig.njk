@@ -145,7 +145,7 @@ collections:
       - { label: "Template Engine", name: "templateEngineOverride", widget: "hidden", default: "md,njk" }
       - { label: "Name of dashboard", name: "title", widget: "string" }
       - { label: "Page description", name: "description", widget: "string" }
-      - { label: "Introduction", name: "intro", widget: "markdown", required: false }
+      - { label: "Introduction", name: "body", widget: "markdown", required: false }
       - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Format your permalink like: '/dashboards/dashboard-name/'. Make sure to include the backslash at the end, and to omit the childwelfareplaybook.com domain." }
       - { label: "Dashboard data", name: "dashboardData", widget: "string", hint: "The filename of the CSV you uploaded." }
       - { label: "Tags", name: "tags", widget: "select", multiple: true, options: [{{ topicList | safe }}"strategy", "resource", "story", "dashboard"], default: ["dashboard"], hint: "Add your topics here"}

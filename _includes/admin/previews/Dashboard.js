@@ -21,7 +21,7 @@ const Dashboard = createClass({
           <div class="l-section">
             <div class="wrapper-text">
               <div class="l-stack">
-                ${this.props.widgetFor('intro')}
+                ${this.props.widgetFor('body')}
               </div>
             </div>
           </div>

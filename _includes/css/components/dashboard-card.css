@@ -49,7 +49,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: calc(var(--font-base-leading) * 0.5);
-  color: var(--c-c-gray-darkest);
+  color: var(--c-gray-darkest);
 }
 
 .dashboard-card [data-checked="true"]::before,
@@ -65,4 +65,21 @@
 .dashboard-card [data-checked="partial"]::before {
   opacity: 0.5;
   background-image: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20256%20256%22%3E%3Crect%20width%3D%22256%22%20height%3D%22256%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M40%2C130.42c72-89.55%2C104%2C84.71%2C176-4.84%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke-width%3D%2224%22%2F%3E%3C%2Fsvg%3E');
+}
+
+.dashboard-state-list {
+  border: 3px solid rgb(0 0 0 / 0.07);
+  border-radius: var(--radius-lg);
+  padding: 0;
+}
+
+.dashboard-state-list li {
+  list-style: none;
+  padding-block: calc(var(--t-paragraph) / 2);
+  padding-inline: var(--t-paragraph);
+}
+
+.dashboard-state-list li:nth-child(even) {
+  background: rgb(0 0 0 / 0.04);
+}
 }
