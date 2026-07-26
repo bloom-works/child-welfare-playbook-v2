@@ -6,7 +6,7 @@ tags:
   - strategy
   - kin-engagement
 topicOrder:
-  - topic: "kin-engagement"
+  - topic: kin-engagement
     order: "4"
 resources:
   - New York kin-first policy
@@ -27,4 +27,4 @@ Caseworkers don't want to wake a director in the middle of the night to sign off
 
 **New York** has implemented a [kinship firewall policy](/resources/ny-kinship-firewall-policy/) with similar requirements.
 
-**Oklahoma** has a policy that the deputy director must sign off on any group home placements for youth 13 and over. A director must sign off on any group home placements for youth under 13.[](https://www.grandfamilies.org/Portals/0/Documents/Wikihow/20-OCFS-ADM-18%20kinfirst%20firewall.pdf?ver=aRW2qPM7j_EMROWXTct8SA%3d%3d)
+**Oklahoma** has a policy that a director must sign off on any group home placements for youth under 13.[](https://www.grandfamilies.org/Portals/0/Documents/Wikihow/20-OCFS-ADM-18%20kinfirst%20firewall.pdf?ver=aRW2qPM7j_EMROWXTct8SA%3d%3d)
