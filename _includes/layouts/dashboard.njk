@@ -67,16 +67,18 @@ banner:
       {% for row in dashboards[pageData] %}
 
       {% set implementedNumber = 0 %}
+      {% set totalMeasures = -1 %}
 
       {% if row["Jurisdiction"] | lower != "intro description" %}
         {% for key, value in row %}
+          {% set totalMeasures = totalMeasures + 1 | float %}
           {% set implementedNumber = implementedNumber + implementedCount(value) | float %}
         {% endfor %}
 
         {%- set implementedText -%}
           {%- if implementedNumber == 0 -%}
             None implemented
-          {%- elif implementedNumber < 5 -%}
+          {%- elif implementedNumber < totalMeasures -%}
             Partially implemented
           {%- else -%}
             All implemented
