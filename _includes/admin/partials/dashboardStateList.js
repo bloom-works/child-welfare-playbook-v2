@@ -1,3 +1,8 @@
+// Show lists of states that have implemented
+// the measures on a dashboard page.
+//
+// On the site, we render this component with the dashboardStateList shortcode in .eleventy.js
+
 const dashboardStateList = {
   id: "dashboardStateList",
   label: "Dashboard State List",

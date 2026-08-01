@@ -16,6 +16,9 @@
     <title>
       {% if title %}{{title}} | {% endif %}Child Welfare Playbook
     </title>
+
+    {# Open Graph #}
+
     <meta property="og:site_name" content="Child Welfare Playbook" />
     {% if description %}
       <meta name="description" content="{{description}}"/>
@@ -27,6 +30,14 @@
     {% else %}
       <meta data-pagefind-default-meta="image[content]" content="/open-graph.jpg" property="og:image">
     {% endif %}
+
+    {% if pagefind.type === "Strategy" or pagefind.type === "Story" %}
+      <meta property="og:type" content="article">
+    {% else %}
+      <meta property="og:type" content="website">
+    {% endif %}
+
+    {# Set metadata for PageFind indexing #}
 
     {% if pagefind.type %}
       <meta data-pagefind-filter="pageType[content]" content="{{ pagefind.type }}">
@@ -56,12 +67,7 @@
       <meta data-pagefind-filter="topics[content]" content="noTopic">
     {%- endif -%}
 
-    {% if pagefind.type === "Strategy" or pagefind.type === "Story" %}
-      <meta property="og:type" content="article">
-    {% else %}
-      <meta property="og:type" content="website">
-    {% endif %}
-
+    {# Web Manifest and icons #}
     <link rel="manifest" href="/site.webmanifest">
     <link rel="icon" href="/favicon.ico" sizes="32x32">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -70,6 +76,9 @@
     {% if image %}<link rel="preload" href="{{ image }}" as="image">{% endif %}
     <link rel="apple-touch-icon" href="/favicon-180.png">
     <link rel="stylesheet" type="text/css" href="/theme.css"/>
+
+    {# As of August 2026, videos are for meeting pages only #}
+
     {% if video %}
       <script type="module" src="/js/lite-youtube.js"></script>
       <style>
@@ -102,6 +111,7 @@
 
     {% include "partials/navbar.njk" %}
 
+    {# PageFind only indexes the page if the config has pageIndex: all #}
     <div id="content" class="content" {% if pageIndex == "all" %}data-pagefind-body{% endif %}>
       {{ content | md | safe }}
     </div>

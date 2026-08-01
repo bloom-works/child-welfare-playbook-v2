@@ -31,6 +31,7 @@ export default async function(eleventyConfig) {
     return new CleanCSS({}).minify(code).styles;
   });
 
+  // Parse CSVs for dashboard data
   eleventyConfig.addDataExtension("csv", (contents) => {
     const records = parse(contents, {
       columns: true,
@@ -70,6 +71,8 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./admin/");
 
   eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents));
+
+  // Show lists of states that have implemented the measures on a dashboard page
 
   eleventyConfig.addShortcode("dashboardStateList", function(dashboardData) {
 
@@ -119,6 +122,7 @@ export default async function(eleventyConfig) {
     md.render(markdownString),
     );
 
+  // Generate icon sprite
   eleventyConfig.addPlugin(svgSprite, {
     path: "./icons", // relative path to SVG directory
     svgShortcode: "icon",
@@ -209,6 +213,7 @@ export default async function(eleventyConfig) {
       collection.getFilteredByGlob("meetings/*.md")
   );
 
+  // "Find" filter
   eleventyConfig.addFilter("find", function find(collection = [], title = "") {
     return collection.find(item => item.data.title === title);
   });

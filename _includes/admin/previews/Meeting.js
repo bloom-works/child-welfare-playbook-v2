@@ -1,3 +1,5 @@
+// This file is used only for DecapCMS editor previews.
+
 const Meeting = createClass({
   render: function() {
     const entry = this.props.entry;

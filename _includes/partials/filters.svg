@@ -1,3 +1,4 @@
+<!-- Creates distorted edges on topic cards, .nametag component, etc. -->
 <svg class="sr-only">
     <defs>
       <filter id="tornEdge">

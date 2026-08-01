@@ -1,3 +1,8 @@
+// Shows lists of resources related to a strategy or story.
+//
+// On the site, we use /_macros/resource-list.njk to
+// render this component
+
 const resourceList = (entry, fieldsMetaData) => {
   const data = entry.get('data').toJS();
   const resources = data.resources;

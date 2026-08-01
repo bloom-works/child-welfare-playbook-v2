@@ -1,3 +1,7 @@
+// Shows lists of resources related to a strategy.
+//
+// In the site, we render this component with /_macros/story-list.njk
+
 const storyList = (entry, fieldsMetaData, getAsset) => {
   const data = entry.get('data').toJS();
   const stories = data.stories;

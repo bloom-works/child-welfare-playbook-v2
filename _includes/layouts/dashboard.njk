@@ -18,6 +18,7 @@ banner:
 {%- from '_macros/topic-card.njk' import topicCard %}
 {%- from '_macros/story-card.njk' import storyCard %}
 
+{# Check whether this measure is implemented #}
 {%- macro checked(field) -%}
   {%- if field | lower == "fully implemented" -%}
     true
@@ -28,6 +29,8 @@ banner:
   {%- endif -%}
 {%- endmacro -%}
 
+
+{# Count how many measures are implemented for a given state #}
 {%- macro implementedCount(field) -%}
   {%- if field | lower == "fully implemented" -%}
     1

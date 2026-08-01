@@ -2,7 +2,6 @@
 eleventyExcludeFromCollections: true
 ---
 
-
 {%- macro pageBanner(params) -%}
 
 {% if params.pagefindTitle %}
@@ -15,12 +14,19 @@ eleventyExcludeFromCollections: true
   <h2 data-pagefind-weight="9" class="h1" data-pagefind-sort="title:{{ pagefindTitle }}" data-pagefind-meta="title:{{ pagefindTitle }}">{{ params.header | safe }}</h2>
 {%- endset -%}
 
-<div class="page-banner"{%- if params.type -%} data-type="{{ params.type }}"{%- endif -%}{%- if params.full -%} data-width="full"{%- endif -%}>
+<div class="page-banner"
+  {%- if params.type -%} data-type="{{ params.type }}"{%- endif -%}
+  {%- if params.full -%} data-width="full"{%- endif -%}
+>
   <div class="l-wrapper">
+    {# Page title #}
     {%- if params.badge or params.icon -%}
       <div class="nametag"{%- if params.date %} data-pagefind-sort="date:{{ params.date | yearMonthDay }}"{%- endif -%}>
         {%- if params.badge -%}
-          <span class="nametag-badge subhead">{{ params.badge }}<span class="sr-only">: </span></span>
+          <span class="nametag-badge subhead">
+            {{ params.badge }}
+            <span class="sr-only">: </span>
+          </span>
         {%- endif -%}
         <div class="nametag-text">
           {%- if params.icon -%}
@@ -32,6 +38,7 @@ eleventyExcludeFromCollections: true
     {%- else -%}
       {{- headline | safe -}}
     {%- endif -%}
+    {# Subheader #}
     {%- if params.subheader -%}
       <p>{{ params.subheader | safe }}</p>
     {%- elif pageDescription and not params.hideSubheader -%}
@@ -40,10 +47,13 @@ eleventyExcludeFromCollections: true
       <p>{{ description | safe }}
     {%- endif -%}
 
+    {# "Back to topic" link (if one exists) #}
     {%- if params.backLinkText -%}
       <p><a href="{{ params.backLinkUrl }}" class="page-banner-back subhead">{% icon "arrow-u-up-left" %}{{ params.backLinkText }}</a></p>
+
+    {# Page topics #}
     {%- elif params.tags.length or params.topicOrder -%}
-      <div class="page-topics" data-pagefind-weight="0.5">
+          <div class="page-topics" data-pagefind-weight="0.5">
         <h3 class="sr-only">Topics</h3>
         <ul>
           {%- for topic in collections.topics -%}
@@ -65,12 +75,15 @@ eleventyExcludeFromCollections: true
       </div>
     {%- endif -%}
 
+    {# Authors of story pages #}
     {%- if params.author or params.date-%}
       {%- if params.type != "meeting" -%}
       <p class="subhead">Written{%- if params.author %} by {{ author }}{%- endif -%}{%- if params.date %} on {{ params.date | humanDate }}{%- endif -%}</p>
       {%- endif -%}
     {%- endif -%}
   </div>
+
+  {# Banner images #}
   {%- if params.image -%}
     <div class="page-banner-img" fetchpriority="high" style="--background: url('{{ params.image }}'); {%- if params.mask -%}--mask: url('{{ params.mask}}');{%- endif -%}{%- if params.circle -%} --circle: url('{{ params.circle }}');{%- endif -%}"></div>
   {% endif %}

@@ -1,4 +1,6 @@
 // Compile the list of topics in the page banner
+// for DecapCMS admin previews
+
 const topicData = {
   {%- for topic in collections.topics -%}
       "{{ topic.data.id }}": {

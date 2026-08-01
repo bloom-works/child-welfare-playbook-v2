@@ -1,3 +1,5 @@
+// This file is used only for DecapCMS editor previews.
+
 const Dashboard = createClass({
   render: function() {
     const entry = this.props.entry;

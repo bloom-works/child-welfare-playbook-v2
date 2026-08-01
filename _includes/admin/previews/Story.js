@@ -1,3 +1,5 @@
+// This file is used only for DecapCMS editor previews.
+
 const Story = createClass({
   render: function() {
     const entry = this.props.entry;

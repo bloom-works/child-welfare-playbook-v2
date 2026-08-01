@@ -1,3 +1,7 @@
+// Shows the list of topics on the homepage.
+//
+// On the site, we render this list in index.njk
+
 const topicList = topics => {
   const listItems = topics
     .map(topic => {

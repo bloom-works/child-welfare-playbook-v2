@@ -36,6 +36,9 @@ pagefind:
       {% set linkUrl = url %}
     {% endif %}
 
+    {# Show a "Learn more" button when linking to a webpage
+       Otherwise, show a "Download" button
+     #}
     <p class="resource-download">
       <a class="button" data-has-icon href="{{ linkUrl }}">
         {%- if file -%}

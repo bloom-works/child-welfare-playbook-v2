@@ -6,6 +6,7 @@ eleventyExcludeFromCollections: true
 
 {% macro storyList(params) %}
 
+{# Define whether the header should be an h2, h3, etc. #}
 {%- if params.headerLevel %}
   {%- set headerLevel = params.headerLevel -%}
 {%- else -%}

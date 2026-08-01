@@ -1,4 +1,4 @@
-// Insert the SVG icon sprite into preview templates
+// Insert the SVG icon sprite into DecapCMS admin previews
 // while removing the parent <div>, since it contains
 // a non-React-compatible style tag
 
