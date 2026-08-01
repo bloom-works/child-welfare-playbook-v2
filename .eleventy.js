@@ -93,7 +93,7 @@ export default async function(eleventyConfig) {
       let stateTally = 0;
 
       for (const row of stateData) {
-        const jurisdiction = row["Jurisdiction"] || "";
+        const jurisdiction = row.Jurisdiction || "";
 
         if (jurisdiction.toLowerCase() !== "intro description") {
           const cellValue = row[headerKey] || "";
