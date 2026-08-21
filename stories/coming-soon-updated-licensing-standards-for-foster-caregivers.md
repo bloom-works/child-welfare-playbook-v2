@@ -9,7 +9,7 @@ description: Bloom Works is updating national foster licensing standards with
 author: Bloom Works
 date: 2026-08-21
 storyType: Blog post
-image: ""
+image: /images/stories/prevention.png
 tags:
   - story
   - caregiver-licensing
