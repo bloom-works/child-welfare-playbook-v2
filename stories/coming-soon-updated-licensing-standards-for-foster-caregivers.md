@@ -1,7 +1,7 @@
 ---
 layout: layouts/story.njk
 templateEngineOverride: md,njk
-title: "Coming soon: Updated licensing standards for foster caregivers"
+title: "Coming soon: New recommended licensing standards for foster caregivers"
 permalink: /stories/national-foster-licensing-standards/
 description: Bloom Works is creating new recommended national foster licensing
   standards with child welfare agencies, national organizations, policy experts,
