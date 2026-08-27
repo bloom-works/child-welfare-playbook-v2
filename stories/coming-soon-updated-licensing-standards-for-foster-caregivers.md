@@ -3,11 +3,12 @@ layout: layouts/story.njk
 templateEngineOverride: md,njk
 title: "Coming soon: Updated licensing standards for foster caregivers"
 permalink: /stories/national-foster-licensing-standards/
-description: Bloom Works is updating national foster licensing standards with
-  child welfare agencies, national organizations, policy experts, and
-  caregivers, caseworkers, and former foster youth from across the country.
+description: Bloom Works is creating new recommended national foster licensing
+  standards with child welfare agencies, national organizations, policy experts,
+  foster caregivers, caseworkers, and former foster youth from across the
+  country.
 author: Bloom Works
-date: 2026-08-21
+date: 2026-08-27
 storyType: Blog post
 image: /images/stories/prevention.png
 tags:
@@ -18,25 +19,25 @@ featured: true
 ---
 ## What we’re doing
 
-We’re working with child welfare agencies, national organizations, policy experts, and caregivers, caseworkers, and former foster youth to update national foster licensing standards. These updates will include policy recommendations, implementation guidance, and ready-to-use templates.
+We’re working with child welfare agencies, national organizations, policy experts, foster caregivers, caseworkers, and former foster youth to develop recommended national foster caregiver licensing standards. These will include policy recommendations, implementation guidance, and ready-to-use templates.
 
-We’ll publish the updated standards in October.
+We’ll publish the new standards in October.
 
 ## Why we're doing it
 
-At present, child welfare systems across the country have too few foster homes. The most recent estimate is that there are 57 licensed foster homes for every 100 children in foster care. Licensing is one of the biggest barriers to having enough foster homes. 
+At present, child welfare systems across the country have too few foster homes. The most recent estimate is that there are 57 licensed foster homes for every 100 children in foster care. Unnecessary requirements in licensing processes are barriers to having enough safe, available foster homes.
 
-Improving the licensing process can increase the number of safe and capable licensed caregivers. The updated standards do this in five ways: 
+Improving the licensing process and standards can increase the number of safe and capable licensed caregivers. The updated standards do this in five ways: 
 
-**Make caregivers available in the communities that children come from.** There are gaps in caregiver availability at the zip code and county level. When children stay close to home, they’re more likely to stay connected to their school, friendships, family, and communities. The updated standards remove licensing barriers, so that more caregivers get licensed in the communities children come from. This leads to better outcomes for children.
+**Create better placements for children.** Agencies that license more caregivers can reduce adverse placement outcomes, like children being placed far from home, separated from siblings, or placed in settings that don’t meet their needs.
 
-**Keep more applicants from inquiry through licensing.** Licensing processes shape who applies and who completes the process. Agencies told us that the administrative burden the process places on families was the biggest reason applicants dropped out.
+**Make caregivers available in the communities that children come from.** Children are often placed far from their home communities because there aren't enough licensed caregivers nearby. When children stay close to home, they’re more likely to stay connected to their school, friendships, family, and communities. The updated standards remove unnecessary licensing requirements, so that more caregivers get licensed in the communities children come from. 
 
-**Improve the quality of caregiver assessments.** Caregivers are willing to go through a thorough process as long as they feel like it’s genuinely trying to assess their fitness and will give them an understanding of what they're taking on. What we heard from agencies and caregivers alike is that quality of assessment matters more than quantity of requirements. The standards and the assessment form we built are focused on whether a caregiver can build trust with a child, respond to trauma, understand their own motives for fostering, and meet a child’s physical, emotional, medical, and educational needs.
+**Reduce unnecessary burden so more qualified applicants complete the process.** Licensing processes shape who applies and who completes the process. Agencies told us that the administrative burden the process places on families was the biggest reason qualified applicants dropped out.
 
-**Create consistency to make the process fair.** Ideally, prospective caregivers should encounter the same process regardless of the state, agency, or worker that’s assessing them. Many agencies said they want consistency because inconsistent processes leave more room for bias to shape decisions. These standards provide clear guidance about the reasoning behind policies in order to be less confusing for families who move, and for staff who want to apply the standards consistently.
+**Improve the quality of caregiver assessments.** Caregivers are willing to go through a thorough process as long as they feel like it’s genuinely assessing their fitness and will give them an understanding of what they're taking on. What we heard from agencies and caregivers alike is that quality of assessment matters more than quantity of requirements. The standards and the assessment form are focused on a caregiver’s ability to meet a child’s physical, emotional, medical, and educational needs, and their readiness to support children who've experienced trauma.
 
-**Create better placements for children.** Agencies that license more caregivers can reduce the adverse placement outcomes of children being placed far from home, in congregate care, or without their siblings.
+**Create consistency to make the process fair.** Ideally, prospective caregivers should encounter the same process regardless of the state, agency, or worker that’s assessing them. Many agencies said they want consistency because inconsistent processes leave more room for bias to shape decisions. These standards provide clear guidance about the reasoning behind policies so they can be applied consistently.
 
 ## **How to stay up-to-date**
 
