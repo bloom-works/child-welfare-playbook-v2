@@ -1,0 +1,24 @@
+---
+layout: layouts/story.njk
+templateEngineOverride: md,njk
+title: New recommended licensing standards for foster caregivers
+permalink: stories/foster-caregiver-licensing-standards/
+description: Recommended standards and ready-to-use forms to help title IV-E
+  agencies license more foster caregivers who can safely meet children’s needs,
+  developed with agencies, caregivers, and former foster youth across the
+  country.
+author: Bloom Works
+date: 2026-10-22
+storyType:
+  - Blog post
+tags:
+  - story
+featured: false
+---
+When children can’t safely live with their families or relatives, they should be in a loving home with a foster caregiver in their community and with their siblings. But, burdensome and outdated licensing processes can prevent this from happening.
+
+Qualified caregivers can be denied or lost in lengthy licensing processes that focus too heavily on administrative compliance. As a result, children can be placed farther from their communities, in congregate care, and without their siblings.
+
+Licensing isn’t the only issue. Agencies also need more community resources, financial support, and trained staff, to name a few. But licensing reform is a key strategy for approving caregivers in the communities that children come from, reducing unnecessary burden so more qualified applicants complete the process, improving the quality of caregiver assessments, creating consistency to make the process fair, and creating better placements for children.
+
+To improve outcomes for caregivers and youth, we convened X child welfare agencies, Y national organizations, Z policy experts, and more than TBD caregivers, caseworkers, and former foster youth. We worked together to develop updated licensing standards \[link to PDF] and produce ready-to-use forms, templates, and implementation guidance \[link to doc.x].
