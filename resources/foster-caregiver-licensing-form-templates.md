@@ -2,6 +2,7 @@
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
 title: "Foster caregiver licensing: Form templates"
+permalink: /resources/foster-caregiver-licensing-form-templates/
 filetype: link
 tags:
   - resource
