@@ -2,6 +2,7 @@
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
 title: "Foster caregiver licensing: Crosswalk"
+permalink: /resources/foster-caregiver-licensing-crosswalk/
 filetype: link
 tags:
   - resource
