@@ -1,11 +1,10 @@
 ---
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
-title: Foster caregiver licensing standards
+title: Recommended Foster Caregiver Licensing Standards
 filetype: pdf
 tags:
   - resource
-description: National recommended standards for licensing foster caregivers,
-  including guidance on background checks, implementation, and the reasoning
-  behind each standard.
+description: The recommended foster caregiver licensing standards of national
+  organizations, with the reasoning behind them and guidance on implementation.
 ---
