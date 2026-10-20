@@ -2,6 +2,7 @@
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
 title: Recommended Foster Caregiver Licensing Standards
+permalink: /resources/foster-caregiver-licensing-standards/
 filetype: pdf
 tags:
   - resource
