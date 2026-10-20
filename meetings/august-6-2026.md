@@ -11,3 +11,5 @@ resources:
   - "Presentation: Coordinated family support in Connecticut"
 ---
 Connecticut shares their strategy for supporting families across multiple websites. They discuss the unique ways mandated reporters and professionals are educated on what is available in their local communities and across the state.
+
+This work is supported by the Doris Duke Foundation.
