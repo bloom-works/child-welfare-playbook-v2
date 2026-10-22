@@ -6,6 +6,7 @@ permalink: /resources/foster-caregiver-licensing-standards/
 filetype: pdf
 tags:
   - resource
-description: The recommended foster caregiver licensing standards of national
-  organizations, with the reasoning behind them and guidance on implementation.
+description: Recommended foster caregiver licensing standards from national
+  organizations, with the reasoning behind each standard and guidance on
+  implementation.
 ---
