@@ -1,11 +1,11 @@
 ---
 layout: layouts/resource.njk
 templateEngineOverride: md,njk
-title: "Foster caregiver licensing: Form templates"
-permalink: /resources/foster-caregiver-licensing-form-templates/
+title: Foster caregiver licensing toolkit
+permalink: /resources/foster-caregiver-licensing-toolkit/
 filetype: link
 tags:
   - resource
-description: Templates an agency can adapt for the foster caregiver licensing
-  process, with guidance for agency staff.
+description: Editable files an agency can adapt, including the text of the
+  standards, a crosswalk spreadsheet, and templates for the licensing process.
 ---
