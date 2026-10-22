@@ -16,7 +16,7 @@ tags:
 resources:
   - Recommended Foster Caregiver Licensing Standards
   - Foster caregiver licensing toolkit
-featured: false
+featured: true
 ---
 When children can’t safely live with their families or relatives, they should be in a loving home with a foster caregiver in their community and with their siblings. But, burdensome and outdated licensing processes can prevent this from happening.
 
