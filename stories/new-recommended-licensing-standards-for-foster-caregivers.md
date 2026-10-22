@@ -18,10 +18,10 @@ resources:
   - Foster caregiver licensing toolkit
 featured: true
 ---
-When children can’t safely live with their families or relatives, they should be in a loving home with a foster caregiver in their community and with their siblings. But, burdensome and outdated licensing processes can prevent this from happening.
+When children can’t safely live with their families or kin, they should live with their siblings in a loving home in their own community. But burdensome and outdated licensing processes can prevent this from happening.
 
-Qualified caregivers can be denied or lost in lengthy licensing processes that focus too heavily on administrative compliance. As a result, children can be placed farther from their communities, in congregate care, and without their siblings.
+Qualified caregivers can be turned away, or drop out of lengthy licensing processes that focus too heavily on administrative compliance. As a result, children can be placed farther from their communities, in congregate care, and apart from their siblings.
 
-Licensing isn’t the only issue. Agencies also need more community resources, financial support, and trained staff, to name a few. But licensing reform is a key strategy for approving caregivers in the communities that children come from, reducing unnecessary burden so more qualified applicants complete the process, improving the quality of caregiver assessments, creating consistency to make the process fair, and creating better placements for children.
+Licensing isn’t the only issue. Agencies also need more community resources, financial support, and trained staff, to name a few. But licensing reform is a key strategy for licensing caregivers in the communities that children come from, reducing unnecessary burden so more qualified applicants complete the process, improving the quality of caregiver assessments, creating consistency to make the process fair, and creating better placements for children.
 
 To improve outcomes for children and caregivers, we worked with 191 participants across 34 state, county, and Tribal jurisdictions, including licensing staff from 30 agencies, foster caregivers, former foster youth, and subject matter experts. Together with the ABA Center on Children and the Law, Generations United, and Think of Us, we developed [recommended licensing standards](https://childwelfareplaybook.com/resources/foster-caregiver-licensing-standards/) and a [toolkit that agencies can adapt](https://childwelfareplaybook.com/resources/foster-caregiver-licensing-toolkit/) to their licensing process.
