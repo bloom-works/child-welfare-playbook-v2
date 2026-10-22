@@ -15,7 +15,7 @@ tags:
   - story
   - caregiver-licensing
   - recruitment
-featured: true
+featured: false
 ---
 ## What we’re doing
 
